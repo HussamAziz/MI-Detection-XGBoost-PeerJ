@@ -489,14 +489,14 @@ Both authors have read and approved the final manuscript.
 %%=========================================================
 \section*{Data Availability}
 
-The de-identified clinical dataset used in this study is provided as a confidential supplemental file (labeled ``raw data'') submitted alongside this manuscript for review by the Academic Editor and peer reviewers. The dataset cannot be made publicly available due to institutional data governance policies and patient privacy restrictions of the University of Hail. The dataset is provided in CSV format and contains all variables used in the analysis. The full analysis code is publicly available at: \url{https://github.com/HussamAziz/MI-Detection-XGBoost-PeerJ} (Zenodo DOI: 10.5281/zenodo.[ZENODO\_ID]).
+The de-identified clinical dataset used in this study is publicly available at \url{https://github.com/HussamAziz/MI-Detection-XGBoost-PeerJ} (file: \texttt{diagnosis\_deidentified.csv}). The dataset is provided in CSV format and contains 2,327 hospital visits from 1,506 unique patients, including all biomarker variables (troponin, CK-MB), ICD-10 diagnosis codes, age, and visit information used in the analysis. All direct and indirect patient identifiers have been replaced with cryptographic hashes prior to publication. A copy of the dataset is also provided as a confidential supplemental file submitted alongside this manuscript for direct review by the Academic Editor and peer reviewers.
 
 %%=========================================================
 %% Code Availability
 %%=========================================================
 \section*{Code Availability}
 
-All code used in this study---including data preprocessing, temporal feature engineering, nested cross-validation, model training, threshold optimization, and figure generation---is publicly available at: \url{https://github.com/HussamAziz/MI-Detection-XGBoost-PeerJ}. A permanently archived version with a citable DOI is available via Zenodo (DOI: 10.5281/zenodo.[ZENODO\_ID]). The repository includes the Jupyter notebook \texttt{MI\_NestedCV\_4Models\_Target098.ipynb} with full reproducible code, the \LaTeX{} source files \texttt{main.tex} and \texttt{references.bib}, all figures, and a \texttt{requirements.txt} specifying all software dependencies.
+All code used in this study---including data preprocessing, temporal feature engineering, nested cross-validation, model training, threshold optimization, and figure generation---is publicly available at: \url{https://github.com/HussamAziz/MI-Detection-XGBoost-PeerJ}. The repository includes the Jupyter notebook \texttt{MI\_NestedCV\_4Models\_Target098\_ProgressOutputs.ipynb} with full reproducible code, the \LaTeX{} source files \texttt{main.tex} and \texttt{references.bib}, all high-resolution figures, and a \texttt{requirements.txt} file specifying all Python software dependencies. The repository also includes the de-identified dataset and the trained model file (\texttt{mi\_model\_patient\_nestedcv.joblib}).
 
 %%=========================================================
 %% References

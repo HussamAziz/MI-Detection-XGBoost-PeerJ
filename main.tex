@@ -99,7 +99,7 @@ The responsible deployment of ML in clinical settings requires careful considera
 Figure~\ref{fig:workflow} presents an overview of the complete methodology employed in this study, from data collection through model evaluation.
 
 % NOTE: Re-export Figure 1 at minimum 600 DPI before final submission
-\begin{figure}[ht]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=\textwidth, keepaspectratio]{fig_workflow.png}
 \caption{Workflow diagram of the proposed MI detection methodology. The pipeline includes data preprocessing, temporal feature engineering, nested cross-validation with patient-level stratification, training of four ML classifiers, threshold optimization for 98\% recall, and comprehensive model evaluation.}
@@ -302,7 +302,7 @@ All models successfully achieved the target recall of approximately 98\%. Howeve
 
 Figure~\ref{fig:model_comparison} presents a visual comparison of all four classifiers in terms of their mean recall versus mean PR-AUC performance. The scatter plot clearly shows that gradient boosting methods (XGBoost and HGB) cluster in the upper region with the highest PR-AUC values, while Logistic Regression occupies the lower left quadrant.
 
-\begin{figure}[ht]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=\linewidth]{fig_model_comparison.png}
 \caption{Model comparison showing mean PR-AUC versus mean recall for all four classifiers. XGBoost and HGB achieve the highest PR-AUC values while maintaining target recall levels.}
@@ -338,7 +338,7 @@ The optimal operating threshold was determined to be 0.17. Table~\ref{tab:confus
 
 The model correctly identified 1,312 of 1,338 MI cases while missing only 26 cases, corresponding to the target recall of 98.1\%. Among the 989 non-MI cases, 838 were correctly classified and 151 were false positives. Figure~\ref{fig:confusion_matrix} provides a visual representation of these classification results as a heatmap.
 
-\begin{figure}[ht]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=\linewidth]{fig_confusion_matrix.png}
 \caption{Confusion matrix heatmap for the final XGBoost model. The matrix shows strong diagonal dominance with 838 true negatives and 1,312 true positives, indicating excellent classification performance at the optimized threshold.}
@@ -372,7 +372,7 @@ The precision-recall (PR) curve and receiver operating characteristic (ROC) curv
 
 Figure~\ref{fig:pr_curve} presents the precision-recall curve for the final XGBoost model, demonstrating the trade-off between precision and recall at different classification thresholds. The curve maintains high precision (above 0.9) for recall values up to approximately 0.8, with a gradual decline thereafter as the model captures more true positives at the cost of increasing false positives.
 
-\begin{figure}[ht]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=\linewidth]{fig_pr_curve.png}
 \caption{Precision-recall curve for the final XGBoost model. The curve demonstrates excellent performance with high precision maintained across a wide range of recall values. The PR-AUC of 0.9845 indicates strong discriminative ability for the imbalanced classification task.}
@@ -381,7 +381,7 @@ Figure~\ref{fig:pr_curve} presents the precision-recall curve for the final XGBo
 
 Figure~\ref{fig:roc_curve} presents the receiver operating characteristic curve. The curve approaches the upper-left corner, indicating near-optimal classification performance. The ROC-AUC of 0.9804 confirms the model's excellent ability to distinguish between MI and non-MI cases across all decision thresholds.
 
-\begin{figure}[ht]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=\linewidth]{fig_roc_curve.png}
 \caption{Receiver operating characteristic (ROC) curve for the final XGBoost model. The curve demonstrates excellent discriminative performance with a ROC-AUC of 0.9804, approaching the ideal classifier behavior in the upper-left corner.}
@@ -416,7 +416,7 @@ The relationship between troponin and CK-MB biomarkers exhibits complementary pr
 
 To contextualize these findings within the broader literature, Figure~\ref{fig:comparison_prior} presents a visual comparison of ROC-AUC scores across different recent studies.
 
-\begin{figure}[ht]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=\linewidth]{fig_comparison_prior_work.png}
 \caption{Comparison of AUROC scores for myocardial infarction detection models. The proposed XGBoost model (Alshammari 2026) achieves competitive performance (0.98) compared to MI Pathways (Than 2019, 0.96)~\citep{Than2019}, CoDE-ACS (Doudesis 2023, 0.95)~\citep{Doudesis2023}, EBM (Kucukakcali 2025, 0.98)~\citep{Kucukakcali2025}, and RF Primary Care (Salet 2024, 0.96)~\citep{Salet2024}.}

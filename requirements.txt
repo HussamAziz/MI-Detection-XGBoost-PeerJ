@@ -1,0 +1,12 @@
+# Requirements for MI Detection System
+# Python 3.12+ required (tested with Python 3.12.12 on Google Colab)
+# scikit-learn version confirmed from notebook: 1.6.1
+# xgboost installed via: pip install xgboost
+
+xgboost>=1.7.0
+scikit-learn>=1.6.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0

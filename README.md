@@ -49,7 +49,7 @@ The dataset includes the following features:
 | `ckmb_delta` | Numerical | Change from previous CK-MB |
 | `ckmb_max_prior` | Numerical | Maximum prior CK-MB value |
 
-> **Ethics:** The dataset was approved by the IRB of the University of Hail (IRB Approval No. IRB-UOH-2024-CS-001). Informed consent was waived by the IRB due to the retrospective, de-identified nature of the study.
+> **Ethics:** This study was approved by the **Institutional Review Board (IRB) of the Hail Health Cluster**, Research and Studies Department, Hail Region, KSA (**IRB Log Number: 2025-13**, Category: Expedited, approved February 24, 2025). Informed consent was waived by the IRB due to the retrospective, fully de-identified nature of the study.
 
 ---
 

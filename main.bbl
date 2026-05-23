@@ -1,0 +1,162 @@
+\begin{thebibliography}{}
+
+\bibitem[Alahmadi and Alshammari, 2024]{Alahmadi2024}
+Alahmadi, T. and Alshammari, N. (2024).
+\newblock Machine learning in heart disease prediction: A systematic review.
+\newblock {\em Diagnostics}, 14(8):868.
+
+\bibitem[Amsterdam et~al., 2014]{Amsterdam2014}
+Amsterdam, E.~A., Wenger, N.~K., Brindis, R.~G., et~al. (2014).
+\newblock 2014 {AHA/ACC} guideline for the management of patients with
+  non–{ST}-elevation acute coronary syndromes.
+\newblock {\em Journal of the American College of Cardiology},
+  64(24):e139--e228.
+
+\bibitem[Attia et~al., 2019]{Attia2019}
+Attia, Z.~I., Noseworthy, P.~A., Lopez-Jimenez, F., et~al. (2019).
+\newblock An artificial intelligence-enabled {ECG} algorithm for the
+  identification of patients with atrial fibrillation during sinus rhythm.
+\newblock {\em The Lancet}, 394(10201):861--867.
+
+\bibitem[Aydin et~al., 2019]{Aydin2019}
+Aydin, S. et~al. (2019).
+\newblock Cardiac biomarkers in {Myocardial Infarction} detection.
+\newblock {\em Clinical Chemistry and Laboratory Medicine}, 57(2):173--181.
+
+\bibitem[Body et~al., 2021]{Body2021}
+Body, R., Carlton, E., Sperrin, M., et~al. (2021).
+\newblock Rapid exclusion of acute myocardial infarction in patients with
+  undetectable troponin using a high-sensitivity assay.
+\newblock {\em Journal of the American College of Cardiology},
+  58(13):1332--1339.
+
+\bibitem[Breiman, 2001]{Breiman2001}
+Breiman, L. (2001).
+\newblock Random forests.
+\newblock {\em Machine Learning}, 45(1):5--32.
+
+\bibitem[Cawley and Talbot, 2010]{Cawley2010}
+Cawley, G.~C. and Talbot, N. L.~C. (2010).
+\newblock On over-fitting in model selection and subsequent selection bias in
+  performance evaluation.
+\newblock {\em Journal of Machine Learning Research}, 11:2079--2107.
+
+\bibitem[Chapman et~al., 2020]{Chapman2020}
+Chapman, A.~R., Adamson, P.~D., Shah, A. S.~V., et~al. (2020).
+\newblock High-sensitivity cardiac troponin and the universal definition of
+  myocardial infarction.
+\newblock {\em Circulation}, 141(3):161--171.
+
+\bibitem[Chen and Guestrin, 2016]{Chen2016}
+Chen, T. and Guestrin, C. (2016).
+\newblock {XGBoost}: A scalable tree boosting system.
+\newblock In {\em Proceedings of the 22nd ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, volume~1, pages 785--794, San
+  Francisco, CA, USA. ACM.
+
+\bibitem[Collet et~al., 2021]{Collet2021}
+Collet, J.-P., Thiele, H., Barbato, E., et~al. (2021).
+\newblock 2020 {ESC} guidelines for the management of acute coronary syndromes
+  in patients presenting without persistent {ST}-segment elevation.
+\newblock {\em European Heart Journal}, 42(14):1289--1367.
+
+\bibitem[Doudesis et~al., 2023]{Doudesis2023}
+Doudesis, D., Lee, K.~K., Anand, A., et~al. (2023).
+\newblock Validation of the {CoDE-ACS} score for early diagnosis of acute
+  myocardial infarction.
+\newblock {\em European Heart Journal}, 44(47):4983--4993.
+
+\bibitem[Hicks et~al., 2022]{Hicks2022}
+Hicks, S.~A., Strümke, I., Thambawita, V., et~al. (2022).
+\newblock On evaluation metrics for medical applications of artificial
+  intelligence.
+\newblock {\em Scientific Reports}, 12(1):5979.
+
+\bibitem[Johnson et~al., 2023]{Johnson2023}
+Johnson, A. E.~W., Bulgarelli, L., Shen, L., et~al. (2023).
+\newblock {MIMIC-IV}, a freely accessible electronic health record dataset.
+\newblock {\em Scientific Data}, 10(1):1.
+
+\bibitem[Ke et~al., 2017]{Ke2017}
+Ke, G., Meng, Q., Finley, T., et~al. (2017).
+\newblock {LightGBM}: A highly efficient gradient boosting decision tree.
+\newblock {\em Advances in Neural Information Processing Systems},
+  30:3146--3154.
+
+\bibitem[Kucukakcali and Colak, 2025]{Kucukakcali2025}
+Kucukakcali, Z. and Colak, C. (2025).
+\newblock Explainable boosting machine for myocardial infarction prediction
+  using clinical biomarkers.
+\newblock {\em Journal of Medical Systems}, 49(1):12--23.
+
+\bibitem[Lundberg et~al., 2020]{Lundberg2020}
+Lundberg, S.~M., Erion, G., Chen, H., et~al. (2020).
+\newblock From local explanations to global understanding with explainable {AI}
+  for trees.
+\newblock {\em Nature Machine Intelligence}, 2(1):56--67.
+
+\bibitem[Obermeyer et~al., 2019]{Obermeyer2019}
+Obermeyer, Z., Powers, B., Vogeli, C., and Mullainathan, S. (2019).
+\newblock Dissecting racial bias in an algorithm used to manage the health of
+  populations.
+\newblock {\em Science}, 366(6464):447--453.
+
+\bibitem[Raghunath et~al., 2020]{Raghunath2020}
+Raghunath, S., Ulloa~Cerna, A.~E., Jing, L., et~al. (2020).
+\newblock Prediction of mortality from 12-lead electrocardiogram voltage data
+  using a deep neural network.
+\newblock {\em Nature Medicine}, 26(6):886--891.
+
+\bibitem[Rajkomar et~al., 2019]{Rajkomar2019}
+Rajkomar, A., Dean, J., and Kohane, I. (2019).
+\newblock Machine learning in medicine.
+\newblock {\em New England Journal of Medicine}, 380(14):1347--1358.
+
+\bibitem[Reichlin et~al., 2009]{Reichlin2009}
+Reichlin, T., Hochholzer, W., Bassetti, S., et~al. (2009).
+\newblock Early diagnosis of myocardial infarction with sensitive cardiac
+  troponin assays.
+\newblock {\em New England Journal of Medicine}, 361(9):858--867.
+
+\bibitem[Saito and Rehmsmeier, 2015]{Saito2015}
+Saito, T. and Rehmsmeier, M. (2015).
+\newblock The precision-recall plot is more informative than the {ROC} plot
+  when evaluating binary classifiers on imbalanced datasets.
+\newblock {\em PLoS ONE}, 10(3):e0118432.
+
+\bibitem[Salet et~al., 2024]{Salet2024}
+Salet, D.~M., Visser, J.~J., van~der Wulp, I., et~al. (2024).
+\newblock Machine learning for early detection of myocardial infarction in
+  primary care settings.
+\newblock {\em npj Digital Medicine}, 7(1):145--156.
+
+\bibitem[Than et~al., 2019]{Than2019}
+Than, M.~P., Pickering, J.~W., Aldous, S.~J., et~al. (2019).
+\newblock Effectiveness of {EDACS} versus {ADAPT} accelerated diagnostic
+  pathways for chest pain.
+\newblock {\em Annals of Emergency Medicine}, 74(4):489--500.
+
+\bibitem[Thygesen et~al., 2018]{Thygesen2018}
+Thygesen, K., Alpert, J.~S., Jaffe, A.~S., et~al. (2018).
+\newblock Fourth universal definition of myocardial infarction (2018).
+\newblock {\em Circulation}, 138(20):e618--e651.
+
+\bibitem[Topol, 2019]{Topol2019}
+Topol, E.~J. (2019).
+\newblock High-performance medicine: The convergence of human and artificial
+  intelligence.
+\newblock {\em Nature Medicine}, 25(1):44--56.
+
+\bibitem[Varoquaux and Cheplygina, 2022]{Varoquaux2022}
+Varoquaux, G. and Cheplygina, V. (2022).
+\newblock Machine learning for medical imaging: Methodological failures and
+  recommendations for the future.
+\newblock {\em npj Digital Medicine}, 5(1):48.
+
+\bibitem[Wiens et~al., 2019]{Wiens2019}
+Wiens, J., Saria, S., Sendak, M., et~al. (2019).
+\newblock Do no harm: A roadmap for responsible machine learning for health
+  care.
+\newblock {\em Nature Medicine}, 25(9):1337--1340.
+
+\end{thebibliography}

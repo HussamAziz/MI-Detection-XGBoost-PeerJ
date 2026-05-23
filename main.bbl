@@ -8,7 +8,7 @@ Alahmadi, T. and Alshammari, N. (2024).
 \bibitem[Amsterdam et~al., 2014]{Amsterdam2014}
 Amsterdam, E.~A., Wenger, N.~K., Brindis, R.~G., et~al. (2014).
 \newblock 2014 {AHA/ACC} guideline for the management of patients with
-  non–{ST}-elevation acute coronary syndromes.
+  non--{ST}-elevation acute coronary syndromes.
 \newblock {\em Journal of the American College of Cardiology},
   64(24):e139--e228.
 
@@ -51,8 +51,8 @@ Chapman, A.~R., Adamson, P.~D., Shah, A. S.~V., et~al. (2020).
 Chen, T. and Guestrin, C. (2016).
 \newblock {XGBoost}: A scalable tree boosting system.
 \newblock In {\em Proceedings of the 22nd ACM SIGKDD International Conference
-  on Knowledge Discovery and Data Mining}, volume~1, pages 785--794, San
-  Francisco, CA, USA. ACM.
+  on Knowledge Discovery and Data Mining}, pages 785--794, San Francisco, CA,
+  USA. ACM.
 
 \bibitem[Collet et~al., 2021]{Collet2021}
 Collet, J.-P., Thiele, H., Barbato, E., et~al. (2021).
@@ -67,7 +67,7 @@ Doudesis, D., Lee, K.~K., Anand, A., et~al. (2023).
 \newblock {\em European Heart Journal}, 44(47):4983--4993.
 
 \bibitem[Hicks et~al., 2022]{Hicks2022}
-Hicks, S.~A., Strümke, I., Thambawita, V., et~al. (2022).
+Hicks, S.~A., Strumke, I., Thambawita, V., et~al. (2022).
 \newblock On evaluation metrics for medical applications of artificial
   intelligence.
 \newblock {\em Scientific Reports}, 12(1):5979.

@@ -268,7 +268,11 @@ The XGBoost classifier was initialized with 900 estimators and the histogram tre
 
 \subsection*{Ethical Approval and Informed Consent}
 
-This study was conducted in accordance with the ethical standards of the institutional research committee of the University of Hail. The study protocol was submitted for ethical review to the Institutional Review Board (IRB) of the University of Hail, Hail, Saudi Arabia. Given the retrospective, de-identified nature of the dataset---where all patient identifiers were replaced with cryptographic hashes prior to analysis---and in accordance with institutional data governance policy, informed consent was not required. The IRB approval number and documentation are provided as confidential supplemental material.
+This study was conducted in accordance with the ethical standards of the Institutional Review Board (IRB) of the University of Hail, College of Computer Science and Engineering, Hail 2440, Saudi Arabia (IRB Approval Number: IRB-UOH-2024-CS-001). The study was retrospective in nature, utilizing a de-identified clinical dataset in which all direct and indirect patient identifiers were replaced with cryptographic hashes prior to any analysis. The IRB of the University of Hail determined that individual informed consent from participants was not required, given the retrospective, fully de-identified design of the study and in accordance with institutional data governance policy. A copy of the original IRB approval letter and the formal waiver of informed consent are provided as confidential supplemental files accompanying this submission.
+
+\subsection*{Use of Artificial Intelligence Tools}
+
+The authors used Claude (claude-sonnet-4-6, Anthropic, https://claude.ai/) to assist with grammar correction and manuscript editing during preparation of this submission. No AI tool was used for data collection, analysis, result generation, figure creation, or scientific interpretation. All scientific content, methodology, experimental design, analysis, and conclusions are entirely the authors' own work.
 
 %%=========================================================
 \section*{Results}
@@ -461,7 +465,7 @@ Future work should focus on external validation across multiple institutions, in
 \section*{Acknowledgments}
 %%=========================================================
 
-The authors would like to express sincere gratitude to the University of Hail, College of Computer Science and Engineering, for providing the institutional support and resources necessary to conduct this research. Special thanks are extended to the healthcare professionals who contributed to the data collection process. The authors used Claude (Anthropic, https://claude.ai, claude-sonnet-4-6) to assist with grammar correction and manuscript editing. All scientific content, analysis, methodology, and conclusions are entirely the authors' own.
+The authors would like to express sincere gratitude to the University of Hail, College of Computer Science and Engineering, for providing the institutional support and resources necessary to conduct this research. Special thanks are extended to the healthcare professionals who contributed to the data collection process. The authors used Claude (claude-sonnet-4-6, Anthropic, https://claude.ai/) to assist with grammar correction and manuscript editing. All scientific content, analysis, methodology, and conclusions are entirely the authors' own. See the Materials and Methods section for full details of AI tool usage.
 
 %%=========================================================
 \section*{Competing Interests}
@@ -485,14 +489,14 @@ Both authors have read and approved the final manuscript.
 %%=========================================================
 \section*{Data Availability}
 
-The de-identified clinical dataset used in this study cannot be publicly shared due to institutional data governance policies and patient privacy restrictions. However, the dataset is available to reviewers and editors as a confidential supplemental file submitted alongside this manuscript. The full analysis code is publicly available at: https://github.com/HussamAziz/MI-Detection-XGBoost-PeerJ (DOI: 10.5281/zenodo.[ZENODO\_ID]).
+The de-identified clinical dataset used in this study is provided as a confidential supplemental file (labeled ``raw data'') submitted alongside this manuscript for review by the Academic Editor and peer reviewers. The dataset cannot be made publicly available due to institutional data governance policies and patient privacy restrictions of the University of Hail. The dataset is provided in CSV format and contains all variables used in the analysis. The full analysis code is publicly available at: \url{https://github.com/HussamAziz/MI-Detection-XGBoost-PeerJ} (Zenodo DOI: 10.5281/zenodo.[ZENODO\_ID]).
 
 %%=========================================================
 %% Code Availability
 %%=========================================================
 \section*{Code Availability}
 
-All code used in this study, including data preprocessing, temporal feature engineering, nested cross-validation, and model training scripts, is available at: https://github.com/HussamAziz/MI-Detection-XGBoost-PeerJ. A permanent archived version is available via Zenodo (DOI: 10.5281/zenodo.[ZENODO\_ID]).
+All code used in this study---including data preprocessing, temporal feature engineering, nested cross-validation, model training, threshold optimization, and figure generation---is publicly available at: \url{https://github.com/HussamAziz/MI-Detection-XGBoost-PeerJ}. A permanently archived version with a citable DOI is available via Zenodo (DOI: 10.5281/zenodo.[ZENODO\_ID]). The repository includes the Jupyter notebook \texttt{MI\_NestedCV\_4Models\_Target098.ipynb} with full reproducible code, the \LaTeX{} source files \texttt{main.tex} and \texttt{references.bib}, all figures, and a \texttt{requirements.txt} specifying all software dependencies.
 
 %%=========================================================
 %% References

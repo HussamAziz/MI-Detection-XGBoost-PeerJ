@@ -1,0 +1,2328 @@
+patient_id,age,diagnosis,icd_code,date,visit_type,ckm_b,troponin
+9FC1B1AD2C4B,48,"Acute myocardial infarction, unspecified",I21.9,08/12/2021,External,37.5,0.55
+9FC1B1AD2C4B,48,"Acute myocardial infarction, unspecified",I21.9,08/12/2021,inp,37.5,0.55
+24ACDB996D39,61,"Acute myocardial infarction, unspecified",I21.9,14/12/2021,External,19.4,0.5
+24ACDB996D39,61,"Acute myocardial infarction, unspecified",I21.9,14/12/2021,inp,19.4,0.5
+892CE6765E3A,90,"Acute myocardial infarction, unspecified",I40.9,14/12/2021,inp,533.2,25
+94E0D9810ADA,48,"Acute myocardial infarction, unspecified",I21.9,15/12/2021,ER,174.3,0.33
+8115AB4669BC,44,"Acute myocardial infarction, unspecified",I21.9,19/12/2021,External,21.1,4
+8115AB4669BC,44,"Acute myocardial infarction, unspecified",I21.9,19/12/2021,inp,21.1,4
+A737D6EA08E8,52,"Acute myocardial infarction, unspecified",I21.9,23/12/2021,External,26,0.16
+A737D6EA08E8,52,"Acute myocardial infarction, unspecified",I21.9,23/12/2021,inp,26,0.16
+C4C19BE7085B,77,"Acute myocardial infarction, unspecified",I21.9,23/12/2021,External,184.1,7.85
+C4C19BE7085B,77,"Acute myocardial infarction, unspecified",I21.9,23/12/2021,inp,184.1,7.85
+7190F10307C2,50,"Acute myocardial infarction, unspecified",I21.9,25/12/2021,External,12.6,0.61
+7190F10307C2,50,"Acute myocardial infarction, unspecified",I21.9,25/12/2021,inp,12.6,0.61
+C8745E9AAE1F,61,"Acute myocardial infarction, unspecified",I21.9,27/12/2021,External,20.5,0.61
+C8745E9AAE1F,61,"Acute myocardial infarction, unspecified",I21.9,27/12/2021,inp,20.5,0.61
+106B7B8D2988,66,"Acute myocardial infarction, unspecified",I21.9,07/01/2022,External,24,0.66
+106B7B8D2988,66,"Acute myocardial infarction, unspecified",I21.9,07/01/2022,inp,24,0.66
+69EB23F2921F,73,"Acute myocardial infarction, unspecified",I21.9,09/01/2022,External,82,12.33
+69EB23F2921F,73,"Acute myocardial infarction, unspecified",I21.9,09/01/2022,inp,82,12.33
+6F790C8EABD0,57,"Acute myocardial infarction, unspecified",I21.9,16/01/2022,ER,33.9,1.64
+E57C1CD74562,51,"Acute myocardial infarction, unspecified",I21.9,19/01/2022,External,35.6,0.96
+E57C1CD74562,51,"Acute myocardial infarction, unspecified",I21.9,19/01/2022,inp,35.6,0.96
+19122BC796AF,60,"Acute myocardial infarction, unspecified",I21.9,20/01/2022,External,27.6,1.2
+19122BC796AF,60,"Acute myocardial infarction, unspecified",I21.9,20/01/2022,inp,27.6,1.2
+16D2235BEE22,44,"Acute myocardial infarction, unspecified",I21.9,21/01/2022,ER,217.5,25.00
+D8FB46D4DD4D,43,"Acute myocardial infarction, unspecified",I21.9,27/01/2022,External,22.9,1.14
+D8FB46D4DD4D,43,"Acute myocardial infarction, unspecified",I21.9,27/01/2022,inp,22.9,1.14
+73DA94320B2F,21,"Acute myocardial infarction, unspecified",I21.9,28/01/2022,External,115.5,4.82
+73DA94320B2F,21,"Acute myocardial infarction, unspecified",I21.9,28/01/2022,inp,115.5,4.82
+371891947E89,48,"Acute myocardial infarction, unspecified",I21.9,02/02/2022,External,298.7,25
+371891947E89,48,"Acute myocardial infarction, unspecified",I21.9,02/02/2022,inp,298.7,25
+ED897BAE327B,39,"Acute myocardial infarction, unspecified",I21.9,06/02/2022,External,282.1,15
+ED897BAE327B,39,"Acute myocardial infarction, unspecified",I21.9,06/02/2022,inp,282.1,15
+FA425877BDD3,47,"Acute myocardial infarction, unspecified",I21.9,07/02/2022,External,67.4,3.4
+FA425877BDD3,47,"Acute myocardial infarction, unspecified",I21.9,07/02/2022,inp,67.4,3.4
+3E940D06B007,45,"Acute myocardial infarction, unspecified",I21.9,10/02/2022,External,26.9,0.41
+3E940D06B007,45,"Acute myocardial infarction, unspecified",I21.9,10/02/2022,inp,26.9,0.41
+A3F4ED307891,73,"Acute myocardial infarction, unspecified",I21.9,15/02/2022,ER,103.01,25
+A3F4ED307891,73,"Acute myocardial infarction, unspecified",I21.9,15/02/2022,External,103.01,25
+A3F4ED307891,73,"Acute myocardial infarction, unspecified",I21.9,15/02/2022,inp,103.01,25
+D51A392C2F13,52,"Acute myocardial infarction, unspecified",I21.9,19/02/2022,ER,49.81,3.09
+4DE2ED7A328F,64,"Acute myocardial infarction, unspecified",I21.9,20/02/2022,External,9.66,2.45
+4DE2ED7A328F,64,"Acute myocardial infarction, unspecified",I21.9,20/02/2022,inp,9.66,2.45
+A512B2A4503D,52,"Acute myocardial infarction, unspecified",I21.9,23/02/2022,External,92.15,25
+A512B2A4503D,52,"Acute myocardial infarction, unspecified",I21.9,23/02/2022,inp,92.15,25
+B7AB17452FF4,50,"Acute myocardial infarction, unspecified",I21.9,25/02/2022,External,7.79,3.94
+B7AB17452FF4,50,"Acute myocardial infarction, unspecified",I21.9,25/02/2022,inp,7.79,3.94
+08E7BBF48A85,46,"Acute myocardial infarction, unspecified",I21.9,27/02/2022,ER,22.68,1.87
+08E7BBF48A85,46,"Acute myocardial infarction, unspecified",I21.9,27/02/2022,External,22.68,1.87
+08E7BBF48A85,46,"Acute myocardial infarction, unspecified",I21.9,27/02/2022,inp,22.68,1.87
+39354966C6A6,55,"Acute myocardial infarction, unspecified",I21.9,28/02/2022,External,4.19,5.37
+39354966C6A6,55,"Acute myocardial infarction, unspecified",I21.9,28/02/2022,inp,4.19,5.37
+0280ACF070C2,81,"Acute myocardial infarction, unspecified",I21.9,03/03/2022,External,97.15,25.00
+0280ACF070C2,81,"Acute myocardial infarction, unspecified",I21.9,03/03/2022,inp,97.15,25.00
+4D5B739F3722,84,"Acute myocardial infarction, unspecified",I21.9,03/03/2022,External,20.13,5.56
+4D5B739F3722,84,"Acute myocardial infarction, unspecified",I21.9,03/03/2022,inp,20.13,5.56
+656A7EFEC934,54,"Acute myocardial infarction, unspecified",I21.9,05/03/2022,External,0.8,0.02
+656A7EFEC934,54,"Acute myocardial infarction, unspecified",I21.9,05/03/2022,inp,0.8,0.02
+9A07A42A898A,79,"Acute myocardial infarction, unspecified",I21.9,05/03/2022,ER,163.21,25.0
+7FE0C1C48B61,68,"Acute myocardial infarction, unspecified",I21.9,09/03/2022,External,53.48,12.26
+7FE0C1C48B61,68,"Acute myocardial infarction, unspecified",I21.9,09/03/2022,inp,53.48,12.26
+559AE8AF4BDD,56,"Acute myocardial infarction, unspecified",I21.9,10/03/2022,External,0.32,0.02
+559AE8AF4BDD,56,"Acute myocardial infarction, unspecified",I21.9,10/03/2022,inp,0.32,0.02
+01B0133B1E77,41,"Acute myocardial infarction, unspecified",I21.9,11/03/2022,External,3.07,1.31
+01B0133B1E77,41,"Acute myocardial infarction, unspecified",I21.9,11/03/2022,inp,3.07,1.31
+3493E9559282,67,"Acute myocardial infarction, unspecified",I21.9,11/03/2022,inp,4.54,0.08
+E56EFF05C879,37,"Acute myocardial infarction, unspecified",I21.9,12/03/2022,External,96.09,14.08
+E56EFF05C879,37,"Acute myocardial infarction, unspecified",I21.9,12/03/2022,inp,96.09,14.08
+CC026AC8F214,49,"Acute myocardial infarction, unspecified",I21.9,13/03/2022,External,0.26,0.07
+CC026AC8F214,49,"Acute myocardial infarction, unspecified",I21.9,13/03/2022,inp,0.26,0.07
+9E5188C07A26,36,"Acute myocardial infarction, unspecified",I21.9,14/03/2022,External,15.83,1.54
+9E5188C07A26,36,"Acute myocardial infarction, unspecified",I21.9,14/03/2022,inp,15.83,1.54
+5D7CF9755E90,46,"Acute myocardial infarction, unspecified",I21.9,16/03/2022,External,38.01,10.28
+5D7CF9755E90,46,"Acute myocardial infarction, unspecified",I21.9,16/03/2022,inp,38.01,10.28
+4E7DAB1ED37F,60,"Acute myocardial infarction, unspecified",I21.9,17/03/2022,External,18.38,1.19
+4E7DAB1ED37F,60,"Acute myocardial infarction, unspecified",I21.9,17/03/2022,inp,18.38,1.19
+53C1096C3C8D,59,"Acute myocardial infarction, unspecified",I21.9,18/03/2022,External,20.26,7.47
+53C1096C3C8D,59,"Acute myocardial infarction, unspecified",I21.9,18/03/2022,inp,20.26,7.47
+B718BF980412,38,"Acute myocardial infarction, unspecified",I21.9,18/03/2022,ER,37.17,20.63
+8F6F32B7A9DD,86,"Acute myocardial infarction, unspecified",I21.9,19/03/2022,ER,1.24,0.02
+590FFC3E4061,38,"Acute myocardial infarction, unspecified",I21.9,19/03/2022,External,5.33,1.14
+590FFC3E4061,38,"Acute myocardial infarction, unspecified",I21.9,19/03/2022,inp,5.33,1.14
+4C329D5B511D,47,"Acute myocardial infarction, unspecified",I21.9,19/03/2022,External,20.64,0.0
+4C329D5B511D,47,"Acute myocardial infarction, unspecified",I21.9,19/03/2022,inp,20.64,0.0
+B58EDD6E3958,70,"Acute myocardial infarction, unspecified",I21.9,22/03/2022,External,0.89,0.19
+B58EDD6E3958,70,"Acute myocardial infarction, unspecified",I21.9,22/03/2022,inp,0.89,0.19
+10B59B250487,61,"Acute myocardial infarction, unspecified",I21.9,22/03/2022,ER,24.61,1.47
+3AC2514B4306,66,"Acute myocardial infarction, unspecified",I21.9,22/03/2022,ER,22.17,2.69
+3AC2514B4306,66,"Acute myocardial infarction, unspecified",I21.9,22/03/2022,External,22.17,2.69
+3AC2514B4306,66,"Acute myocardial infarction, unspecified",I21.9,22/03/2022,inp,22.17,2.69
+70A7B37A4994,54,"Acute myocardial infarction, unspecified",I21.9,23/03/2022,External,1.45,0.17
+70A7B37A4994,54,"Acute myocardial infarction, unspecified",I21.9,23/03/2022,inp,1.45,0.17
+9A69C8F64752,75,"Acute myocardial infarction, unspecified",I21.9,25/03/2022,External,21.96,6.09
+9A69C8F64752,75,"Acute myocardial infarction, unspecified",I21.9,25/03/2022,inp,21.96,6.09
+14FC0EA9703E,51,"Acute myocardial infarction, unspecified",I21.9,25/03/2022,External,28.99,10.54
+14FC0EA9703E,51,"Acute myocardial infarction, unspecified",I21.9,25/03/2022,inp,28.99,10.54
+3810C7671163,81,"Acute myocardial infarction, unspecified",I21.9,25/03/2022,External,1.33,0.16
+3810C7671163,81,"Acute myocardial infarction, unspecified",I21.9,25/03/2022,inp,1.33,0.16
+E437BCE67934,74,"Acute myocardial infarction, unspecified",I21.9,26/03/2022,inp,1.22,0.02
+60AE2757AA8B,52,"Acute myocardial infarction, unspecified",I21.9,26/03/2022,External,14.01,0.56
+60AE2757AA8B,52,"Acute myocardial infarction, unspecified",I21.9,26/03/2022,inp,14.01,0.56
+D7FDCA26298D,46,"Acute myocardial infarction, unspecified",I21.9,29/03/2022,External,96.6,9624.9
+D7FDCA26298D,46,"Acute myocardial infarction, unspecified",I21.9,29/03/2022,inp,96.6,9624.9
+33DC46E09C55,86,"Acute myocardial infarction, unspecified",I21.9,30/03/2022,External,10.29,0.3
+33DC46E09C55,86,"Acute myocardial infarction, unspecified",I21.9,30/03/2022,inp,10.29,0.3
+13DF2746291C,60,"Acute myocardial infarction, unspecified",I21.9,01/04/2022,External,7.3,0.0
+13DF2746291C,60,"Acute myocardial infarction, unspecified",I21.9,01/04/2022,inp,7.3,0.0
+1DEC8DE8B6FE,55,"Acute myocardial infarction, unspecified",I21.9,06/04/2022,ER,6.94,0.46
+0C4C06E7142B,89,"Acute myocardial infarction, unspecified",I21.9,07/04/2022,External,4.79,0.13
+0C4C06E7142B,89,"Acute myocardial infarction, unspecified",I21.9,07/04/2022,inp,4.79,0.13
+B21C56F626A3,64,"Acute myocardial infarction, unspecified",I21.9,09/04/2022,External,32.58,3.15
+B21C56F626A3,64,"Acute myocardial infarction, unspecified",I21.9,09/04/2022,inp,32.58,3.15
+B82FA177B084,42,"Acute myocardial infarction, unspecified",I21.9,10/04/2022,External,34.8,5636.8
+B82FA177B084,42,"Acute myocardial infarction, unspecified",I21.9,10/04/2022,inp,34.8,5636.8
+455BC05E7869,58,"Acute myocardial infarction, unspecified",I21.9,11/04/2022,External,22.1,105.8
+455BC05E7869,58,"Acute myocardial infarction, unspecified",I21.9,11/04/2022,inp,22.1,105.8
+F74E5DFA59B4,54,"Acute myocardial infarction, unspecified",I21.9,11/04/2022,External,296.2,39932.8
+F74E5DFA59B4,54,"Acute myocardial infarction, unspecified",I21.9,11/04/2022,inp,296.2,39932.8
+C51B980368F7,79,"Acute myocardial infarction, unspecified",I21.9,13/04/2022,External,61.6,25
+C51B980368F7,79,"Acute myocardial infarction, unspecified",I21.9,13/04/2022,inp,61.6,25
+2298A74AB183,68,"Acute myocardial infarction, unspecified",I21.9,16/04/2022,External,3.61,0.99
+2298A74AB183,68,"Acute myocardial infarction, unspecified",I21.9,16/04/2022,inp,3.61,0.99
+6F513D3B2087,62,"Acute myocardial infarction, unspecified",I21.9,21/04/2022,External,6.55,1.16
+6F513D3B2087,62,"Acute myocardial infarction, unspecified",I21.9,21/04/2022,inp,6.55,1.16
+88CCBF82DB12,63,"Acute myocardial infarction, unspecified",I21.9,28/04/2022,External,19,5265.8
+88CCBF82DB12,63,"Acute myocardial infarction, unspecified",I21.9,28/04/2022,inp,19,5265.8
+23BDFCC12E8A,59,"Acute myocardial infarction, unspecified",I21.9,04/05/2022,External,3.85,0.12
+23BDFCC12E8A,59,"Acute myocardial infarction, unspecified",I21.9,04/05/2022,inp,3.85,0.12
+CB1C506D7A2A,40,"Acute myocardial infarction, unspecified",I21.9,05/05/2022,External,38.74,0.48
+CB1C506D7A2A,40,"Acute myocardial infarction, unspecified",I21.9,05/05/2022,inp,38.74,0.48
+F2B9CFD00DF7,55,"Acute myocardial infarction, unspecified",I21.9,15/05/2022,ER,4.39,0.64
+F2B9CFD00DF7,55,"Acute myocardial infarction, unspecified",I21.9,15/05/2022,External,4.39,0.64
+F2B9CFD00DF7,55,"Acute myocardial infarction, unspecified",I21.9,15/05/2022,inp,4.39,0.64
+A7469149507B,69,"Acute myocardial infarction, unspecified",I21.9,16/05/2022,External,13.4,0.15
+A7469149507B,69,"Acute myocardial infarction, unspecified",I21.9,16/05/2022,inp,13.4,0.15
+F70F7B540CD7,46,"Acute myocardial infarction, unspecified",I21.9,17/05/2022,External,30.44,1.22
+F70F7B540CD7,46,"Acute myocardial infarction, unspecified",I21.9,17/05/2022,inp,30.44,1.22
+8077E0570AEF,76,"Acute myocardial infarction, unspecified",I21.9,18/05/2022,External,23.57,1.25
+8077E0570AEF,76,"Acute myocardial infarction, unspecified",I21.9,18/05/2022,inp,23.57,1.25
+2A7FEBFAC342,48,"Acute myocardial infarction, unspecified",I21.9,19/05/2022,ER,3.68,0.31
+09C0D78700C0,48,"Acute myocardial infarction, unspecified",I21.9,21/05/2022,ER,13.2,25
+2EE070C56015,65,"Acute myocardial infarction, unspecified",I21.9,24/05/2022,inp,10.67,0.44
+A260B6F214B2,54,"Acute myocardial infarction, unspecified",I21.9,12/06/2022,External,21.1,0.75
+A260B6F214B2,54,"Acute myocardial infarction, unspecified",I21.9,12/06/2022,inp,21.1,0.75
+D70283D85C81,43,"Acute myocardial infarction, unspecified",I21.9,20/06/2022,External,2.64,0.083
+D70283D85C81,43,"Acute myocardial infarction, unspecified",I21.9,20/06/2022,inp,2.64,0.083
+7F6695BDC706,79,"Acute myocardial infarction, unspecified",I21.9,02/07/2022,External,45.05,5.8
+7F6695BDC706,79,"Acute myocardial infarction, unspecified",I21.9,02/07/2022,inp,45.05,5.8
+A8FBBDFB38F0,63,"Acute myocardial infarction, unspecified",I21.9,04/07/2022,External,32.22,1.3
+A8FBBDFB38F0,63,"Acute myocardial infarction, unspecified",I21.9,04/07/2022,inp,32.22,1.3
+BA0FED6569E5,71,"Acute myocardial infarction, unspecified",I21.9,08/07/2022,ER,38.66,25
+C07B273302A6,78,"Acute myocardial infarction, unspecified",I21.9,20/07/2022,External,19.94,2.63
+C07B273302A6,78,"Acute myocardial infarction, unspecified",I21.9,20/07/2022,inp,19.94,2.63
+139440C890CD,65,"Acute myocardial infarction, unspecified",I21.9,20/07/2022,External,11.17,15.96
+139440C890CD,65,"Acute myocardial infarction, unspecified",I21.9,20/07/2022,inp,11.17,15.96
+565715BE05B1,49,"Acute myocardial infarction, unspecified",I21.9,21/07/2022,External,3.03,0.31
+565715BE05B1,49,"Acute myocardial infarction, unspecified",I21.9,21/07/2022,inp,3.03,0.31
+4663ACE335F9,58,"Acute myocardial infarction, unspecified",I21.9,24/07/2022,External,166.87,25
+4663ACE335F9,58,"Acute myocardial infarction, unspecified",I21.9,24/07/2022,inp,166.87,25
+03558440B752,45,"Acute myocardial infarction, unspecified",I21.9,24/07/2022,ER,300,25
+7352FC7DE2D3,66,"Acute myocardial infarction, unspecified",I21.9,26/07/2022,ER,7.05,25
+A0D7130C4216,61,"Acute myocardial infarction, unspecified",I21.9,31/07/2022,External,2.4,2.01
+A0D7130C4216,61,"Acute myocardial infarction, unspecified",I21.9,31/07/2022,inp,2.4,2.01
+5B1A0783C468,70,"Acute myocardial infarction, unspecified",I21.9,01/08/2022,External,22.6,0.78
+5B1A0783C468,70,"Acute myocardial infarction, unspecified",I21.9,01/08/2022,inp,22.6,0.78
+31D6EC06B2AD,70,"Acute myocardial infarction, unspecified",I21.9,03/08/2022,External,18.68,6.74
+31D6EC06B2AD,70,"Acute myocardial infarction, unspecified",I21.9,03/08/2022,inp,18.68,6.74
+FA92622817D8,59,"Acute myocardial infarction, unspecified",I21.9,05/08/2022,External,1.96,0.41
+FA92622817D8,59,"Acute myocardial infarction, unspecified",I21.9,05/08/2022,inp,1.96,0.41
+EBB2D7DF02F2,63,"Acute myocardial infarction, unspecified",I21.9,08/08/2022,External,36.34,20.14
+EBB2D7DF02F2,63,"Acute myocardial infarction, unspecified",I21.9,08/08/2022,inp,36.34,20.14
+96D3FFC472C9,45,"Acute myocardial infarction, unspecified",I21.9,11/08/2022,External,267.6,12
+96D3FFC472C9,45,"Acute myocardial infarction, unspecified",I21.9,11/08/2022,inp,267.6,12
+C3DA80EBAB7D,81,"Acute myocardial infarction, unspecified",I21.9,16/08/2022,ER,73.5,7.7
+1EA89FFF281C,49,"Acute myocardial infarction, unspecified",I21.9,20/08/2022,ER,30,0.24
+E3D679661C79,43,"Acute myocardial infarction, unspecified",I21.9,21/08/2022,inp,18.3,2.34
+10DC1C389CC1,52,"Acute myocardial infarction, unspecified",I21.9,25/08/2022,External,1.54,0.28
+10DC1C389CC1,52,"Acute myocardial infarction, unspecified",I21.9,25/08/2022,inp,1.54,0.28
+C414CBEB8AA8,48,"Acute myocardial infarction, unspecified",I21.9,28/08/2022,ER,173.8,2
+83B50AF2B408,51,"Acute myocardial infarction, unspecified",I21.9,28/08/2022,inp,37.1,4.3
+DF025B01B586,35,"Acute myocardial infarction, unspecified",I21.9,29/08/2022,External,17.79,5.55
+DF025B01B586,35,"Acute myocardial infarction, unspecified",I21.9,29/08/2022,inp,17.79,5.55
+7F49D17B9A21,58,"Acute myocardial infarction, unspecified",I21.9,04/09/2022,ER,71.4,25
+7CFABD5DFC9E,63,"Acute myocardial infarction, unspecified",I21.9,11/09/2022,External,29.9,0.083
+7CFABD5DFC9E,63,"Acute myocardial infarction, unspecified",I21.9,11/09/2022,inp,29.9,0.083
+9E8F7EA2FBD6,57,"Acute myocardial infarction, unspecified",I21.9,12/09/2022,External,26.7,0.014
+9E8F7EA2FBD6,57,"Acute myocardial infarction, unspecified",I21.9,12/09/2022,inp,26.7,0.014
+929189F0B60A,46,"Acute myocardial infarction, unspecified",I21.9,17/09/2022,ER,54.3,0.01
+7143EAC36D18,54,"Acute myocardial infarction, unspecified",I21.9,17/09/2022,ER,312.1,3.1
+4CD03AE5FBD9,79,"Acute myocardial infarction, unspecified",I21.9,18/09/2022,inp,45.16,20.13
+BE3B63519998,68,"Acute myocardial infarction, unspecified",I21.9,24/09/2022,External,7.4,0.088
+BE3B63519998,68,"Acute myocardial infarction, unspecified",I21.9,24/09/2022,inp,7.4,0.088
+463C85814F01,56,"Acute myocardial infarction, unspecified",I21.9,26/09/2022,External,29,0.030
+463C85814F01,56,"Acute myocardial infarction, unspecified",I21.9,26/09/2022,inp,29,0.030
+4812E567BDEB,52,"Acute myocardial infarction, unspecified",I21.9,30/09/2022,ER,37.5,0.17
+5B2410F57129,47,"Acute myocardial infarction, unspecified",I21.9,01/10/2022,External,36.5,0.91
+5B2410F57129,47,"Acute myocardial infarction, unspecified",I21.9,01/10/2022,inp,36.5,0.91
+AB585B019878,55,"Acute myocardial infarction, unspecified",I21.9,01/10/2022,ER,755.7,25
+570B9FEC20DB,58,"Acute myocardial infarction, unspecified",I21.9,02/10/2022,External,29.3,2.54
+570B9FEC20DB,58,"Acute myocardial infarction, unspecified",I21.9,02/10/2022,inp,29.3,2.54
+B8EC1C60EF7C,35,"Acute myocardial infarction, unspecified",I21.9,04/10/2022,ER,30,25
+5A11C7EEC05E,79,"Acute myocardial infarction, unspecified",I21.9,04/10/2022,External,57.2,1.4
+5A11C7EEC05E,79,"Acute myocardial infarction, unspecified",I21.9,04/10/2022,inp,57.2,1.4
+F48CF7D6F9E5,43,"Acute myocardial infarction, unspecified",I21.9,19/10/2022,External,53.9,1.96
+F48CF7D6F9E5,43,"Acute myocardial infarction, unspecified",I21.9,19/10/2022,inp,53.9,1.96
+0875352032CD,88,"Acute myocardial infarction, unspecified",I21.9,25/10/2022,ER,8.39,25
+78AA7A70319B,60,"Acute myocardial infarction, unspecified",I21.9,28/10/2022,External,3.02,0.68
+78AA7A70319B,60,"Acute myocardial infarction, unspecified",I21.9,28/10/2022,inp,3.02,0.68
+1D1D94B48BAD,64,"Acute myocardial infarction, unspecified",I21.9,28/10/2022,External,15.08,2
+1D1D94B48BAD,64,"Acute myocardial infarction, unspecified",I21.9,28/10/2022,inp,15.08,2
+863B4FC4D13E,53,"Acute myocardial infarction, unspecified",I21.9,31/10/2022,External,7.83,2.17
+863B4FC4D13E,53,"Acute myocardial infarction, unspecified",I21.9,31/10/2022,inp,7.83,2.17
+14D2D5C143BF,69,"Acute myocardial infarction, unspecified",I21.9,01/11/2022,External,64.62,18.76
+14D2D5C143BF,69,"Acute myocardial infarction, unspecified",I21.9,01/11/2022,inp,64.62,18.76
+ECA58CDB9688,69,"Acute myocardial infarction, unspecified",I21.9,03/11/2022,External,46.6,2.4
+ECA58CDB9688,69,"Acute myocardial infarction, unspecified",I21.9,03/11/2022,inp,46.6,2.4
+7C387468E53F,66,"Acute myocardial infarction, unspecified",I21.9,07/11/2022,External,12.6,0.024
+7C387468E53F,66,"Acute myocardial infarction, unspecified",I21.9,07/11/2022,inp,12.6,0.024
+CB97FAC8C8FC,45,"Acute myocardial infarction, unspecified",I21.9,18/11/2022,External,278.1,13
+CB97FAC8C8FC,45,"Acute myocardial infarction, unspecified",I21.9,18/11/2022,inp,278.1,13
+7EA7EFDBC749,41,"Acute myocardial infarction, unspecified",I21.9,23/11/2022,External,0.15,0.015
+7EA7EFDBC749,41,"Acute myocardial infarction, unspecified",I21.9,23/11/2022,inp,0.15,0.015
+12D823A67410,77,"Acute myocardial infarction, unspecified",I21.9,25/11/2022,ER,19.8,7.3
+285EFD160B47,76,"Acute myocardial infarction, unspecified",I21.9,30/11/2022,External,5.06,0.63
+285EFD160B47,76,"Acute myocardial infarction, unspecified",I21.9,30/11/2022,inp,5.06,0.63
+F5548303CA34,63,"Acute myocardial infarction, unspecified",I21.9,01/12/2022,External,433.7,25
+F5548303CA34,63,"Acute myocardial infarction, unspecified",I21.9,01/12/2022,inp,433.7,25
+E571E86EFB78,41,"Acute myocardial infarction, unspecified",I21.9,05/12/2022,External,9.1,0.35
+E571E86EFB78,41,"Acute myocardial infarction, unspecified",I21.9,05/12/2022,inp,9.1,0.35
+3EB2AFE06D4A,65,"Acute myocardial infarction, unspecified",I21.9,10/12/2022,External,226.15,25
+3EB2AFE06D4A,65,"Acute myocardial infarction, unspecified",I21.9,10/12/2022,inp,226.15,25
+D202243C043F,52,"Acute myocardial infarction, unspecified",I21.9,16/12/2022,ER,97.5,0.9
+F213CC4734BE,87,"Acute myocardial infarction, unspecified",I21.9,16/12/2022,ER,24.9,0.016
+3959790C063E,82,"Acute myocardial infarction, unspecified",I21.9,17/12/2022,External,95.6,1.1
+3959790C063E,82,"Acute myocardial infarction, unspecified",I21.9,17/12/2022,inp,95.6,1.1
+3959790C063E,82,"Acute myocardial infarction, unspecified",I21.9,18/12/2022,External,61.8,0.76
+3959790C063E,82,"Acute myocardial infarction, unspecified",I21.9,18/12/2022,inp,61.8,0.76
+1EC0071A1AF0,55,"Acute myocardial infarction, unspecified",I21.9,18/12/2022,ER,29,0.026
+A104ED1428B2,57,"Acute myocardial infarction, unspecified",I21.9,22/12/2022,External,21.16,1.85
+A104ED1428B2,57,"Acute myocardial infarction, unspecified",I21.9,22/12/2022,inp,21.16,1.85
+DA0F19B5107F,57,"Acute myocardial infarction, unspecified",I21.9,25/12/2022,External,431.8,25
+DA0F19B5107F,57,"Acute myocardial infarction, unspecified",I21.9,25/12/2022,inp,431.8,25
+5ED5CBF7085B,57,"Acute myocardial infarction, unspecified",I21.9,26/12/2022,External,23.43,6.68
+5ED5CBF7085B,57,"Acute myocardial infarction, unspecified",I21.9,26/12/2022,inp,23.43,6.68
+66C39004639A,39,"Acute myocardial infarction, unspecified",I21.9,31/12/2022,External,21.37,25
+66C39004639A,39,"Acute myocardial infarction, unspecified",I21.9,31/12/2022,inp,21.37,25
+4EC2C882D53B,56,"Acute myocardial infarction, unspecified",I21.9,03/01/2023,ER,2.97,0.037
+D0C671E33D05,50,"Acute myocardial infarction, unspecified",I21.9,04/01/2023,ER,13.66,25
+BD9196C24D32,53,"Acute myocardial infarction, unspecified",I21.9,07/01/2023,External,10.88,18
+BD9196C24D32,53,"Acute myocardial infarction, unspecified",I21.9,07/01/2023,inp,10.88,18
+83567F5C5EBA,52,"Acute myocardial infarction, unspecified",I21.9,07/01/2023,External,2.39,25
+83567F5C5EBA,52,"Acute myocardial infarction, unspecified",I21.9,07/01/2023,inp,2.39,25
+7932A573E5EA,56,"Acute myocardial infarction, unspecified",I21.9,08/01/2023,ER,30.1,25
+6BB56C04983E,52,"Acute myocardial infarction, unspecified",I21.9,09/01/2023,ER,2.91,0.37
+C9BCAB052662,45,"Acute myocardial infarction, unspecified",I21.9,09/01/2023,ER,29.97,25
+66E5D98031AA,66,"Acute myocardial infarction, unspecified",I21.9,12/01/2023,External,3.93,456.93
+66E5D98031AA,66,"Acute myocardial infarction, unspecified",I21.9,12/01/2023,inp,3.93,456.93
+A4B1593E43BF,84,"Acute myocardial infarction, unspecified",I21.9,14/01/2023,ER,1.22,0.01
+1A79CF6F308F,92,"Acute myocardial infarction, unspecified",I21.9,15/01/2023,External,85.84,25
+1A79CF6F308F,92,"Acute myocardial infarction, unspecified",I21.9,15/01/2023,inp,85.84,25
+E5D76CFD6F1E,74,"Acute myocardial infarction, unspecified",I21.9,16/01/2023,ER,17.8,2.3
+1870309E12B7,80,"Acute myocardial infarction, unspecified",I21.9,18/01/2023,External,14.99,14.09
+1870309E12B7,80,"Acute myocardial infarction, unspecified",I21.9,18/01/2023,inp,14.99,14.09
+BDB781EFA66C,68,"Acute myocardial infarction, unspecified",I21.9,20/01/2023,ER,0.6,0.08
+BDB781EFA66C,68,"Acute myocardial infarction, unspecified",I21.9,20/01/2023,External,0.6,0.08
+BDB781EFA66C,68,"Acute myocardial infarction, unspecified",I21.9,20/01/2023,inp,0.6,0.08
+63FD610D7F3F,41,"Acute myocardial infarction, unspecified",I21.9,21/01/2023,External,14.34,25
+63FD610D7F3F,41,"Acute myocardial infarction, unspecified",I21.9,21/01/2023,inp,14.34,25
+C93AB058F8D1,69,"Acute myocardial infarction, unspecified",I21.9,29/01/2023,External,2.19,3.43
+C93AB058F8D1,69,"Acute myocardial infarction, unspecified",I21.9,29/01/2023,inp,2.19,3.43
+5276E27AE99C,64,"Acute myocardial infarction, unspecified",I21.9,29/01/2023,ER,11.28,25
+979F66DE5F39,57,"Acute myocardial infarction, unspecified",I21.9,30/01/2023,External,20.2,0.47
+979F66DE5F39,57,"Acute myocardial infarction, unspecified",I21.9,30/01/2023,inp,20.2,0.47
+44FBA555034C,61,"Acute myocardial infarction, unspecified",I21.9,04/02/2023,ER,300,25
+295E2A36AB19,81,"Acute myocardial infarction, unspecified",I21.9,06/02/2023,inp,8.46,3.33
+B9263F99EE39,76,"Acute myocardial infarction, unspecified",I21.9,07/02/2023,External,47.83,7.63
+B9263F99EE39,76,"Acute myocardial infarction, unspecified",I21.9,07/02/2023,inp,47.83,7.63
+507334683905,81,"Acute myocardial infarction, unspecified",I21.9,11/02/2023,External,0.62,0.01
+507334683905,81,"Acute myocardial infarction, unspecified",I21.9,11/02/2023,inp,0.62,0.01
+BF15B011F79A,64,"Acute myocardial infarction, unspecified",I21.9,11/02/2023,ER,0.7,0.25
+4A2FCE811C44,62,"Acute myocardial infarction, unspecified",I21.9,11/02/2023,External,7.92,0.25
+4A2FCE811C44,62,"Acute myocardial infarction, unspecified",I21.9,11/02/2023,inp,7.92,0.25
+407E31CFAA3F,75,"Acute myocardial infarction, unspecified",I21.9,13/02/2023,External,4.85,0.18
+407E31CFAA3F,75,"Acute myocardial infarction, unspecified",I21.9,13/02/2023,inp,4.85,0.18
+DAF2CAE0839C,51,"Acute myocardial infarction, unspecified",I21.9,14/02/2023,External,1.45,0.29
+DAF2CAE0839C,51,"Acute myocardial infarction, unspecified",I21.9,14/02/2023,inp,1.45,0.29
+6EA17C74508F,52,"Acute myocardial infarction, unspecified",I21.9,14/02/2023,External,45.82,10.95
+6EA17C74508F,52,"Acute myocardial infarction, unspecified",I21.9,14/02/2023,inp,45.82,10.95
+2F89A5D9E149,47,"Acute myocardial infarction, unspecified",I21.9,19/02/2023,ER,300,25
+BA1C4BB9E0BC,62,"Acute myocardial infarction, unspecified",I21.9,21/02/2023,inp,2.84,0.18
+DFB192F591F5,61,"Acute myocardial infarction, unspecified",I21.9,21/02/2023,External,5.42,1.26
+DFB192F591F5,61,"Acute myocardial infarction, unspecified",I21.9,21/02/2023,inp,5.42,1.26
+4BF1AE077872,51,"Acute myocardial infarction, unspecified",I21.9,22/02/2023,ER,5.67,3.19
+B4430A3CC958,51,"Acute myocardial infarction, unspecified",I21.9,27/02/2023,inp,9,0.01
+88253BFE9A40,69,"Acute myocardial infarction, unspecified",I21.9,27/02/2023,External,17,0.93
+88253BFE9A40,69,"Acute myocardial infarction, unspecified",I21.9,27/02/2023,inp,17,0.93
+836014DF9D11,69,"Acute myocardial infarction, unspecified",I21.9,05/03/2023,External,30.9,20.15
+836014DF9D11,69,"Acute myocardial infarction, unspecified",I21.9,05/03/2023,inp,30.9,20.15
+47D26A220E59,64,"Acute myocardial infarction, unspecified",I21.9,10/03/2023,External,18.2,0.01
+47D26A220E59,64,"Acute myocardial infarction, unspecified",I21.9,10/03/2023,inp,18.2,0.01
+C79B5F0ED77B,58,"Acute myocardial infarction, unspecified",I21.9,10/03/2023,External,28,0.77
+C79B5F0ED77B,58,"Acute myocardial infarction, unspecified",I21.9,10/03/2023,inp,28,0.77
+523616A10126,52,"Acute myocardial infarction, unspecified",I21.9,12/03/2023,External,21.3,2.45
+523616A10126,52,"Acute myocardial infarction, unspecified",I21.9,12/03/2023,inp,21.3,2.45
+3B128555544F,41,"Acute myocardial infarction, unspecified",I21.9,12/03/2023,External,204,2
+3B128555544F,41,"Acute myocardial infarction, unspecified",I21.9,12/03/2023,inp,204,2
+E080EBD7B25C,78,"Acute myocardial infarction, unspecified",I21.9,13/03/2023,ER,116.07,25
+9127864D140F,46,"Acute myocardial infarction, unspecified",I21.9,17/03/2023,ER,229.15,25
+41303F1BD8CA,63,"Acute myocardial infarction, unspecified",I21.9,21/03/2023,ER,194.8,25
+62125653BA08,57,"Acute myocardial infarction, unspecified",I21.9,24/03/2023,External,66.58,19.96
+62125653BA08,57,"Acute myocardial infarction, unspecified",I21.9,24/03/2023,inp,66.58,19.96
+1970F891C1A8,51,"Acute myocardial infarction, unspecified",I21.9,25/03/2023,ER,102.06,25
+D107E1F0170B,67,"Acute myocardial infarction, unspecified",I21.9,27/03/2023,inp,72.11,2.2
+CC943774E973,65,"Acute myocardial infarction, unspecified",I21.9,04/04/2023,ER,15.9,0.1
+DFD1D31BA31F,68,"Acute myocardial infarction, unspecified",I21.9,05/04/2023,External,27,3.59
+DFD1D31BA31F,68,"Acute myocardial infarction, unspecified",I21.9,05/04/2023,inp,27,3.59
+15DD1E38A922,66,"Acute myocardial infarction, unspecified",I21.9,07/04/2023,External,5.7,0.12
+15DD1E38A922,66,"Acute myocardial infarction, unspecified",I21.9,07/04/2023,inp,5.7,0.12
+6F790C8EABD0,57,"Acute myocardial infarction, unspecified",I21.9,07/04/2023,External,7.4,1.47
+6F790C8EABD0,57,"Acute myocardial infarction, unspecified",I21.9,07/04/2023,inp,7.4,1.47
+F4431AC13309,52,"Acute myocardial infarction, unspecified",I21.9,09/04/2023,External,37.9,1.07
+F4431AC13309,52,"Acute myocardial infarction, unspecified",I21.9,09/04/2023,inp,37.9,1.07
+401CDF06E869,60,"Acute myocardial infarction, unspecified",I21.9,10/04/2023,ER,27.3,0.67
+D15CCBD1044F,55,"Acute myocardial infarction, unspecified",I21.9,13/04/2023,External,89.2,21.58
+D15CCBD1044F,55,"Acute myocardial infarction, unspecified",I21.9,13/04/2023,inp,89.2,21.58
+2949AE27D01F,75,"Acute myocardial infarction, unspecified",I21.9,13/04/2023,External,172.4,8.02
+2949AE27D01F,75,"Acute myocardial infarction, unspecified",I21.9,13/04/2023,inp,172.4,8.02
+544E46199CDC,52,"Acute myocardial infarction, unspecified",I21.9,14/04/2023,External,102.8,25
+544E46199CDC,52,"Acute myocardial infarction, unspecified",I21.9,14/04/2023,inp,102.8,25
+03170B93C861,51,"Acute myocardial infarction, unspecified",I21.9,16/04/2023,External,21.4,0.12
+03170B93C861,51,"Acute myocardial infarction, unspecified",I21.9,16/04/2023,inp,21.4,0.12
+28B55BC36AFC,71,"Acute myocardial infarction, unspecified",I21.9,17/04/2023,External,42.8,14.94
+28B55BC36AFC,71,"Acute myocardial infarction, unspecified",I21.9,17/04/2023,inp,42.8,14.94
+3BA81144B768,54,"Acute myocardial infarction, unspecified",I21.9,22/04/2023,ER,46.5,25
+9EA888ED7CDE,54,"Acute myocardial infarction, unspecified",I21.9,23/04/2023,External,72.2,17.03
+9EA888ED7CDE,54,"Acute myocardial infarction, unspecified",I21.9,23/04/2023,inp,72.2,17.03
+D348B7513057,53,"Acute myocardial infarction, unspecified",I21.9,24/04/2023,External,24.3,2.58
+D348B7513057,53,"Acute myocardial infarction, unspecified",I21.9,24/04/2023,inp,24.3,2.58
+E79E6F0F325E,58,"Acute myocardial infarction, unspecified",I21.9,25/04/2023,ER,24.9,0.0
+9CAF42C1CECD,68,"Acute myocardial infarction, unspecified",I21.9,28/04/2023,External,92.1,25
+9CAF42C1CECD,68,"Acute myocardial infarction, unspecified",I21.9,28/04/2023,inp,92.1,25
+618C293A681E,63,"Acute myocardial infarction, unspecified",I21.9,29/04/2023,External,38.7,14.67
+618C293A681E,63,"Acute myocardial infarction, unspecified",I21.9,29/04/2023,inp,38.7,14.67
+ACCFF05D249A,61,"Acute myocardial infarction, unspecified",I21.9,30/04/2023,ER,56.9,13.98
+C69254EF52F3,52,"Acute myocardial infarction, unspecified",I21.9,02/05/2023,External,12.9,5.68
+C69254EF52F3,52,"Acute myocardial infarction, unspecified",I21.9,02/05/2023,inp,12.9,5.68
+BA9E04DABC6A,76,"Acute myocardial infarction, unspecified",I21.9,02/05/2023,External,61.2,3.95
+BA9E04DABC6A,76,"Acute myocardial infarction, unspecified",I21.9,02/05/2023,inp,61.2,3.95
+50C7A9811AA6,55,"Acute myocardial infarction, unspecified",I21.9,04/05/2023,External,24.3,8.18
+50C7A9811AA6,55,"Acute myocardial infarction, unspecified",I21.9,04/05/2023,inp,24.3,8.18
+F297DAEF219D,43,"Acute myocardial infarction, unspecified",I21.9,05/05/2023,ER,23.1,2.81
+339A844F485D,82,"Acute myocardial infarction, unspecified",I21.9,08/05/2023,External,18.4,0.04
+339A844F485D,82,"Acute myocardial infarction, unspecified",I21.9,08/05/2023,inp,18.4,0.04
+003E93CE2B0E,57,"Acute myocardial infarction, unspecified",I21.9,11/05/2023,External,23.2,0.49
+003E93CE2B0E,57,"Acute myocardial infarction, unspecified",I21.9,11/05/2023,inp,23.2,0.49
+CA7728766052,59,"Acute myocardial infarction, unspecified",I21.9,17/05/2023,External,72.3,24.35
+CA7728766052,59,"Acute myocardial infarction, unspecified",I21.9,17/05/2023,inp,72.3,24.35
+181BB55BBC31,38,"Acute myocardial infarction, unspecified",I21.9,20/05/2023,External,22.8,3.84
+181BB55BBC31,38,"Acute myocardial infarction, unspecified",I21.9,20/05/2023,inp,22.8,3.84
+8CA9B267C316,83,"Acute myocardial infarction, unspecified",I21.9,23/05/2023,ER,286.1,25
+90CB131C747E,90,"Acute myocardial infarction, unspecified",I21.9,26/05/2023,ER,44.9,25
+5723134018F4,54,"Acute myocardial infarction, unspecified",I21.9,01/06/2023,External,31,0.0
+5723134018F4,54,"Acute myocardial infarction, unspecified",I21.9,01/06/2023,inp,31,0.0
+9B441E1EBC66,55,"Acute myocardial infarction, unspecified",I21.9,02/06/2023,External,21.2,0.63
+9B441E1EBC66,55,"Acute myocardial infarction, unspecified",I21.9,02/06/2023,inp,21.2,0.63
+4BC2AFEDA10B,40,"Acute myocardial infarction, unspecified",I21.9,02/06/2023,External,23.3,0.43
+4BC2AFEDA10B,40,"Acute myocardial infarction, unspecified",I21.9,02/06/2023,inp,23.3,0.43
+DE5397BA414C,55,"Acute myocardial infarction, unspecified",I21.9,03/06/2023,External,43.1,2.55
+DE5397BA414C,55,"Acute myocardial infarction, unspecified",I21.9,03/06/2023,inp,43.1,2.55
+B2E35C45147D,58,"Acute myocardial infarction, unspecified",I21.9,07/06/2023,External,20.7,0.39
+B2E35C45147D,58,"Acute myocardial infarction, unspecified",I21.9,07/06/2023,inp,20.7,0.39
+A2B553A2F951,60,"Acute myocardial infarction, unspecified",I21.9,10/06/2023,External,14.6,2.59
+A2B553A2F951,60,"Acute myocardial infarction, unspecified",I21.9,10/06/2023,inp,14.6,2.59
+D507AF74E7CC,53,"Acute myocardial infarction, unspecified",I21.9,11/06/2023,External,152.2,25
+D507AF74E7CC,53,"Acute myocardial infarction, unspecified",I21.9,11/06/2023,inp,152.2,25
+8C04A049473A,60,"Acute myocardial infarction, unspecified",I21.9,16/06/2023,ER,267.4,25
+0C297094FCF7,57,"Acute myocardial infarction, unspecified",I21.9,18/06/2023,External,22,2.37
+0C297094FCF7,57,"Acute myocardial infarction, unspecified",I21.9,18/06/2023,inp,22,2.37
+BA4A3BB934FB,88,"Acute myocardial infarction, unspecified",I21.9,18/06/2023,External,69.7,22.22
+BA4A3BB934FB,88,"Acute myocardial infarction, unspecified",I21.9,18/06/2023,inp,69.7,22.22
+C025595306E2,65,"Acute myocardial infarction, unspecified",I21.9,20/06/2023,External,29,1.06
+C025595306E2,65,"Acute myocardial infarction, unspecified",I21.9,20/06/2023,inp,29,1.06
+A84D8AA02538,43,"Acute myocardial infarction, unspecified",I21.9,22/06/2023,External,23.6,0.6
+A84D8AA02538,43,"Acute myocardial infarction, unspecified",I21.9,22/06/2023,inp,23.6,0.6
+CB327777EA20,40,"Acute myocardial infarction, unspecified",I21.9,30/06/2023,External,78.8,20.66
+CB327777EA20,40,"Acute myocardial infarction, unspecified",I21.9,30/06/2023,inp,78.8,20.66
+64F1D9A13B61,85,"Acute myocardial infarction, unspecified",I21.9,01/07/2023,External,69.5,16.95
+64F1D9A13B61,85,"Acute myocardial infarction, unspecified",I21.9,01/07/2023,inp,69.5,16.95
+3C88032F3348,63,"Acute myocardial infarction, unspecified",I21.9,02/07/2023,ER,38.5,1.27
+EF7A231AB5E6,76,"Acute myocardial infarction, unspecified",I40.9,03/07/2023,ER,13,0.03
+AE74C15F1BDF,69,"Acute myocardial infarction, unspecified",I21.9,04/07/2023,External,28.8,0.12
+AE74C15F1BDF,69,"Acute myocardial infarction, unspecified",I21.9,04/07/2023,inp,28.8,0.12
+0483A5893BBA,41,"Acute myocardial infarction, unspecified",I21.9,05/07/2023,ER,1298.2,25
+46401D0C77B2,55,"Acute myocardial infarction, unspecified",I21.9,07/07/2023,External,20.4,0.1
+46401D0C77B2,55,"Acute myocardial infarction, unspecified",I21.9,07/07/2023,inp,20.4,0.1
+D7D0BBFE600C,65,"Acute myocardial infarction, unspecified",I21.9,12/07/2023,ER,20.1,0.09
+71EC54F4B6FC,93,"Acute myocardial infarction, unspecified",I21.9,14/07/2023,External,190.6,21.33
+71EC54F4B6FC,93,"Acute myocardial infarction, unspecified",I21.9,14/07/2023,inp,190.6,21.33
+A444ECF7052A,62,"Acute myocardial infarction, unspecified",I21.9,15/07/2023,ER,46.4,0.21
+349EFEE38E96,71,"Acute myocardial infarction, unspecified",I21.9,17/07/2023,External,54.5,6.19
+349EFEE38E96,71,"Acute myocardial infarction, unspecified",I21.9,17/07/2023,inp,54.5,6.19
+1A5D3C7C7CE1,78,"Acute myocardial infarction, unspecified",I21.9,17/07/2023,External,40.8,1.07
+1A5D3C7C7CE1,78,"Acute myocardial infarction, unspecified",I21.9,17/07/2023,inp,40.8,1.07
+C0FCBF453B63,67,"Acute myocardial infarction, unspecified",I21.9,18/07/2023,External,87.9,5.73
+C0FCBF453B63,67,"Acute myocardial infarction, unspecified",I21.9,18/07/2023,inp,87.9,5.73
+D064E8524025,65,"Acute myocardial infarction, unspecified",I21.9,20/07/2023,External,16,2.55
+D064E8524025,65,"Acute myocardial infarction, unspecified",I21.9,20/07/2023,inp,16,2.55
+FDC352FC4770,87,"Acute myocardial infarction, unspecified",I21.9,24/07/2023,External,12.7,0.07
+FDC352FC4770,87,"Acute myocardial infarction, unspecified",I21.9,24/07/2023,inp,12.7,0.07
+BA859EA65594,51,"Acute myocardial infarction, unspecified",I21.9,24/07/2023,External,51.5,1.09
+BA859EA65594,51,"Acute myocardial infarction, unspecified",I21.9,24/07/2023,inp,51.5,1.09
+4F784A3B52AA,58,"Acute myocardial infarction, unspecified",I21.9,25/07/2023,External,27.4,0.46
+4F784A3B52AA,58,"Acute myocardial infarction, unspecified",I21.9,25/07/2023,inp,27.4,0.46
+C853BC0A6C51,48,"Acute myocardial infarction, unspecified",I21.9,25/07/2023,inp,41.4,1
+85D2E55EFF38,46,"Acute myocardial infarction, unspecified",I21.9,27/07/2023,External,16,0.24
+85D2E55EFF38,46,"Acute myocardial infarction, unspecified",I21.9,27/07/2023,inp,16,0.24
+3077BE9FFDE5,52,"Acute myocardial infarction, unspecified",I21.9,31/07/2023,External,13.5,0.1
+3077BE9FFDE5,52,"Acute myocardial infarction, unspecified",I21.9,31/07/2023,inp,13.5,0.1
+AB9DF5125104,62,"Acute myocardial infarction, unspecified",I21.9,01/08/2023,External,14.2,0.12
+AB9DF5125104,62,"Acute myocardial infarction, unspecified",I21.9,01/08/2023,inp,14.2,0.12
+61DF816C9F8C,71,"Acute myocardial infarction, unspecified",I40.9,03/08/2023,ER,63.1,9.46
+76F349973876,73,"Acute myocardial infarction, unspecified",I21.9,06/08/2023,External,106.5,7.94
+76F349973876,73,"Acute myocardial infarction, unspecified",I21.9,06/08/2023,inp,106.5,7.94
+29541875E003,66,"Acute myocardial infarction, unspecified",I21.9,08/08/2023,External,10.9,0.02
+29541875E003,66,"Acute myocardial infarction, unspecified",I21.9,08/08/2023,inp,10.9,0.02
+1D404AC9B6DE,54,"Acute myocardial infarction, unspecified",I21.9,20/08/2023,External,57,5.72
+1D404AC9B6DE,54,"Acute myocardial infarction, unspecified",I21.9,20/08/2023,inp,57,5.72
+D32A2B54BD8C,51,"Acute myocardial infarction, unspecified",I21.9,21/08/2023,External,22,0.36
+D32A2B54BD8C,51,"Acute myocardial infarction, unspecified",I21.9,21/08/2023,inp,22,0.36
+FC6EFC7A3703,48,"Acute myocardial infarction, unspecified",I21.9,21/08/2023,External,147.1,7.84
+FC6EFC7A3703,48,"Acute myocardial infarction, unspecified",I21.9,21/08/2023,inp,147.1,7.84
+39E1E00FDF79,45,"Acute myocardial infarction, unspecified",I21.9,23/08/2023,External,25.5,0.53
+39E1E00FDF79,45,"Acute myocardial infarction, unspecified",I21.9,23/08/2023,inp,25.5,0.53
+8625B14904B9,85,"Acute myocardial infarction, unspecified",I21.9,27/08/2023,External,13.9,0.26
+8625B14904B9,85,"Acute myocardial infarction, unspecified",I21.9,27/08/2023,inp,13.9,0.26
+B4BC49F08562,62,"Acute myocardial infarction, unspecified",I21.9,27/08/2023,External,27.3,0.69
+B4BC49F08562,62,"Acute myocardial infarction, unspecified",I21.9,27/08/2023,inp,27.3,0.69
+02A6D0732F07,65,"Acute myocardial infarction, unspecified",I21.9,27/08/2023,External,36.9,5.14
+02A6D0732F07,65,"Acute myocardial infarction, unspecified",I21.9,27/08/2023,inp,36.9,5.14
+806D1ABB7C06,47,"Acute myocardial infarction, unspecified",I21.9,29/08/2023,External,25.8,2.43
+806D1ABB7C06,47,"Acute myocardial infarction, unspecified",I21.9,29/08/2023,inp,25.8,2.43
+618C293A681E,63,"Acute myocardial infarction, unspecified",I21.9,31/08/2023,External,45.7,1.36
+618C293A681E,63,"Acute myocardial infarction, unspecified",I21.9,31/08/2023,inp,45.7,1.36
+13ECCA4D1B6B,76,"Acute myocardial infarction, unspecified",I21.9,01/09/2023,External,24.2,0.62
+13ECCA4D1B6B,76,"Acute myocardial infarction, unspecified",I21.9,01/09/2023,inp,24.2,0.62
+96844C807719,72,"Acute myocardial infarction, unspecified",I21.9,04/09/2023,External,56.1,7.83
+96844C807719,72,"Acute myocardial infarction, unspecified",I21.9,04/09/2023,inp,56.1,7.83
+3A0D422A183B,48,"Acute myocardial infarction, unspecified",I21.9,08/09/2023,External,100.2,9.91
+3A0D422A183B,48,"Acute myocardial infarction, unspecified",I21.9,08/09/2023,inp,100.2,9.91
+4352D115FEC7,55,"Acute myocardial infarction, unspecified",I21.9,09/09/2023,External,30.2,1.57
+4352D115FEC7,55,"Acute myocardial infarction, unspecified",I21.9,09/09/2023,inp,30.2,1.57
+D4C619DF41D8,86,"Acute myocardial infarction, unspecified",I21.9,10/09/2023,ER,73.8,25
+F2CC52C10134,49,"Acute myocardial infarction, unspecified",I21.9,13/09/2023,ER,53.7,0.66
+91800A2155AE,47,"Acute myocardial infarction, unspecified",I21.9,13/09/2023,ER,21.4,0.16
+6958D4265469,58,"Acute myocardial infarction, unspecified",I21.9,15/09/2023,ER,25.9,0.69
+609997A3DAFC,65,"Acute myocardial infarction, unspecified",I21.9,16/09/2023,External,63,2.2
+609997A3DAFC,65,"Acute myocardial infarction, unspecified",I21.9,16/09/2023,inp,63,2.2
+A75F96B3A1A4,52,"Acute myocardial infarction, unspecified",I21.9,22/09/2023,External,31,8.32
+085065C31172,73,"Acute myocardial infarction, unspecified",I21.9,22/09/2023,ER,1000,25
+4BF1D321E1DE,54,"Acute myocardial infarction, unspecified",I21.9,22/09/2023,ER,147.5,25
+4BF1D321E1DE,54,"Acute myocardial infarction, unspecified",I21.9,22/09/2023,External,147.5,25
+4BF1D321E1DE,54,"Acute myocardial infarction, unspecified",I21.9,22/09/2023,inp,147.5,25
+29FB46A0C670,60,"Acute myocardial infarction, unspecified",I21.9,22/09/2023,External,50.6,16.88
+29FB46A0C670,60,"Acute myocardial infarction, unspecified",I21.9,22/09/2023,inp,50.6,16.88
+DE1380941680,56,"Acute myocardial infarction, unspecified",I21.9,23/09/2023,ER,7.8,0.22
+DE1380941680,56,"Acute myocardial infarction, unspecified",I21.9,23/09/2023,External,7.8,0.22
+DE1380941680,56,"Acute myocardial infarction, unspecified",I21.9,23/09/2023,inp,7.8,0.22
+E6EEC33F799B,47,"Acute myocardial infarction, unspecified",I21.9,26/09/2023,External,23.5,0.3
+E6EEC33F799B,47,"Acute myocardial infarction, unspecified",I21.9,26/09/2023,inp,23.5,0.3
+AB31B2D650CB,74,"Acute myocardial infarction, unspecified",I21.9,27/09/2023,External,29.4,0.057
+AB31B2D650CB,74,"Acute myocardial infarction, unspecified",I21.9,27/09/2023,inp,29.4,0.057
+07738C18C309,56,"Acute myocardial infarction, unspecified",I21.9,28/09/2023,ER,35.7,1.28
+6DEFD25222C5,58,"Acute myocardial infarction, unspecified",I21.9,30/09/2023,External,21.7,0.027
+6DEFD25222C5,58,"Acute myocardial infarction, unspecified",I21.9,30/09/2023,inp,21.7,0.027
+E473F504BCDF,55,"Acute myocardial infarction, unspecified",I21.9,07/10/2023,ER,30.3,2.16
+E473F504BCDF,55,"Acute myocardial infarction, unspecified",I21.9,07/10/2023,External,30.3,2.16
+E473F504BCDF,55,"Acute myocardial infarction, unspecified",I21.9,07/10/2023,inp,30.3,2.16
+519F6B153FF9,52,"Acute myocardial infarction, unspecified",I21.9,10/10/2023,External,70,25
+519F6B153FF9,52,"Acute myocardial infarction, unspecified",I21.9,10/10/2023,inp,70,25
+390AB8F40DD6,77,"Acute myocardial infarction, unspecified",I21.9,15/10/2023,External,15,0.28
+390AB8F40DD6,77,"Acute myocardial infarction, unspecified",I21.9,15/10/2023,inp,15,0.28
+19474AB1D70C,48,"Acute myocardial infarction, unspecified",I21.9,15/10/2023,External,19.7,0.7
+19474AB1D70C,48,"Acute myocardial infarction, unspecified",I21.9,15/10/2023,inp,19.7,0.7
+07386EBA0314,78,"Acute myocardial infarction, unspecified",I21.9,16/10/2023,External,23.3,0.1
+07386EBA0314,78,"Acute myocardial infarction, unspecified",I21.9,16/10/2023,inp,23.3,0.1
+0F7D630C6316,54,"Acute myocardial infarction, unspecified",I21.9,16/10/2023,External,39.9,10.09
+0F7D630C6316,54,"Acute myocardial infarction, unspecified",I21.9,16/10/2023,inp,39.9,10.09
+A0226D077FD6,62,"Acute myocardial infarction, unspecified",I21.9,20/10/2023,External,24.9,1.56
+A0226D077FD6,62,"Acute myocardial infarction, unspecified",I21.9,20/10/2023,inp,24.9,1.56
+7FC856FD7BC9,55,"Acute myocardial infarction, unspecified",I21.9,21/10/2023,External,17,0.16
+7FC856FD7BC9,55,"Acute myocardial infarction, unspecified",I21.9,21/10/2023,inp,17,0.16
+6809B05F2236,47,"Acute myocardial infarction, unspecified",I21.9,22/10/2023,External,13.8,0.15
+6809B05F2236,47,"Acute myocardial infarction, unspecified",I21.9,22/10/2023,inp,13.8,0.15
+DDD3A0896311,57,"Acute myocardial infarction, unspecified",I21.9,22/10/2023,ER,154.2,25
+F41229DC7408,67,"Acute myocardial infarction, unspecified",I21.9,24/10/2023,External,61,0.11
+F41229DC7408,67,"Acute myocardial infarction, unspecified",I21.9,24/10/2023,inp,61,0.11
+84DFFC9E0C52,69,"Acute myocardial infarction, unspecified",I21.9,24/10/2023,External,28.9,3.12
+84DFFC9E0C52,69,"Acute myocardial infarction, unspecified",I21.9,24/10/2023,inp,28.9,3.12
+4A97E4514475,46,"Acute myocardial infarction, unspecified",I21.9,27/10/2023,ER,29.2,25
+6AD37DE99B34,44,"Acute myocardial infarction, unspecified",I21.9,27/10/2023,External,123.2,25
+6AD37DE99B34,44,"Acute myocardial infarction, unspecified",I21.9,27/10/2023,inp,123.2,25
+13FA89CD2A38,74,"Acute myocardial infarction, unspecified",I21.9,30/10/2023,External,63.9,9.81
+13FA89CD2A38,74,"Acute myocardial infarction, unspecified",I21.9,30/10/2023,inp,63.9,9.81
+D467896FD152,81,"Acute myocardial infarction, unspecified",I21.9,30/10/2023,External,249.1,25
+D467896FD152,81,"Acute myocardial infarction, unspecified",I21.9,30/10/2023,inp,249.1,25
+2D6AB45C084B,87,"Acute myocardial infarction, unspecified",I21.9,01/11/2023,ER,15.7,0.31
+2D6AB45C084B,87,"Acute myocardial infarction, unspecified",I21.9,01/11/2023,External,15.7,0.31
+2D6AB45C084B,87,"Acute myocardial infarction, unspecified",I21.9,01/11/2023,inp,15.7,0.31
+C98820C83C4E,52,"Acute myocardial infarction, unspecified",I21.9,05/11/2023,ER,31.5,6.65
+11332F0B8237,44,"Acute myocardial infarction, unspecified",I21.9,11/11/2023,External,14.4,0.01
+11332F0B8237,44,"Acute myocardial infarction, unspecified",I21.9,11/11/2023,inp,14.4,0.01
+8E6E0C3388B9,84,"Acute myocardial infarction, unspecified",I21.9,15/11/2023,External,22.3,1.76
+8E6E0C3388B9,84,"Acute myocardial infarction, unspecified",I21.9,15/11/2023,inp,22.3,1.76
+AF57A0A88DCC,85,"Acute myocardial infarction, unspecified",I21.9,15/11/2023,inp,16.5,9.24
+DF80E989054B,57,"Acute myocardial infarction, unspecified",I21.9,15/11/2023,External,29,6.2
+DF80E989054B,57,"Acute myocardial infarction, unspecified",I21.9,15/11/2023,inp,29,6.2
+02EC04A2B804,79,"Acute myocardial infarction, unspecified",I21.9,16/11/2023,External,17.8,0.28
+02EC04A2B804,79,"Acute myocardial infarction, unspecified",I21.9,16/11/2023,inp,17.8,0.28
+BCDF1E1FD0DE,63,"Acute myocardial infarction, unspecified",I21.9,19/11/2023,External,22.1,0.66
+BCDF1E1FD0DE,63,"Acute myocardial infarction, unspecified",I21.9,19/11/2023,inp,22.1,0.66
+C8DB5EAFED69,58,"Acute myocardial infarction, unspecified",I21.9,23/11/2023,ER,37.6,0.02
+4D82577D2B86,48,"Acute myocardial infarction, unspecified",I21.9,25/11/2023,ER,20.4,0.03
+F09145B0BAC9,59,"Acute myocardial infarction, unspecified",I21.9,26/11/2023,ER,27.5,0.01
+85EBD5D7AD0C,32,"Acute myocardial infarction, unspecified",I21.9,26/11/2023,External,142,13.46
+85EBD5D7AD0C,32,"Acute myocardial infarction, unspecified",I21.9,26/11/2023,inp,142,13.46
+BC967C0CDE61,83,"Acute myocardial infarction, unspecified",I21.9,28/11/2023,External,17.2,7.91
+BC967C0CDE61,83,"Acute myocardial infarction, unspecified",I21.9,28/11/2023,inp,17.2,7.91
+65F5D1DDEFEE,86,"Acute myocardial infarction, unspecified",I21.9,30/11/2023,External,17.4,6.93
+65F5D1DDEFEE,86,"Acute myocardial infarction, unspecified",I21.9,30/11/2023,inp,17.4,6.93
+06AF24A7423F,36,"Acute myocardial infarction, unspecified",I21.9,01/12/2023,External,29.3,0.47
+06AF24A7423F,36,"Acute myocardial infarction, unspecified",I21.9,01/12/2023,inp,29.3,0.47
+550F817B46B1,41,"Acute myocardial infarction, unspecified",I21.9,05/12/2023,External,16.1,9.93
+550F817B46B1,41,"Acute myocardial infarction, unspecified",I21.9,05/12/2023,inp,16.1,9.93
+59455BEF9F17,75,"Acute myocardial infarction, unspecified",I21.9,06/12/2023,External,34,0.15
+59455BEF9F17,75,"Acute myocardial infarction, unspecified",I21.9,06/12/2023,inp,34,0.15
+3D956C7A4137,75,"Acute myocardial infarction, unspecified",I21.9,08/12/2023,External,20.4,0.49
+3D956C7A4137,75,"Acute myocardial infarction, unspecified",I21.9,08/12/2023,inp,20.4,0.49
+66191E47B8EF,56,"Acute myocardial infarction, unspecified",I21.9,08/12/2023,External,32.3,0.2
+66191E47B8EF,56,"Acute myocardial infarction, unspecified",I21.9,08/12/2023,inp,32.3,0.2
+6811A7DE34DE,53,"Acute myocardial infarction, unspecified",I21.9,08/12/2023,inp,21,0.77
+B3FCBD0C473F,57,"Acute myocardial infarction, unspecified",I21.9,12/12/2023,External,17,1.56
+B3FCBD0C473F,57,"Acute myocardial infarction, unspecified",I21.9,12/12/2023,inp,17,1.56
+56B8490F7A63,89,"Acute myocardial infarction, unspecified",I21.9,13/12/2023,ER,42.7,10.37
+C9DC58AA5AA2,49,"Acute myocardial infarction, unspecified",I21.9,13/12/2023,ER,346.9,25
+C9DC58AA5AA2,49,"Acute myocardial infarction, unspecified",I21.9,13/12/2023,External,346.9,25
+C9DC58AA5AA2,49,"Acute myocardial infarction, unspecified",I21.9,13/12/2023,inp,346.9,25
+83B2CDC1218C,48,"Acute myocardial infarction, unspecified",I21.9,14/12/2023,External,21.2,5.78
+83B2CDC1218C,48,"Acute myocardial infarction, unspecified",I21.9,14/12/2023,inp,21.2,5.78
+F892043AAEC2,75,"Acute myocardial infarction, unspecified",I21.9,16/12/2023,External,175.6,14.92
+F892043AAEC2,75,"Acute myocardial infarction, unspecified",I21.9,16/12/2023,inp,175.6,14.92
+41F59CD1976C,64,"Acute myocardial infarction, unspecified",I21.9,16/12/2023,External,34.9,6.64
+41F59CD1976C,64,"Acute myocardial infarction, unspecified",I21.9,16/12/2023,inp,34.9,6.64
+741E4973099E,57,"Acute myocardial infarction, unspecified",I21.9,19/12/2023,External,18.3,0.13
+741E4973099E,57,"Acute myocardial infarction, unspecified",I21.9,19/12/2023,inp,18.3,0.13
+B37C8C78EB36,84,"Acute myocardial infarction, unspecified",I21.9,20/12/2023,External,55.9,25
+B37C8C78EB36,84,"Acute myocardial infarction, unspecified",I21.9,20/12/2023,inp,55.9,25
+B6C7A0A060B5,50,"Acute myocardial infarction, unspecified",I21.9,22/12/2023,ER,34.1,1.78
+E597F525EB13,56,"Acute myocardial infarction, unspecified",I21.9,28/12/2023,ER,13,0.02
+18CEA1AD1D17,52,"Acute myocardial infarction, unspecified",I21.9,29/12/2023,ER,14.2,0.17
+18CEA1AD1D17,52,"Acute myocardial infarction, unspecified",I21.9,29/12/2023,External,14.2,0.17
+18CEA1AD1D17,52,"Acute myocardial infarction, unspecified",I21.9,29/12/2023,inp,14.2,0.17
+AF1BF7893157,69,"Acute myocardial infarction, unspecified",I21.9,31/12/2023,ER,194.1,25
+9C7C0B2BDB8C,40,"Acute myocardial infarction, unspecified",I21.9,02/01/2024,External,25.5,0.069
+9C7C0B2BDB8C,40,"Acute myocardial infarction, unspecified",I21.9,02/01/2024,inp,25.5,0.069
+538D273BBD93,53,"Acute myocardial infarction, unspecified",I21.9,07/01/2024,External,61.8,2.25
+538D273BBD93,53,"Acute myocardial infarction, unspecified",I21.9,07/01/2024,inp,61.8,2.25
+496ED78A164E,62,"Acute myocardial infarction, unspecified",I21.9,09/01/2024,ER,47.1,25000
+148F49E663C8,103,"Acute myocardial infarction, unspecified",I21.9,11/01/2024,inp,39.5,382.58
+F0213B95CE48,67,"Acute myocardial infarction, unspecified",I21.9,11/01/2024,ER,12.4,33.29
+07E4F55E6DA6,59,"Acute myocardial infarction, unspecified",I21.9,12/01/2024,inp,12.1,2525.45
+DD98DE851D1E,65,"Acute myocardial infarction, unspecified",I21.9,16/01/2024,External,36.8,4967.75
+DD98DE851D1E,65,"Acute myocardial infarction, unspecified",I21.9,16/01/2024,inp,36.8,4967.75
+6284A03F1DAF,66,"Acute myocardial infarction, unspecified",I21.9,18/01/2024,ER,124.7,25000
+6284A03F1DAF,66,"Acute myocardial infarction, unspecified",I21.9,18/01/2024,inp,124.7,25000
+99E30F42FD5D,84,"Acute myocardial infarction, unspecified",I21.9,21/01/2024,External,522.6,25000
+99E30F42FD5D,84,"Acute myocardial infarction, unspecified",I21.9,21/01/2024,inp,522.6,25000
+5B2F87510787,78,"Acute myocardial infarction, unspecified",I21.9,24/01/2024,ER,177.5,25000
+D5783DB6EC51,76,"Acute myocardial infarction, unspecified",I21.9,30/01/2024,External,77.64,3332.4
+D5783DB6EC51,76,"Acute myocardial infarction, unspecified",I21.9,30/01/2024,inp,77.64,3332.4
+933E14BC85D4,26,"Acute myocardial infarction, unspecified",I21.9,06/02/2024,External,50.62,18396.42
+933E14BC85D4,26,"Acute myocardial infarction, unspecified",I21.9,06/02/2024,inp,50.62,18396.42
+44966920C92E,89,"Acute myocardial infarction, unspecified",I21.9,06/02/2024,ER,1.91,19.8
+0C4AA6780586,48,"Acute myocardial infarction, unspecified",I21.9,07/02/2024,inp,10.02,890.74
+5B008122AFBD,50,"Acute myocardial infarction, unspecified",I21.9,08/02/2024,External,97.4,25000
+5B008122AFBD,50,"Acute myocardial infarction, unspecified",I21.9,08/02/2024,inp,97.4,25000
+A32BFE4D93F0,57,"Acute myocardial infarction, unspecified",I21.9,10/02/2024,ER,3.75,316.65
+A32BFE4D93F0,57,"Acute myocardial infarction, unspecified",I21.9,10/02/2024,External,3.75,316.65
+A32BFE4D93F0,57,"Acute myocardial infarction, unspecified",I21.9,10/02/2024,inp,3.75,316.65
+F0FC1EB6C1B3,56,"Acute myocardial infarction, unspecified",I21.9,11/02/2024,External,80.9,25000
+F0FC1EB6C1B3,56,"Acute myocardial infarction, unspecified",I21.9,11/02/2024,inp,80.9,25000
+2582F77F132B,78,"Acute myocardial infarction, unspecified",I21.9,12/02/2024,External,20.43,25000
+2582F77F132B,78,"Acute myocardial infarction, unspecified",I21.9,12/02/2024,inp,20.43,25000
+811BF64E6598,43,"Acute myocardial infarction, unspecified",I21.9,15/02/2024,External,1.44,353.92
+811BF64E6598,43,"Acute myocardial infarction, unspecified",I21.9,15/02/2024,inp,1.44,353.92
+10B59B250487,61,"Acute myocardial infarction, unspecified",I21.9,20/02/2024,External,1.24,6.25
+10B59B250487,61,"Acute myocardial infarction, unspecified",I21.9,20/02/2024,inp,1.24,6.25
+9053011001F7,61,"Acute myocardial infarction, unspecified",I21.9,23/02/2024,External,15.64,8709.01
+9053011001F7,61,"Acute myocardial infarction, unspecified",I21.9,23/02/2024,inp,15.64,8709.01
+6D658BAF2744,64,"Acute myocardial infarction, unspecified",I21.9,24/02/2024,External,23.95,25000
+6D658BAF2744,64,"Acute myocardial infarction, unspecified",I21.9,24/02/2024,inp,23.95,25000
+525C88B8A7FB,48,"Acute myocardial infarction, unspecified",I21.9,24/02/2024,External,99.8,25000
+525C88B8A7FB,48,"Acute myocardial infarction, unspecified",I21.9,24/02/2024,inp,99.8,25000
+CE8E88B46DC2,46,"Acute myocardial infarction, unspecified",I21.9,27/02/2024,ER,32.86,7795.65
+CE8E88B46DC2,46,"Acute myocardial infarction, unspecified",I21.9,27/02/2024,External,32.86,7795.65
+CE8E88B46DC2,46,"Acute myocardial infarction, unspecified",I21.9,27/02/2024,inp,32.86,7795.65
+E586025755AD,74,"Acute myocardial infarction, unspecified",I21.9,28/02/2024,inp,80.21,25000
+26CF8214A7E8,70,"Acute myocardial infarction, unspecified",I21.9,28/02/2024,inp,13.46,5384.05
+87F08BBB77BC,49,"Acute myocardial infarction, unspecified",I21.9,29/02/2024,External,14.76,2019.75
+87F08BBB77BC,49,"Acute myocardial infarction, unspecified",I21.9,29/02/2024,inp,14.76,2019.75
+83471FBA82C2,61,"Acute myocardial infarction, unspecified",I21.9,29/02/2024,External,7.53,3330.83
+83471FBA82C2,61,"Acute myocardial infarction, unspecified",I21.9,29/02/2024,inp,7.53,3330.83
+5A9243A2F976,59,"Acute myocardial infarction, unspecified",I21.9,01/03/2024,External,1.55,13
+5A9243A2F976,59,"Acute myocardial infarction, unspecified",I21.9,01/03/2024,inp,1.55,13
+D9E4D687E352,54,"Acute myocardial infarction, unspecified",I21.9,02/03/2024,inp,25.74,6339.27
+8D8D681849D8,49,"Acute myocardial infarction, unspecified",I21.9,02/03/2024,External,18.71,1057.89
+8D8D681849D8,49,"Acute myocardial infarction, unspecified",I21.9,02/03/2024,inp,18.71,1057.89
+5A9243A2F976,59,"Acute myocardial infarction, unspecified",I21.9,03/03/2024,inp,6.06,12070.4
+6568FC3071E1,69,"Acute myocardial infarction, unspecified",I21.9,03/03/2024,External,1.39,17.35
+6568FC3071E1,69,"Acute myocardial infarction, unspecified",I21.9,03/03/2024,inp,1.39,17.35
+E98B8A4B291C,47,"Acute myocardial infarction, unspecified",I21.9,03/03/2024,External,14.69,3104.36
+E98B8A4B291C,47,"Acute myocardial infarction, unspecified",I21.9,03/03/2024,inp,14.69,3104.36
+DCCDC5B33DFA,37,"Acute myocardial infarction, unspecified",I21.9,06/03/2024,External,1.59,25000
+DCCDC5B33DFA,37,"Acute myocardial infarction, unspecified",I21.9,06/03/2024,inp,1.59,25000
+1D8BB8743C38,72,"Acute myocardial infarction, unspecified",I21.9,07/03/2024,External,41.71,13315.9
+1D8BB8743C38,72,"Acute myocardial infarction, unspecified",I21.9,07/03/2024,inp,41.71,13315.9
+C224AFF23F07,50,"Acute myocardial infarction, unspecified",I21.9,11/03/2024,External,0.82,206.59
+C224AFF23F07,50,"Acute myocardial infarction, unspecified",I21.9,11/03/2024,inp,0.82,206.59
+FFFA5122A801,53,"Acute myocardial infarction, unspecified",I21.9,14/03/2024,inp,20.58,21646.7
+755DF720293B,60,"Acute myocardial infarction, unspecified",I21.9,16/03/2024,ER,19.94,25000
+24BF485D0140,58,"Acute myocardial infarction, unspecified",I21.9,16/03/2024,ER,5.77,1893.88
+24BF485D0140,58,"Acute myocardial infarction, unspecified",I21.9,16/03/2024,External,5.77,1893.88
+24BF485D0140,58,"Acute myocardial infarction, unspecified",I21.9,16/03/2024,inp,5.77,1893.88
+355811F5178A,79,"Acute myocardial infarction, unspecified",I21.9,17/03/2024,External,1.62,569.07
+355811F5178A,79,"Acute myocardial infarction, unspecified",I21.9,17/03/2024,inp,1.62,569.07
+D493BE47AAE6,88,"Acute myocardial infarction, unspecified",I21.9,17/03/2024,External,0.59,37.12
+D493BE47AAE6,88,"Acute myocardial infarction, unspecified",I21.9,17/03/2024,inp,0.59,37.12
+FCA7A7F3FF1A,80,"Acute myocardial infarction, unspecified",I21.9,17/03/2024,External,1.52,190.49
+FCA7A7F3FF1A,80,"Acute myocardial infarction, unspecified",I21.9,17/03/2024,inp,1.52,190.49
+B9E009164A99,61,"Acute myocardial infarction, unspecified",I21.9,18/03/2024,External,1.09,34.2
+B9E009164A99,61,"Acute myocardial infarction, unspecified",I21.9,18/03/2024,inp,1.09,34.2
+6393FD18AA4C,49,"Acute myocardial infarction, unspecified",I21.9,20/03/2024,External,0.35,25000
+6393FD18AA4C,49,"Acute myocardial infarction, unspecified",I21.9,20/03/2024,inp,0.35,25000
+5E79994064A9,93,"Acute myocardial infarction, unspecified",I21.9,22/03/2024,ER,173.02,25000
+5E79994064A9,93,"Acute myocardial infarction, unspecified",I40.9,22/03/2024,External,173.02,25000
+5E79994064A9,93,"Acute myocardial infarction, unspecified",I40.9,22/03/2024,inp,173.02,25000
+067D38E665F0,61,"Acute myocardial infarction, unspecified",I21.9,25/03/2024,External,15.8,4387.54
+067D38E665F0,61,"Acute myocardial infarction, unspecified",I21.9,25/03/2024,inp,15.8,4387.54
+C019A07EAD39,49,"Acute myocardial infarction, unspecified",I21.9,25/03/2024,ER,124.88,3953.78
+C019A07EAD39,49,"Acute myocardial infarction, unspecified",I21.9,25/03/2024,External,124.88,3953.78
+C019A07EAD39,49,"Acute myocardial infarction, unspecified",I21.9,25/03/2024,inp,124.88,3953.78
+7058384B9034,74,"Acute myocardial infarction, unspecified",I21.9,27/03/2024,External,1.71,21323.59
+7058384B9034,74,"Acute myocardial infarction, unspecified",I21.9,27/03/2024,inp,1.71,21323.59
+B33E0FB5A833,50,"Acute myocardial infarction, unspecified",I21.9,27/03/2024,External,122.43,25000
+B33E0FB5A833,50,"Acute myocardial infarction, unspecified",I21.9,27/03/2024,inp,122.43,25000
+A8D1E4E87EED,46,"Acute myocardial infarction, unspecified",I21.9,27/03/2024,ER,1.3,52.61
+260DF2442B81,55,"Acute myocardial infarction, unspecified",I21.9,29/03/2024,External,2.42,1498.88
+260DF2442B81,55,"Acute myocardial infarction, unspecified",I21.9,29/03/2024,inp,2.42,1498.88
+C11BE8B0CC5D,68,"Acute myocardial infarction, unspecified",I21.9,31/03/2024,External,5.2,3648.4
+C11BE8B0CC5D,68,"Acute myocardial infarction, unspecified",I21.9,31/03/2024,inp,5.2,3648.4
+E3CA8214E62F,76,"Acute myocardial infarction, unspecified",I21.9,04/04/2024,External,0.82,1489.04
+E3CA8214E62F,76,"Acute myocardial infarction, unspecified",I21.9,04/04/2024,inp,0.82,1489.04
+7C300CD86615,68,"Acute myocardial infarction, unspecified",I21.9,05/04/2024,External,1.05,4183.36
+7C300CD86615,68,"Acute myocardial infarction, unspecified",I21.9,05/04/2024,inp,1.05,4183.36
+251EEEF60289,52,"Acute myocardial infarction, unspecified",I21.9,06/04/2024,inp,8.54,1923.51
+A2590AE3964F,59,"Acute myocardial infarction, unspecified",I21.9,06/04/2024,External,2.85,1674.56
+A2590AE3964F,59,"Acute myocardial infarction, unspecified",I21.9,06/04/2024,inp,2.85,1674.56
+96AE0C327F1F,57,"Acute myocardial infarction, unspecified",I21.9,07/04/2024,External,0.26,18.6
+96AE0C327F1F,57,"Acute myocardial infarction, unspecified",I21.9,07/04/2024,inp,0.26,18.6
+62C2C2BB1EFA,56,"Acute myocardial infarction, unspecified",I21.9,08/04/2024,External,1.93,187.87
+62C2C2BB1EFA,56,"Acute myocardial infarction, unspecified",I21.9,08/04/2024,inp,1.93,187.87
+5E64B515D152,43,"Acute myocardial infarction, unspecified",I21.9,09/04/2024,ER,9.31,779.67
+BB7B8F8A4562,56,"Acute myocardial infarction, unspecified",I21.9,10/04/2024,External,2,405.72
+BB7B8F8A4562,56,"Acute myocardial infarction, unspecified",I21.9,10/04/2024,inp,2,405.72
+B1C195B4ED08,48,"Acute myocardial infarction, unspecified",I21.9,11/04/2024,External,24.36,9188.87
+B1C195B4ED08,48,"Acute myocardial infarction, unspecified",I21.9,11/04/2024,inp,24.36,9188.87
+E473F504BCDF,55,"Acute myocardial infarction, unspecified",I21.9,12/04/2024,External,13.13,2017.79
+E473F504BCDF,55,"Acute myocardial infarction, unspecified",I21.9,12/04/2024,inp,13.13,2017.79
+C8B1EAF1FDB1,52,"Acute myocardial infarction, unspecified",I21.9,13/04/2024,External,0.62,87.87
+C8B1EAF1FDB1,52,"Acute myocardial infarction, unspecified",I21.9,13/04/2024,inp,0.62,87.87
+59F204C78EE1,57,"Acute myocardial infarction, unspecified",I21.9,13/04/2024,External,29.06,8013.3
+59F204C78EE1,57,"Acute myocardial infarction, unspecified",I21.9,13/04/2024,inp,29.06,8013.3
+95E31448BD79,58,"Acute myocardial infarction, unspecified",I21.9,13/04/2024,ER,1.29,52.28
+18F3D6A12A8C,55,"Acute myocardial infarction, unspecified",I21.9,14/04/2024,External,15.28,4321.59
+18F3D6A12A8C,55,"Acute myocardial infarction, unspecified",I21.9,14/04/2024,inp,15.28,4321.59
+225518B3F365,59,"Acute myocardial infarction, unspecified",I21.9,15/04/2024,External,44.63,6453.5
+225518B3F365,59,"Acute myocardial infarction, unspecified",I21.9,15/04/2024,inp,44.63,6453.5
+DD4AE0B1160E,49,"Acute myocardial infarction, unspecified",I21.9,15/04/2024,External,4.16,1184.64
+DD4AE0B1160E,49,"Acute myocardial infarction, unspecified",I21.9,15/04/2024,inp,4.16,1184.64
+6C6BEEA14A23,63,"Acute myocardial infarction, unspecified",I21.9,16/04/2024,External,29.74,2341.07
+6C6BEEA14A23,63,"Acute myocardial infarction, unspecified",I21.9,16/04/2024,inp,29.74,2341.07
+C4242C7027C1,47,"Acute myocardial infarction, unspecified",I21.9,16/04/2024,External,67.4,17312.14
+C4242C7027C1,47,"Acute myocardial infarction, unspecified",I21.9,16/04/2024,inp,67.4,17312.14
+97B3E5491425,41,"Acute myocardial infarction, unspecified",I21.9,16/04/2024,ER,45.04,25000
+97B3E5491425,41,"Acute myocardial infarction, unspecified",I21.9,16/04/2024,External,45.04,25000
+97B3E5491425,41,"Acute myocardial infarction, unspecified",I21.9,16/04/2024,inp,45.04,25000
+E6E884AC9593,53,"Acute myocardial infarction, unspecified",I21.9,17/04/2024,inp,24.4,25000
+B6741F8081F5,60,"Acute myocardial infarction, unspecified",I21.9,17/04/2024,External,6.54,9855.07
+B6741F8081F5,60,"Acute myocardial infarction, unspecified",I21.9,17/04/2024,inp,6.54,9855.07
+0ED30DD73A95,85,"Acute myocardial infarction, unspecified",I21.9,18/04/2024,ER,38.14,25000
+1A92FC6F64FF,16,"Acute myocardial infarction, unspecified",I40.9,18/04/2024,inp,17.11,9882.52
+42547C91B342,46,"Acute myocardial infarction, unspecified",I21.9,19/04/2024,ER,0.36,14.52
+A816EA6282BB,72,"Acute myocardial infarction, unspecified",I21.9,19/04/2024,External,3.35,73.03
+A816EA6282BB,72,"Acute myocardial infarction, unspecified",I21.9,19/04/2024,inp,3.35,73.03
+63814C27A0C3,62,"Acute myocardial infarction, unspecified",I21.9,20/04/2024,External,15.31,5118.78
+63814C27A0C3,62,"Acute myocardial infarction, unspecified",I21.9,20/04/2024,inp,15.31,5118.78
+BA32F8F1521F,62,"Acute myocardial infarction, unspecified",I21.9,20/04/2024,ER,153.74,376.16
+BA32F8F1521F,62,"Acute myocardial infarction, unspecified",I21.9,20/04/2024,External,153.74,376.16
+BA32F8F1521F,62,"Acute myocardial infarction, unspecified",I21.9,20/04/2024,inp,153.74,376.16
+27B98E3DC2FB,54,"Acute myocardial infarction, unspecified",I21.9,21/04/2024,inp,3.01,857.94
+173EBEB0B92D,57,"Acute myocardial infarction, unspecified",I21.9,21/04/2024,External,57.81,25000
+173EBEB0B92D,57,"Acute myocardial infarction, unspecified",I21.9,21/04/2024,inp,57.81,25000
+781AC6432C98,57,"Acute myocardial infarction, unspecified",I21.9,21/04/2024,External,8.01,504.6
+781AC6432C98,57,"Acute myocardial infarction, unspecified",I21.9,21/04/2024,inp,8.01,504.6
+B050DABD7BB9,45,"Acute myocardial infarction, unspecified",I21.9,21/04/2024,inp,1.39,154.81
+6F3A86DC54C9,57,"Acute myocardial infarction, unspecified",I21.9,22/04/2024,External,1.07,87.2
+6F3A86DC54C9,57,"Acute myocardial infarction, unspecified",I21.9,22/04/2024,inp,1.07,87.2
+7BAF45D51165,71,"Acute myocardial infarction, unspecified",I21.9,22/04/2024,External,0.17,490.32
+7BAF45D51165,71,"Acute myocardial infarction, unspecified",I21.9,22/04/2024,inp,0.17,490.32
+8D3AB8DEE007,50,"Acute myocardial infarction, unspecified",I21.9,25/04/2024,External,0.0,72.07
+8D3AB8DEE007,50,"Acute myocardial infarction, unspecified",I21.9,25/04/2024,inp,0.0,72.07
+FCA7A7F3FF1A,80,"Acute myocardial infarction, unspecified",I21.9,25/04/2024,External,2.61,507.84
+FCA7A7F3FF1A,80,"Acute myocardial infarction, unspecified",I21.9,25/04/2024,inp,2.61,507.84
+7287482EC05D,30,"Acute myocardial infarction, unspecified",I21.9,25/04/2024,External,0.28,6.91
+7287482EC05D,30,"Acute myocardial infarction, unspecified",I21.9,25/04/2024,inp,0.28,6.91
+42B902500B9A,53,"Acute myocardial infarction, unspecified",I21.9,25/04/2024,External,2.67,913.96
+42B902500B9A,53,"Acute myocardial infarction, unspecified",I21.9,25/04/2024,inp,2.67,913.96
+2A3A1760425F,63,"Acute myocardial infarction, unspecified",I21.9,26/04/2024,External,0.86,127.81
+2A3A1760425F,63,"Acute myocardial infarction, unspecified",I21.9,26/04/2024,inp,0.86,127.81
+E69C5C638866,62,"Acute myocardial infarction, unspecified",I21.9,27/04/2024,External,0.33,98.09
+E69C5C638866,62,"Acute myocardial infarction, unspecified",I21.9,27/04/2024,inp,0.33,98.09
+A92D07AE3F46,51,"Acute myocardial infarction, unspecified",I21.9,30/04/2024,External,3.1,345.39
+A92D07AE3F46,51,"Acute myocardial infarction, unspecified",I21.9,30/04/2024,inp,3.1,345.39
+A382DF584329,60,"Acute myocardial infarction, unspecified",I21.9,01/05/2024,External,0.11,297.07
+A382DF584329,60,"Acute myocardial infarction, unspecified",I21.9,01/05/2024,inp,0.11,297.07
+CB006CED38CF,47,"Acute myocardial infarction, unspecified",I21.9,01/05/2024,External,0.0,79.11
+CB006CED38CF,47,"Acute myocardial infarction, unspecified",I21.9,01/05/2024,inp,0.0,79.11
+660A35E052E6,82,"Acute myocardial infarction, unspecified",I21.9,02/05/2024,External,1.12,35.5
+660A35E052E6,82,"Acute myocardial infarction, unspecified",I21.9,02/05/2024,inp,1.12,35.5
+B8E9EBF69EBF,71,"Acute myocardial infarction, unspecified",I21.9,03/05/2024,External,4.33,1002.38
+B8E9EBF69EBF,71,"Acute myocardial infarction, unspecified",I21.9,03/05/2024,inp,4.33,1002.38
+A8AC033CCDF0,49,"Acute myocardial infarction, unspecified",I21.9,04/05/2024,External,13.22,1374.87
+A8AC033CCDF0,49,"Acute myocardial infarction, unspecified",I21.9,04/05/2024,inp,13.22,1374.87
+153EF0AA90AD,50,"Acute myocardial infarction, unspecified",I21.9,06/05/2024,External,10.96,9675.96
+153EF0AA90AD,50,"Acute myocardial infarction, unspecified",I21.9,06/05/2024,inp,10.96,9675.96
+49B53CD2AAB1,53,"Acute myocardial infarction, unspecified",I21.9,07/05/2024,External,19.64,4286.14
+49B53CD2AAB1,53,"Acute myocardial infarction, unspecified",I21.9,07/05/2024,inp,19.64,4286.14
+269ED48C4208,70,"Acute myocardial infarction, unspecified",I21.9,08/05/2024,ER,6.42,25000
+269ED48C4208,70,"Acute myocardial infarction, unspecified",I21.9,08/05/2024,External,6.42,25000
+269ED48C4208,70,"Acute myocardial infarction, unspecified",I21.9,08/05/2024,inp,6.42,25000
+0029974DE7F7,58,"Acute myocardial infarction, unspecified",I21.9,09/05/2024,External,74.57,25000
+0029974DE7F7,58,"Acute myocardial infarction, unspecified",I21.9,09/05/2024,inp,74.57,25000
+F7A39CB8B5D9,82,"Acute myocardial infarction, unspecified",I21.9,10/05/2024,External,19.66,8090.65
+F7A39CB8B5D9,82,"Acute myocardial infarction, unspecified",I21.9,10/05/2024,inp,19.66,8090.65
+3325DE9818E2,73,"Acute myocardial infarction, unspecified",I21.9,12/05/2024,External,0.58,110.49
+3325DE9818E2,73,"Acute myocardial infarction, unspecified",I21.9,12/05/2024,inp,0.58,110.49
+CA4C1054DCA4,47,"Acute myocardial infarction, unspecified",I21.9,12/05/2024,External,8.23,2989.06
+CA4C1054DCA4,47,"Acute myocardial infarction, unspecified",I21.9,12/05/2024,inp,8.23,2989.06
+588FC30F8F61,65,"Acute myocardial infarction, unspecified",I21.9,13/05/2024,External,0.0,1565.82
+588FC30F8F61,65,"Acute myocardial infarction, unspecified",I21.9,13/05/2024,inp,0.0,1565.82
+B6D3D52B47BF,67,"Acute myocardial infarction, unspecified",I21.9,13/05/2024,External,36.87,19821.71
+B6D3D52B47BF,67,"Acute myocardial infarction, unspecified",I21.9,13/05/2024,inp,36.87,19821.71
+6E6938B8ABBE,53,"Acute myocardial infarction, unspecified",I21.9,14/05/2024,External,6.05,461.84
+6E6938B8ABBE,53,"Acute myocardial infarction, unspecified",I21.9,14/05/2024,inp,6.05,461.84
+F46D3197F5F7,65,"Acute myocardial infarction, unspecified",I21.9,15/05/2024,ER,8.91,12.11
+D7DD68E5F53F,64,"Acute myocardial infarction, unspecified",I21.9,15/05/2024,ER,110.21,23351.41
+D7DD68E5F53F,64,"Acute myocardial infarction, unspecified",I21.9,15/05/2024,External,110.21,23351.41
+D7DD68E5F53F,64,"Acute myocardial infarction, unspecified",I21.9,15/05/2024,inp,110.21,23351.41
+15F87BD2E03C,55,"Acute myocardial infarction, unspecified",I21.9,15/05/2024,ER,5.87,183.71
+60EE5C0C304C,44,"Acute myocardial infarction, unspecified",I21.9,16/05/2024,External,40.32,3692.3
+60EE5C0C304C,44,"Acute myocardial infarction, unspecified",I21.9,16/05/2024,inp,40.32,3692.3
+4DC11214D847,61,"Acute myocardial infarction, unspecified",I21.9,16/05/2024,inp,0.56,97.09
+C2721A1CA2A2,39,"Acute myocardial infarction, unspecified",I21.9,17/05/2024,External,153.84,25000
+C2721A1CA2A2,39,"Acute myocardial infarction, unspecified",I21.9,17/05/2024,inp,153.84,25000
+BFCE0AC40571,45,"Acute myocardial infarction, unspecified",I21.9,17/05/2024,ER,13.74,3278.94
+BFCE0AC40571,45,"Acute myocardial infarction, unspecified",I21.9,17/05/2024,External,13.74,3278.94
+BFCE0AC40571,45,"Acute myocardial infarction, unspecified",I21.9,17/05/2024,inp,13.74,3278.94
+158CFF5B6F83,62,"Acute myocardial infarction, unspecified",I21.9,19/05/2024,External,3.79,2363.8
+158CFF5B6F83,62,"Acute myocardial infarction, unspecified",I21.9,19/05/2024,inp,3.79,2363.8
+6FC083A2653C,61,"Acute myocardial infarction, unspecified",I21.9,19/05/2024,External,22.02,11807.67
+6FC083A2653C,61,"Acute myocardial infarction, unspecified",I21.9,19/05/2024,inp,22.02,11807.67
+B40EE981FE5D,65,"Acute myocardial infarction, unspecified",I21.9,20/05/2024,External,1.01,5950.79
+B40EE981FE5D,65,"Acute myocardial infarction, unspecified",I21.9,20/05/2024,inp,1.01,5950.79
+A8132291C0B2,56,"Acute myocardial infarction, unspecified",I21.9,20/05/2024,External,0.25,708.53
+A8132291C0B2,56,"Acute myocardial infarction, unspecified",I21.9,20/05/2024,inp,0.25,708.53
+5FD7B5B7E531,60,"Acute myocardial infarction, unspecified",I21.9,21/05/2024,External,0.19,84.59
+5FD7B5B7E531,60,"Acute myocardial infarction, unspecified",I21.9,21/05/2024,inp,0.19,84.59
+C05E6F040522,33,"Acute myocardial infarction, unspecified",I21.9,22/05/2024,External,6.61,1456.04
+C05E6F040522,33,"Acute myocardial infarction, unspecified",I21.9,22/05/2024,inp,6.61,1456.04
+4D53065370E0,65,"Acute myocardial infarction, unspecified",I21.9,23/05/2024,External,4.43,769.63
+4D53065370E0,65,"Acute myocardial infarction, unspecified",I21.9,23/05/2024,inp,4.43,769.63
+565EC7B236EC,80,"Acute myocardial infarction, unspecified",I21.9,23/05/2024,External,6.9,2934.11
+565EC7B236EC,80,"Acute myocardial infarction, unspecified",I21.9,23/05/2024,inp,6.9,2934.11
+5E417065CB34,51,"Acute myocardial infarction, unspecified",I21.9,24/05/2024,External,4.31,105.68
+5E417065CB34,51,"Acute myocardial infarction, unspecified",I21.9,24/05/2024,inp,4.31,105.68
+27E064538870,46,"Acute myocardial infarction, unspecified",I21.9,25/05/2024,External,1.27,2.5
+27E064538870,46,"Acute myocardial infarction, unspecified",I21.9,25/05/2024,inp,1.27,2.5
+8252290F933F,69,"Acute myocardial infarction, unspecified",I21.9,26/05/2024,External,17.32,8039.2
+8252290F933F,69,"Acute myocardial infarction, unspecified",I21.9,26/05/2024,inp,17.32,8039.2
+592AD166016F,31,"Acute myocardial infarction, unspecified",I21.9,26/05/2024,External,0.0,4.22
+592AD166016F,31,"Acute myocardial infarction, unspecified",I21.9,26/05/2024,inp,0.0,4.22
+8F774D67916A,70,"Acute myocardial infarction, unspecified",I21.9,27/05/2024,External,0.43,157.73
+8F774D67916A,70,"Acute myocardial infarction, unspecified",I21.9,27/05/2024,inp,0.43,157.73
+B858B778B474,84,"Acute myocardial infarction, unspecified",I21.9,27/05/2024,ER,0.11,67.12
+98858D818D1B,72,"Acute myocardial infarction, unspecified",I21.9,29/05/2024,External,8.08,2189.21
+98858D818D1B,72,"Acute myocardial infarction, unspecified",I21.9,29/05/2024,inp,8.08,2189.21
+9FD66BE6C669,57,"Acute myocardial infarction, unspecified",I21.9,01/06/2024,External,12.32,682.94
+9FD66BE6C669,57,"Acute myocardial infarction, unspecified",I21.9,01/06/2024,inp,12.32,682.94
+CBFEDAE29EC1,68,"Acute myocardial infarction, unspecified",I21.9,01/06/2024,External,0.57,99.66
+CBFEDAE29EC1,68,"Acute myocardial infarction, unspecified",I21.9,01/06/2024,inp,0.57,99.66
+97279BF7D68D,40,"Acute myocardial infarction, unspecified",I21.9,02/06/2024,ER,8.64,11285.86
+97279BF7D68D,40,"Acute myocardial infarction, unspecified",I21.9,02/06/2024,External,8.64,11285.86
+97279BF7D68D,40,"Acute myocardial infarction, unspecified",I21.9,02/06/2024,inp,8.64,11285.86
+DD637CC477C2,58,"Acute myocardial infarction, unspecified",I21.9,02/06/2024,ER,189.94,25000
+DD637CC477C2,58,"Acute myocardial infarction, unspecified",I21.9,02/06/2024,External,189.94,25000
+DD637CC477C2,58,"Acute myocardial infarction, unspecified",I21.9,02/06/2024,inp,189.94,25000
+DBEA2EF05DA9,70,"Acute myocardial infarction, unspecified",I21.9,02/06/2024,External,0.83,1514.55
+DBEA2EF05DA9,70,"Acute myocardial infarction, unspecified",I21.9,02/06/2024,inp,0.83,1514.55
+C79C90D8B773,76,"Acute myocardial infarction, unspecified",I21.9,05/06/2024,External,11.95,1558.48
+C79C90D8B773,76,"Acute myocardial infarction, unspecified",I21.9,05/06/2024,inp,11.95,1558.48
+73181622724B,40,"Acute myocardial infarction, unspecified",I21.9,05/06/2024,External,61.32,25000
+73181622724B,40,"Acute myocardial infarction, unspecified",I21.9,05/06/2024,inp,61.32,25000
+28C86E373B3A,38,"Acute myocardial infarction, unspecified",I21.9,05/06/2024,External,191.43,25000
+28C86E373B3A,38,"Acute myocardial infarction, unspecified",I21.9,05/06/2024,inp,191.43,25000
+3A72190DC5EC,38,"Acute myocardial infarction, unspecified",I21.9,07/06/2024,External,28.38,9828.57
+3A72190DC5EC,38,"Acute myocardial infarction, unspecified",I21.9,07/06/2024,inp,28.38,9828.57
+858D2ED3E429,60,"Acute myocardial infarction, unspecified",I21.9,07/06/2024,External,5.47,381.28
+858D2ED3E429,60,"Acute myocardial infarction, unspecified",I21.9,07/06/2024,inp,5.47,381.28
+21DB7569EDBE,41,"Acute myocardial infarction, unspecified",I21.9,08/06/2024,External,198.61,25000
+21DB7569EDBE,41,"Acute myocardial infarction, unspecified",I21.9,08/06/2024,inp,198.61,25000
+14FD5DD2B74F,48,"Acute myocardial infarction, unspecified",I21.9,08/06/2024,External,15.26,1154.14
+14FD5DD2B74F,48,"Acute myocardial infarction, unspecified",I21.9,08/06/2024,inp,15.26,1154.14
+F2CCC5CAF5A1,36,"Acute myocardial infarction, unspecified",I21.9,08/06/2024,External,1.63,78.9
+F2CCC5CAF5A1,36,"Acute myocardial infarction, unspecified",I21.9,08/06/2024,inp,1.63,78.9
+2CE3517748DC,58,"Acute myocardial infarction, unspecified",I21.9,09/06/2024,ER,5.64,621.47
+265CF0A9C6EB,99,"Acute myocardial infarction, unspecified",I21.9,10/06/2024,External,4,2633.47
+265CF0A9C6EB,99,"Acute myocardial infarction, unspecified",I21.9,10/06/2024,inp,4,2633.47
+DAED29FD69BA,55,"Acute myocardial infarction, unspecified",I21.9,10/06/2024,External,0.46,101.89
+DAED29FD69BA,55,"Acute myocardial infarction, unspecified",I21.9,10/06/2024,inp,0.46,101.89
+5F307C84E894,49,"Acute myocardial infarction, unspecified",I21.9,11/06/2024,ER,0.43,7.94
+405FC8BE17E3,72,"Acute myocardial infarction, unspecified",I21.9,12/06/2024,ER,0.39,27.89
+A7980D33316D,73,"Acute myocardial infarction, unspecified",I21.9,12/06/2024,ER,51.63,25000
+32DFA5326FBB,49,"Acute myocardial infarction, unspecified",I21.9,13/06/2024,External,1.94,338.94
+32DFA5326FBB,49,"Acute myocardial infarction, unspecified",I21.9,13/06/2024,inp,1.94,338.94
+71D4DDAB7EDE,44,"Acute myocardial infarction, unspecified",I21.9,19/06/2024,External,26.45,7398.54
+71D4DDAB7EDE,44,"Acute myocardial infarction, unspecified",I21.9,19/06/2024,inp,26.45,7398.54
+47BE2D9607CA,68,"Acute myocardial infarction, unspecified",I21.9,21/06/2024,External,0.56,36.28
+47BE2D9607CA,68,"Acute myocardial infarction, unspecified",I21.9,21/06/2024,inp,0.56,36.28
+1620ADDE6C24,61,"Acute myocardial infarction, unspecified",I21.9,23/06/2024,ER,9.59,852.32
+605F5C89279B,84,"Acute myocardial infarction, unspecified",I21.9,23/06/2024,inp,75.6,25000
+41844DBCD936,60,"Acute myocardial infarction, unspecified",I40.9,23/06/2024,External,6.89,105.62
+41844DBCD936,60,"Acute myocardial infarction, unspecified",I40.9,23/06/2024,inp,6.89,105.62
+23C2F2E7EF03,41,"Acute myocardial infarction, unspecified",I21.9,24/06/2024,ER,1.77,6579.08
+0AF839929B82,57,"Acute myocardial infarction, unspecified",I21.9,24/06/2024,ER,300,25000
+098A9E6CA6F6,60,"Acute myocardial infarction, unspecified",I21.9,25/06/2024,ER,2.81,68.09
+03424946BB9A,44,"Acute myocardial infarction, unspecified",I21.9,26/06/2024,External,0.39,127.66
+03424946BB9A,44,"Acute myocardial infarction, unspecified",I21.9,26/06/2024,inp,0.39,127.66
+5C5FB4A95D68,60,"Acute myocardial infarction, unspecified",I21.9,26/06/2024,External,7.88,800.83
+5C5FB4A95D68,60,"Acute myocardial infarction, unspecified",I21.9,26/06/2024,inp,7.88,800.83
+50F49D3FEDF3,46,"Acute myocardial infarction, unspecified",I21.9,26/06/2024,ER,11.03,96.46
+EE476E9F53A7,65,"Acute myocardial infarction, unspecified",I21.9,27/06/2024,External,12.09,1362.52
+EE476E9F53A7,65,"Acute myocardial infarction, unspecified",I21.9,27/06/2024,inp,12.09,1362.52
+7BFA04906ADD,51,"Acute myocardial infarction, unspecified",I21.9,27/06/2024,ER,1.69,359.66
+368CB842022D,52,"Acute myocardial infarction, unspecified",I21.9,28/06/2024,External,4.78,614.61
+368CB842022D,52,"Acute myocardial infarction, unspecified",I21.9,28/06/2024,inp,4.78,614.61
+550F817B46B1,41,"Acute myocardial infarction, unspecified",I21.9,29/06/2024,External,5.95,406.81
+550F817B46B1,41,"Acute myocardial infarction, unspecified",I21.9,29/06/2024,inp,5.95,406.81
+FEA9811955F7,68,"Acute myocardial infarction, unspecified",I21.9,30/06/2024,External,51.78,11168.42
+FEA9811955F7,68,"Acute myocardial infarction, unspecified",I21.9,30/06/2024,inp,51.78,11168.42
+23C2F2E7EF03,41,"Acute myocardial infarction, unspecified",I21.9,30/06/2024,ER,0.88,7445.49
+2632AAA9B45B,92,"Acute myocardial infarction, unspecified",I21.9,30/06/2024,External,8.67,2474.06
+2632AAA9B45B,92,"Acute myocardial infarction, unspecified",I21.9,30/06/2024,inp,8.67,2474.06
+95D86CC286DD,39,"Acute myocardial infarction, unspecified",I21.9,30/06/2024,External,14,3764.28
+95D86CC286DD,39,"Acute myocardial infarction, unspecified",I21.9,30/06/2024,inp,14,3764.28
+20B6E48AB222,40,"Acute myocardial infarction, unspecified",I21.9,30/06/2024,External,0.27,3.13
+20B6E48AB222,40,"Acute myocardial infarction, unspecified",I21.9,30/06/2024,inp,0.27,3.13
+6DF9CBAAB587,66,"Acute myocardial infarction, unspecified",I21.9,05/07/2024,External,1.96,6330.4
+6DF9CBAAB587,66,"Acute myocardial infarction, unspecified",I21.9,05/07/2024,inp,1.96,6330.4
+4EC79C296599,87,"Acute myocardial infarction, unspecified",I21.9,08/07/2024,External,33.41,12904.39
+4EC79C296599,87,"Acute myocardial infarction, unspecified",I21.9,08/07/2024,inp,33.41,12904.39
+31163FD79724,60,"Acute myocardial infarction, unspecified",I21.9,09/07/2024,External,0.57,22.15
+31163FD79724,60,"Acute myocardial infarction, unspecified",I21.9,09/07/2024,inp,0.57,22.15
+F298251BF909,57,"Acute myocardial infarction, unspecified",I21.9,10/07/2024,External,0.83,19.68
+F298251BF909,57,"Acute myocardial infarction, unspecified",I21.9,10/07/2024,inp,0.83,19.68
+802735D38EE6,45,"Acute myocardial infarction, unspecified",I21.9,10/07/2024,External,1.98,4062.16
+802735D38EE6,45,"Acute myocardial infarction, unspecified",I21.9,10/07/2024,inp,1.98,4062.16
+2BFA501922EF,50,"Acute myocardial infarction, unspecified",I21.9,11/07/2024,ER,16.24,25000
+2BFA501922EF,50,"Acute myocardial infarction, unspecified",I21.9,11/07/2024,External,16.24,25000
+2BFA501922EF,50,"Acute myocardial infarction, unspecified",I21.9,11/07/2024,inp,16.24,25000
+08D5A61A46AC,79,"Acute myocardial infarction, unspecified",I21.9,18/07/2024,External,5.37,2473.59
+08D5A61A46AC,79,"Acute myocardial infarction, unspecified",I21.9,18/07/2024,inp,5.37,2473.59
+2F71BBB514F9,62,"Acute myocardial infarction, unspecified",I21.9,21/07/2024,External,130.16,9002.88
+2F71BBB514F9,62,"Acute myocardial infarction, unspecified",I21.9,21/07/2024,inp,130.16,9002.88
+37EBAB7BF20A,37,"Acute myocardial infarction, unspecified",I21.9,27/07/2024,ER,19.21,24091.88
+37EBAB7BF20A,37,"Acute myocardial infarction, unspecified",I21.9,27/07/2024,External,19.21,24091.88
+37EBAB7BF20A,37,"Acute myocardial infarction, unspecified",I21.9,27/07/2024,inp,19.21,24091.88
+D0966BAB71A0,47,"Acute myocardial infarction, unspecified",I21.9,31/07/2024,External,61.74,11891.66
+D0966BAB71A0,47,"Acute myocardial infarction, unspecified",I21.9,31/07/2024,inp,61.74,11891.66
+4026D63F0138,55,"Acute myocardial infarction, unspecified",I21.9,01/08/2024,External,0.76,25000
+4026D63F0138,55,"Acute myocardial infarction, unspecified",I21.9,01/08/2024,inp,0.76,25000
+D16D3B68075E,83,"Acute myocardial infarction, unspecified",I21.9,09/08/2024,External,7.2,9557.08
+D16D3B68075E,83,"Acute myocardial infarction, unspecified",I21.9,09/08/2024,inp,7.2,9557.08
+58CCB4AC4A96,67,"Acute myocardial infarction, unspecified",I21.9,09/08/2024,inp,5.74,25000
+C2053B845D9A,45,"Acute myocardial infarction, unspecified",I21.9,11/08/2024,External,3.45,1484.76
+C2053B845D9A,45,"Acute myocardial infarction, unspecified",I21.9,11/08/2024,inp,3.45,1484.76
+B12D33D66932,55,"Acute myocardial infarction, unspecified",I21.9,12/08/2024,External,13.11,25000
+B12D33D66932,55,"Acute myocardial infarction, unspecified",I21.9,12/08/2024,inp,13.11,25000
+48D4DDCE6FE5,28,"Acute myocardial infarction, unspecified",I21.9,16/08/2024,ER,1.9,633.83
+48D4DDCE6FE5,28,"Acute myocardial infarction, unspecified",I21.9,16/08/2024,External,1.9,633.83
+48D4DDCE6FE5,28,"Acute myocardial infarction, unspecified",I21.9,16/08/2024,inp,1.9,633.83
+7BB7890CE793,53,"Acute myocardial infarction, unspecified",I21.9,18/08/2024,External,4.48,194.4
+7BB7890CE793,53,"Acute myocardial infarction, unspecified",I21.9,18/08/2024,inp,4.48,194.4
+392AAC0445F5,69,"Acute myocardial infarction, unspecified",I21.9,18/08/2024,External,7.65,331.26
+392AAC0445F5,69,"Acute myocardial infarction, unspecified",I21.9,18/08/2024,inp,7.65,331.26
+CC3514BB2A63,41,"Acute myocardial infarction, unspecified",I21.9,21/08/2024,ER,300,25000
+3F9C934FC189,47,"Acute myocardial infarction, unspecified",I21.9,27/08/2024,External,215.14,25000
+3F9C934FC189,47,"Acute myocardial infarction, unspecified",I21.9,27/08/2024,inp,215.14,25000
+09CEFDE6DC99,40,"Acute myocardial infarction, unspecified",I21.9,27/08/2024,External,12.05,5328.53
+09CEFDE6DC99,40,"Acute myocardial infarction, unspecified",I21.9,27/08/2024,inp,12.05,5328.53
+7879FD1D6E1C,57,"Acute myocardial infarction, unspecified",I21.9,28/08/2024,External,0.16,332.18
+7879FD1D6E1C,57,"Acute myocardial infarction, unspecified",I21.9,28/08/2024,inp,0.16,332.18
+914A9B142410,56,"Acute myocardial infarction, unspecified",I21.9,04/09/2024,External,5.39,20073.61
+914A9B142410,56,"Acute myocardial infarction, unspecified",I21.9,04/09/2024,inp,5.39,20073.61
+FA8EE3C42A02,58,"Acute myocardial infarction, unspecified",I21.9,10/09/2024,External,57.28,25000
+FA8EE3C42A02,58,"Acute myocardial infarction, unspecified",I21.9,10/09/2024,inp,57.28,25000
+933D6BE7F647,89,"Acute myocardial infarction, unspecified",I21.9,13/09/2024,ER,0.5,2.5
+4DFBD6F81FF7,54,"Acute myocardial infarction, unspecified",I21.9,19/09/2024,External,1.37,25000
+4DFBD6F81FF7,54,"Acute myocardial infarction, unspecified",I21.9,19/09/2024,inp,1.37,25000
+92A86CF4D98A,49,"Acute myocardial infarction, unspecified",I21.9,19/09/2024,External,68.63,25000
+92A86CF4D98A,49,"Acute myocardial infarction, unspecified",I21.9,19/09/2024,inp,68.63,25000
+E675A2D1C684,58,"Acute myocardial infarction, unspecified",I21.9,20/09/2024,External,4.66,214.9
+E675A2D1C684,58,"Acute myocardial infarction, unspecified",I21.9,20/09/2024,inp,4.66,214.9
+E2C846547D65,83,"Acute myocardial infarction, unspecified",I21.9,20/09/2024,External,15.07,11804.09
+E2C846547D65,83,"Acute myocardial infarction, unspecified",I21.9,20/09/2024,inp,15.07,11804.09
+77E852F43D3A,53,"Acute myocardial infarction, unspecified",I21.9,21/09/2024,External,4.06,244.78
+77E852F43D3A,53,"Acute myocardial infarction, unspecified",I21.9,21/09/2024,inp,4.06,244.78
+8055731AA408,72,"Acute myocardial infarction, unspecified",I21.9,24/09/2024,ER,56.11,25000
+1587C550E490,53,"Acute myocardial infarction, unspecified",I21.9,25/09/2024,External,0.0,9.42
+1587C550E490,53,"Acute myocardial infarction, unspecified",I21.9,25/09/2024,inp,0.0,9.42
+E8591581E574,49,"Acute myocardial infarction, unspecified",I21.9,25/09/2024,External,6.33,318.7
+E8591581E574,49,"Acute myocardial infarction, unspecified",I21.9,25/09/2024,inp,6.33,318.7
+62D772B14839,48,"Acute myocardial infarction, unspecified",I21.9,26/09/2024,ER,1.84,45.79
+62D772B14839,48,"Acute myocardial infarction, unspecified",I21.9,26/09/2024,External,1.84,45.79
+62D772B14839,48,"Acute myocardial infarction, unspecified",I21.9,26/09/2024,inp,1.84,45.79
+2F6D88E0906F,67,"Acute myocardial infarction, unspecified",I21.9,05/10/2024,ER,5.54,25000.00
+2F6D88E0906F,67,"Acute myocardial infarction, unspecified",I21.9,05/10/2024,External,5.54,25000.00
+2F6D88E0906F,67,"Acute myocardial infarction, unspecified",I21.9,05/10/2024,inp,5.54,25000.00
+479F00997A71,52,"Acute myocardial infarction, unspecified",I21.9,08/10/2024,External,1.8,2.78
+479F00997A71,52,"Acute myocardial infarction, unspecified",I21.9,08/10/2024,inp,1.8,2.78
+C49FCA9F50C3,68,"Acute myocardial infarction, unspecified",I21.9,08/10/2024,External,3.01,3853.33
+C49FCA9F50C3,68,"Acute myocardial infarction, unspecified",I21.9,08/10/2024,inp,3.01,3853.33
+85B25DC8058B,58,"Acute myocardial infarction, unspecified",I21.9,09/10/2024,ER,3.94,404.99
+85B25DC8058B,58,"Acute myocardial infarction, unspecified",I21.9,09/10/2024,External,3.94,404.99
+85B25DC8058B,58,"Acute myocardial infarction, unspecified",I21.9,09/10/2024,inp,3.94,404.99
+A290336DE8CA,65,"Acute myocardial infarction, unspecified",I21.9,11/10/2024,External,48.4,20943.18
+A290336DE8CA,65,"Acute myocardial infarction, unspecified",I21.9,11/10/2024,inp,48.4,20943.18
+FE85C7FB9BB4,51,"Acute myocardial infarction, unspecified",I21.9,13/10/2024,ER,300.00,25000.00
+78130BDD7CAB,53,"Acute myocardial infarction, unspecified",I21.9,14/10/2024,ER,6.88,288.05
+AB1775120E97,69,"Acute myocardial infarction, unspecified",I21.9,15/10/2024,External,3.56,909.52
+AB1775120E97,69,"Acute myocardial infarction, unspecified",I21.9,15/10/2024,inp,3.56,909.52
+72FFC88CFF85,35,"Acute myocardial infarction, unspecified",I21.9,16/10/2024,External,1.22,268.66
+72FFC88CFF85,35,"Acute myocardial infarction, unspecified",I21.9,16/10/2024,inp,1.22,268.66
+2C4F7E79DD3C,59,"Acute myocardial infarction, unspecified",I21.9,18/10/2024,ER,3.46,25000.00
+51548B3C1473,42,"Acute myocardial infarction, unspecified",I21.9,23/10/2024,External,5.01,204.34
+51548B3C1473,42,"Acute myocardial infarction, unspecified",I21.9,23/10/2024,inp,5.01,204.34
+D2BBAE8032BD,80,"Acute myocardial infarction, unspecified",I21.9,24/10/2024,External,3.92,5517.81
+D2BBAE8032BD,80,"Acute myocardial infarction, unspecified",I21.9,24/10/2024,inp,3.92,5517.81
+6F42F293F40D,43,"Acute myocardial infarction, unspecified",I21.9,25/10/2024,External,0.48,4.62
+6F42F293F40D,43,"Acute myocardial infarction, unspecified",I21.9,25/10/2024,inp,0.48,4.62
+F5A50A6D8575,62,"Acute myocardial infarction, unspecified",I21.9,25/10/2024,ER,182.35,25000.00
+6187114CCCC8,66,"Acute myocardial infarction, unspecified",I21.9,02/11/2024,External,16.35,2242.99
+6187114CCCC8,66,"Acute myocardial infarction, unspecified",I21.9,02/11/2024,inp,16.35,2242.99
+E2B55CA86D58,72,"Acute myocardial infarction, unspecified",I21.9,07/11/2024,External,6.33,4800.28
+E2B55CA86D58,72,"Acute myocardial infarction, unspecified",I21.9,07/11/2024,inp,6.33,4800.28
+B54037F653BC,54,"Acute myocardial infarction, unspecified",I21.9,07/11/2024,ER,89.51,10696.89
+10E53FC0C1E7,47,"Acute myocardial infarction, unspecified",I21.9,09/11/2024,External,57.7,9783.45
+10E53FC0C1E7,47,"Acute myocardial infarction, unspecified",I21.9,09/11/2024,inp,57.7,9783.45
+3EA9C289926D,67,"Acute myocardial infarction, unspecified",I21.9,10/11/2024,External,66.79,15117.69
+3EA9C289926D,67,"Acute myocardial infarction, unspecified",I21.9,10/11/2024,inp,66.79,15117.69
+F159E7A6EE12,42,"Acute myocardial infarction, unspecified",I21.9,12/11/2024,External,0.23,3.01
+F159E7A6EE12,42,"Acute myocardial infarction, unspecified",I21.9,12/11/2024,inp,0.23,3.01
+A44B26CC08F5,42,"Acute myocardial infarction, unspecified",I21.9,16/11/2024,External,2.01,6875.13
+A44B26CC08F5,42,"Acute myocardial infarction, unspecified",I21.9,16/11/2024,inp,2.01,6875.13
+37CF82C38FF2,37,"Acute myocardial infarction, unspecified",I21.9,16/11/2024,ER,2.57,25000.00
+60ACEA7381F8,32,"Acute myocardial infarction, unspecified",I21.9,18/11/2024,ER,3.41,2387.99
+435C8C72D7B9,64,"Acute myocardial infarction, unspecified",I21.9,20/11/2024,External,2.05,207.3
+435C8C72D7B9,64,"Acute myocardial infarction, unspecified",I21.9,20/11/2024,inp,2.05,207.3
+4ED71C480C45,45,"Acute myocardial infarction, unspecified",I21.9,27/11/2024,ER,300.00,25000.00
+F2215164C9FA,65,"Acute myocardial infarction, unspecified",I21.9,30/11/2024,External,2.73,262.51
+F2215164C9FA,65,"Acute myocardial infarction, unspecified",I21.9,30/11/2024,inp,2.73,262.51
+1558AE03808A,72,"Acute myocardial infarction, unspecified",I21.9,02/12/2024,External,22.25,7854.59
+1558AE03808A,72,"Acute myocardial infarction, unspecified",I21.9,02/12/2024,inp,22.25,7854.59
+097B267B4B12,81,"Acute myocardial infarction, unspecified",I21.9,04/12/2024,ER,82.69,18192.39
+097B267B4B12,81,"Acute myocardial infarction, unspecified",I21.9,04/12/2024,External,82.69,18192.39
+097B267B4B12,81,"Acute myocardial infarction, unspecified",I21.9,04/12/2024,inp,82.69,18192.39
+4EEE2ACA0FFA,38,"Acute myocardial infarction, unspecified",I21.9,05/12/2024,ER,4.18,25000.00
+78CD3AC5563A,57,"Acute myocardial infarction, unspecified",I21.9,05/12/2024,External,108.94,23913.06
+78CD3AC5563A,57,"Acute myocardial infarction, unspecified",I21.9,05/12/2024,inp,108.94,23913.06
+BD13FE614934,56,"Acute myocardial infarction, unspecified",I21.9,07/12/2024,External,2.08,195.49
+BD13FE614934,56,"Acute myocardial infarction, unspecified",I21.9,07/12/2024,inp,2.08,195.49
+A61938C34A02,59,"Acute myocardial infarction, unspecified",I21.9,07/12/2024,External,2.18,25000.00
+A61938C34A02,59,"Acute myocardial infarction, unspecified",I21.9,07/12/2024,inp,2.18,25000.00
+78D785A91070,45,"Acute myocardial infarction, unspecified",I21.9,13/12/2024,External,2.64,9812.32
+78D785A91070,45,"Acute myocardial infarction, unspecified",I21.9,13/12/2024,inp,2.64,9812.32
+CB53036B88CF,77,"Acute myocardial infarction, unspecified",I21.9,17/12/2024,External,84.49,25000.00
+CB53036B88CF,77,"Acute myocardial infarction, unspecified",I21.9,17/12/2024,inp,84.49,25000.00
+701634FD41AF,69,"Acute myocardial infarction, unspecified",I21.9,17/12/2024,inp,115.92,25000.00
+9C0C5EC737F0,74,"Acute myocardial infarction, unspecified",I21.9,18/12/2024,External,58.12,25000.00
+9C0C5EC737F0,74,"Acute myocardial infarction, unspecified",I21.9,18/12/2024,inp,58.12,25000.00
+98ECF5CF6092,66,"Acute myocardial infarction, unspecified",I21.9,21/12/2024,External,1.65,333.37
+98ECF5CF6092,66,"Acute myocardial infarction, unspecified",I21.9,21/12/2024,inp,1.65,333.37
+6B25A9D1E789,36,"Acute myocardial infarction, unspecified",I21.9,22/12/2024,External,208.89,25000.00
+6B25A9D1E789,36,"Acute myocardial infarction, unspecified",I21.9,22/12/2024,inp,208.89,25000.00
+2FCEEC0F4BA9,81,"Acute myocardial infarction, unspecified",I21.9,24/12/2024,ER,104.76,25000.00
+29518979F3A6,66,"Acute myocardial infarction, unspecified",I21.9,24/12/2024,ER,11,3142.84
+B74F84F8D546,63,"Acute myocardial infarction, unspecified",I21.9,27/12/2024,External,62.11,599.38
+B74F84F8D546,63,"Acute myocardial infarction, unspecified",I21.9,27/12/2024,inp,62.11,599.38
+4EBB6876F245,66,"Acute myocardial infarction, unspecified",I21.9,27/12/2024,ER,79.44,25000.00
+4EBB6876F245,66,"Acute myocardial infarction, unspecified",I21.9,27/12/2024,External,79.44,25000.00
+4EBB6876F245,66,"Acute myocardial infarction, unspecified",I21.9,27/12/2024,inp,79.44,25000.00
+35D2A651A461,54,"Acute myocardial infarction, unspecified",I21.9,28/12/2024,External,12.31,1221.18
+35D2A651A461,54,"Acute myocardial infarction, unspecified",I21.9,28/12/2024,inp,12.31,1221.18
+0976B851F140,51,"Acute myocardial infarction, unspecified",I21.9,29/12/2024,External,0.39,2.5
+0976B851F140,51,"Acute myocardial infarction, unspecified",I21.9,29/12/2024,inp,0.39,2.5
+8555613031D1,28,"Acute myocardial infarction, unspecified",I21.9,29/12/2024,ER,0.38,3.24
+B0DC6C0C8DA8,44,"Acute myocardial infarction, unspecified",I21.9,31/12/2024,ER,9.87,4603.77
+C69F7D4DC950,53,"Acute myocardial infarction, unspecified",I21.9,31/12/2024,ER,176.42,25000.00
+4C6FC5FC6E85,47,"Acute myocardial infarction, unspecified",I21.9,01/01/2025,External,3.15,2064.79
+4C6FC5FC6E85,47,"Acute myocardial infarction, unspecified",I21.9,01/01/2025,inp,3.15,2064.79
+DE0CAE2F865C,57,"Acute myocardial infarction, unspecified",I21.9,01/01/2025,ER,66,25000.00
+4C6FC5FC6E85,47,"Acute myocardial infarction, unspecified",I21.9,01/01/2025,External,3.15,2064.79
+4C6FC5FC6E85,47,"Acute myocardial infarction, unspecified",I21.9,01/01/2025,inp,3.15,2064.79
+DE0CAE2F865C,57,"Acute myocardial infarction, unspecified",I21.9,01/01/2025,ER,66,25000.00
+F486D4CE159F,77,"Chest pain, unspecified",R07.4,01/01/2025,ER,1.16,4.8
+A2903FC4F0B6,54,"Chest pain, unspecified",R07.4,01/01/2025,ER,52.95,14870.69
+12A2C0BD11B3,43,"Chest pain, unspecified",R07.4,01/01/2025,ER,3,2.5
+17115D2D108E,52,"Chest pain, unspecified",R07.4,01/01/2025,ER,0.75,2.84
+1575343AFBC4,48,"Chest pain, unspecified",R07.4,01/01/2025,ER,1.12,8.99
+171AABCECBEB,43,"Chest pain, unspecified",R07.4,01/01/2025,ER,0.73,77.01
+07DC6545D242,34,"Chest pain, unspecified",R07.4,02/01/2025,ER,0.79,2.5
+61ABC870097C,47,"Chest pain, unspecified",R07.4,02/01/2025,ER,2.35,5.58
+0BB0E2BF561E,35,"Chest pain, unspecified",R07.4,02/01/2025,ER,0.63,3.06
+4FF590D98E4F,44,"Chest pain, unspecified",R07.4,02/01/2025,ER,1.05,2.5
+8F3204F28E6C,55,"Chest pain, unspecified",R07.4,02/01/2025,ER,1.07,2.5
+94FA3D6D50E9,49,"Chest pain, unspecified",R07.4,02/01/2025,ER,0.51,3.95
+0EE257194EDE,50,"Chest pain, unspecified",R07.4,02/01/2025,ER,1.57,21.67
+511BCC9FDCEE,53,"Chest pain, unspecified",R07.4,02/01/2025,ER,1.83,2.5
+6D7F83E0C4FF,61,"Chest pain, unspecified",R07.4,02/01/2025,ER,0.96,674.81
+1BA5406EB9CF,58,"Chest pain, unspecified",R07.4,02/01/2025,ER,0.13,65.74
+831A0521E1B4,66,"Chest pain, unspecified",R07.4,02/01/2025,ER,4.38,5.55
+2CFBEB9D307D,70,"Chest pain, unspecified",R07.4,03/01/2025,ER,3.83,1691.45
+786752965C00,44,"Chest pain, unspecified",R07.4,03/01/2025,ER,62.56,6678.14
+97B6F3AE754B,53,"Acute myocardial infarction, unspecified",I21.9,05/01/2025,ER,14.02,1925.23
+97B6F3AE754B,53,"Acute myocardial infarction, unspecified",I21.9,05/01/2025,External,14.02,1925.23
+97B6F3AE754B,53,"Acute myocardial infarction, unspecified",I21.9,05/01/2025,inp,14.02,1925.23
+97B6F3AE754B,53,"Acute myocardial infarction, unspecified",I21.9,05/01/2025,ER,14.02,1925.23
+97B6F3AE754B,53,"Acute myocardial infarction, unspecified",I21.9,05/01/2025,External,14.02,1925.23
+97B6F3AE754B,53,"Acute myocardial infarction, unspecified",I21.9,05/01/2025,inp,14.02,1925.23
+5DF515908ACA,43,"Chest pain, unspecified",R07.4,05/01/2025,ER,1.68,2.73
+D9971D9C2117,62,"Chest pain, unspecified",R07.4,05/01/2025,ER,1.11,9.8
+49FE11AA5582,62,"Chest pain, unspecified",R07.4,05/01/2025,ER,6.05,2.76
+0D4ADB827047,58,"Chest pain, unspecified",R07.4,05/01/2025,ER,6.81,567.19
+0D4ADB827047,58,"Chest pain, unspecified",R07.4,05/01/2025,External,6.81,567.19
+0D4ADB827047,58,"Chest pain, unspecified",R07.4,05/01/2025,inp,6.81,567.19
+01F90E23926C,38,"Chest pain, unspecified",R07.4,05/01/2025,ER,2.35,3.05
+1FD4E28EF3CF,33,"Chest pain, unspecified",R07.4,05/01/2025,ER,0.35,2.5
+1813AED93121,81,"Chest pain, unspecified",R07.4,05/01/2025,ER,0.12,8.76
+BDB49A7799EA,45,"Chest pain, unspecified",R07.4,05/01/2025,ER,1.21,8.2
+FAD9511BD7A4,40,"Chest pain, unspecified",R07.4,05/01/2025,ER,0.78,9.88
+1C680ECF6EA4,52,"Chest pain, unspecified",R07.4,05/01/2025,ER,0.98,9.43
+15A593E0B0EB,32,"Chest pain, unspecified",R07.4,05/01/2025,ER,0.0,2.5
+A9F276252C4E,44,"Chest pain, unspecified",R07.4,05/01/2025,ER,300.00,25000.00
+469F0D0FBF35,57,"Chest pain, unspecified",R07.4,05/01/2025,ER,1.53,5.07
+19ED563D1A17,60,"Chest pain, unspecified",R07.4,05/01/2025,ER,0.64,2.5
+11ED627AE503,49,"Chest pain, unspecified",R07.4,05/01/2025,ER,0.63,2.5
+EFFC0DE765E5,35,"Chest pain, unspecified",R07.4,05/01/2025,ER,0.35,2.5
+692BE301B76B,55,"Chest pain, unspecified",R07.4,06/01/2025,ER,1.02,4.55
+C121FE2E335F,58,"Chest pain, unspecified",R07.4,06/01/2025,ER,0.52,30.9
+D759684F1895,61,"Chest pain, unspecified",R07.4,06/01/2025,ER,1.23,5.1
+AF8BDC26FD1F,51,"Chest pain, unspecified",R07.4,06/01/2025,ER,0.51,75.23
+302B97C581A9,79,"Chest pain, unspecified",R07.4,06/01/2025,ER,1.87,7.61
+AD64D1BC70A2,62,"Chest pain, unspecified",R07.4,06/01/2025,ER,15.23,68.2
+1D3577A4ECAC,62,"Chest pain, unspecified",R07.4,06/01/2025,ER,3.94,12.98
+B5F38031C2CD,44,"Chest pain, unspecified",R07.4,06/01/2025,ER,1.07,3.58
+4F784A3B52AA,58,"Chest pain, unspecified",R07.4,06/01/2025,ER,2.85,2.98
+D8FBADBBD06E,49,"Chest pain, unspecified",R07.4,06/01/2025,ER,1.14,2.5
+E63E32D70605,56,"Chest pain, unspecified",R07.4,07/01/2025,ER,0.8,2.63
+D7CFBCD5E43A,58,"Chest pain, unspecified",R07.4,07/01/2025,ER,0.62,7.16
+5FAC662612F7,52,"Chest pain, unspecified",R07.4,07/01/2025,ER,3.18,9.65
+8CAC0A253FBD,50,"Chest pain, unspecified",R07.4,07/01/2025,ER,3.28,3.9
+29BCA043FF2A,42,"Chest pain, unspecified",R07.4,07/01/2025,ER,0.49,12.71
+E3C0A3CED2CC,34,"Chest pain, unspecified",R07.4,07/01/2025,ER,0.06,2.5
+A9D883772F0D,42,"Chest pain, unspecified",R07.4,07/01/2025,ER,0.6,4.86
+525446E9F1D0,42,"Chest pain, unspecified",R07.4,07/01/2025,ER,3.04,8.88
+AB7CAA404D24,32,"Chest pain, unspecified",R07.4,07/01/2025,ER,0.0,3.44
+301584922E98,76,"Chest pain, unspecified",R07.4,07/01/2025,ER,1.04,3.43
+7BF9B902F684,51,"Chest pain, unspecified",R07.4,07/01/2025,ER,1.44,9.45
+8AAFAF427886,58,"Chest pain, unspecified",R07.4,07/01/2025,ER,0.93,44.81
+AEA27BB04238,29,"Chest pain, unspecified",R07.4,07/01/2025,ER,0.97,2.86
+6DCCB57438BC,44,"Chest pain, unspecified",R07.4,07/01/2025,ER,138.61,25000.00
+726443F209D8,41,"Chest pain, unspecified",R07.4,07/01/2025,ER,5.39,3.09
+F07893F0FC33,45,"Acute myocardial infarction, unspecified",I21.9,08/01/2025,External,4.24,5.93
+F07893F0FC33,45,"Acute myocardial infarction, unspecified",I21.9,08/01/2025,inp,4.24,5.93
+F07893F0FC33,45,"Acute myocardial infarction, unspecified",I21.9,08/01/2025,External,4.24,5.93
+F07893F0FC33,45,"Acute myocardial infarction, unspecified",I21.9,08/01/2025,inp,4.24,5.93
+D304FAE081C4,57,"Chest pain, unspecified",R07.4,08/01/2025,ER,0.35,2.5
+2475228CB0F5,63,"Chest pain, unspecified",R07.4,08/01/2025,ER,2.3,24.63
+B60BA9F3A8E0,42,"Chest pain, unspecified",R07.4,08/01/2025,ER,1.02,4.44
+870815626120,52,"Chest pain, unspecified",R07.4,08/01/2025,ER,0.38,2.5
+6FFE59BBA2DA,42,"Chest pain, unspecified",R07.4,08/01/2025,ER,1.75,2.72
+24D905FABB81,50,"Chest pain, unspecified",R07.4,08/01/2025,ER,5.58,7.18
+6E4F16A17313,43,"Chest pain, unspecified",R07.4,08/01/2025,ER,0.61,2.5
+2C3B15B1CD0A,40,"Chest pain, unspecified",R07.4,08/01/2025,ER,0.5,2.5
+C6EA0585FB63,44,"Chest pain, unspecified",R07.4,08/01/2025,ER,0.68,15.22
+73EE2DB66654,67,"Chest pain, unspecified",R07.4,08/01/2025,ER,31.24,6433.68
+DD5D4BA460B8,53,"Chest pain, unspecified",R07.4,08/01/2025,ER,1.32,3.03
+2E69A59B66DD,64,"Chest pain, unspecified",R07.4,08/01/2025,ER,2.7,4.32
+D60F2BEE9EE1,52,"Chest pain, unspecified",R07.4,09/01/2025,ER,0.77,4.55
+66D548BB6516,45,"Chest pain, unspecified",R07.4,09/01/2025,ER,0.75,2.5
+A7E744FB7F67,60,"Chest pain, unspecified",R07.4,09/01/2025,External,75.57,21977.7
+A7E744FB7F67,60,"Chest pain, unspecified",R07.4,09/01/2025,inp,75.57,21977.7
+A15CAC98387E,43,"Chest pain, unspecified",R07.4,09/01/2025,ER,0.04,2.5
+A624107C655C,52,"Chest pain, unspecified",R07.4,09/01/2025,ER,2.38,10.07
+B70B6926C5F7,60,"Chest pain, unspecified",R07.4,09/01/2025,ER,1.61,2.5
+EFBF67AF01C1,71,"Chest pain, unspecified",R07.4,09/01/2025,ER,1.59,302.01
+8D58F7889F5D,29,"Chest pain, unspecified",R07.4,10/01/2025,ER,0.27,2.5
+B8910A3A965F,43,"Chest pain, unspecified",R07.4,10/01/2025,ER,0.94,9.67
+29814B5C9C1E,17,"Chest pain, unspecified",R07.4,10/01/2025,ER,0.23,2.5
+A30C93A0EAC5,60,"Chest pain, unspecified",R07.4,11/01/2025,ER,0.85,98.58
+6BC83A4787A6,39,"Chest pain, unspecified",R07.4,11/01/2025,ER,1.54,2.5
+53DADD1A4173,79,"Chest pain, unspecified",R07.4,11/01/2025,ER,0.32,5.94
+DD5D4BA460B8,53,"Chest pain, unspecified",R07.4,11/01/2025,ER,1.58,19.65
+1F367C9F09E2,41,"Chest pain, unspecified",R07.4,11/01/2025,ER,0.15,2.5
+0E91C02F4CAE,33,"Chest pain, unspecified",R07.4,11/01/2025,ER,4.12,2.5
+80B43E4C1B48,38,"Chest pain, unspecified",R07.4,11/01/2025,ER,1.21,6.09
+473DE299F8B4,35,"Chest pain, unspecified",R07.4,11/01/2025,ER,1.08,2.83
+AE3862938DD4,62,"Chest pain, unspecified",R07.4,11/01/2025,ER,0.0,2.5
+E7B6CB72E271,85,"Chest pain, unspecified",R07.4,11/01/2025,ER,0.27,6.93
+E191AB17E721,41,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.06,2.5
+D90CA5D79D35,48,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.49,2.5
+E9E3D2ADC302,80,"Chest pain, unspecified",R07.4,12/01/2025,ER,2.33,5.6
+104370A3D343,84,"Chest pain, unspecified",R07.4,12/01/2025,ER,1.22,4.77
+71C75411600E,44,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.0,4.13
+550F817B46B1,41,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.49,84.58
+2B85B09F94A1,37,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.0,2.5
+1D3577A4ECAC,62,"Chest pain, unspecified",R07.4,12/01/2025,ER,5.4,22.78
+CA6B2FE4D479,43,"Chest pain, unspecified",R07.4,12/01/2025,ER,1.09,26.81
+388CEC6A1146,41,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.6,2.5
+C73B941B553D,66,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.23,3.33
+EFBF67AF01C1,71,"Chest pain, unspecified",R07.4,12/01/2025,ER,12.16,5575.59
+8B53F53D632F,51,"Chest pain, unspecified",R07.4,12/01/2025,ER,85.23,15368.45
+F5A29DAB7321,26,"Chest pain, unspecified",R07.4,12/01/2025,ER,1.19,2.92
+EDDC378A3B28,40,"Chest pain, unspecified",R07.4,12/01/2025,ER,1.87,21.45
+E60CA128646F,36,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.37,2.5
+7AC9E27E0274,35,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.0,2.5
+7AC9E27E0274,35,"Chest pain, unspecified",R07.4,12/01/2025,inp,0.0,2.5
+A7B833CF8A02,26,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.0,2.5
+67B3DC5BA82C,45,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.0,2.5
+755A6D957E59,42,"Chest pain, unspecified",R07.4,12/01/2025,ER,2.48,2.5
+4877D171B1ED,40,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.31,2.5
+5994123ECAD3,40,"Chest pain, unspecified",R07.4,12/01/2025,ER,0.62,37.29
+378391F78E5F,59,"Acute myocardial infarction, unspecified",I21.9,13/01/2025,ER,11.18,2969.59
+378391F78E5F,59,"Acute myocardial infarction, unspecified",I21.9,13/01/2025,ER,11.18,2969.59
+7B30E984DE1F,54,"Chest pain, unspecified",R07.4,13/01/2025,ER,0.06,4.05
+1796DE5EED37,56,"Chest pain, unspecified",R07.4,13/01/2025,ER,1.29,18.87
+79F1448742FD,53,"Chest pain, unspecified",R07.4,13/01/2025,ER,0.88,3.3
+437E4035EC61,47,"Chest pain, unspecified",R07.4,13/01/2025,ER,2.41,2.5
+45893F824F76,57,"Chest pain, unspecified",R07.4,13/01/2025,ER,1.13,2.5
+9462229ECDBD,27,"Chest pain, unspecified",R07.4,13/01/2025,ER,0.21,2.5
+982690BEECCA,44,"Chest pain, unspecified",R07.4,13/01/2025,ER,0.02,2.5
+4ECF4EDE5A33,74,"Chest pain, unspecified",R07.4,13/01/2025,ER,0.86,26.01
+BB599F8C5392,68,"Chest pain, unspecified",R07.4,13/01/2025,ER,24.8,1038.35
+D3351768529E,45,"Chest pain, unspecified",R07.4,13/01/2025,ER,1.21,2.82
+45128A48F55A,41,"Chest pain, unspecified",R07.4,13/01/2025,ER,0.36,3.67
+06B9235FF094,34,"Chest pain, unspecified",R07.4,13/01/2025,ER,0.29,2.5
+E50A841697BC,45,"Chest pain, unspecified",R07.4,13/01/2025,ER,0.07,9.04
+C5C97DFBF2F1,58,"Chest pain, unspecified",R07.4,14/01/2025,ER,0.39,2.5
+2CFBEB9D307D,70,"Chest pain, unspecified",R07.4,14/01/2025,ER,1.62,30.12
+439129F0BD14,49,"Chest pain, unspecified",R07.4,14/01/2025,ER,1.24,2.5
+09540419EF98,36,"Chest pain, unspecified",R07.4,14/01/2025,ER,0.09,2.5
+BCBF63DBE667,51,"Chest pain, unspecified",R07.4,14/01/2025,ER,2.82,2.5
+45893F824F76,57,"Chest pain, unspecified",R07.4,14/01/2025,ER,1.11,2.88
+1DD5064F9F72,45,"Chest pain, unspecified",R07.4,14/01/2025,Out,0.36,2.5
+4877D171B1ED,40,"Chest pain, unspecified",R07.4,14/01/2025,ER,0.42,2.5
+7F217B486158,63,"Chest pain, unspecified",R07.4,14/01/2025,ER,2.47,16.63
+64FD7810372F,34,"Chest pain, unspecified",R07.4,14/01/2025,ER,0.72,5.24
+71F34645286B,53,"Chest pain, unspecified",R07.4,14/01/2025,ER,0.49,3.8
+E0CB7AAE159E,45,"Acute myocardial infarction, unspecified",I21.9,15/01/2025,ER,1.04,84.59
+E0CB7AAE159E,45,"Acute myocardial infarction, unspecified",I21.9,15/01/2025,ER,1.04,84.59
+2360703D090A,72,"Chest pain, unspecified",R07.4,15/01/2025,ER,1.3,33.58
+1741BA57390D,61,"Chest pain, unspecified",R07.4,15/01/2025,ER,3.16,8.09
+DB2F864E093F,38,"Chest pain, unspecified",R07.4,15/01/2025,ER,1.89,4.31
+30957AB9EC97,69,"Chest pain, unspecified",R07.4,15/01/2025,ER,2.21,25.98
+40C90AD5995B,75,"Chest pain, unspecified",R07.4,15/01/2025,ER,2.47,117.41
+29758B953F06,49,"Chest pain, unspecified",R07.4,15/01/2025,ER,1.31,2.5
+6F461D4BC21A,50,"Chest pain, unspecified",R07.4,15/01/2025,ER,0.0,2.5
+8ECDD0D83DF1,50,"Chest pain, unspecified",R07.4,15/01/2025,ER,0.21,2.63
+EDC604C38094,60,"Chest pain, unspecified",R07.4,15/01/2025,ER,0.69,4.42
+CEB43007EB92,69,"Chest pain, unspecified",R07.4,15/01/2025,ER,0.0,2.5
+530DEA0CF2A0,40,"Chest pain, unspecified",R07.4,15/01/2025,ER,0.74,3.25
+DB54891C9A22,47,"Chest pain, unspecified",R07.4,15/01/2025,ER,1.75,2.51
+5520A4262EE7,42,"Chest pain, unspecified",R07.4,15/01/2025,ER,148.16,13702.36
+2B93EFE7C980,64,"Chest pain, unspecified",R07.4,16/01/2025,ER,0.5,7.6
+2FE851BCB867,64,"Chest pain, unspecified",R07.4,16/01/2025,ER,0.71,5.54
+0A0EE4BBA917,69,"Chest pain, unspecified",R07.4,16/01/2025,ER,0.82,4.18
+01599113CB15,46,"Chest pain, unspecified",R07.4,16/01/2025,ER,0.09,2.5
+4DD53D786894,43,"Chest pain, unspecified",R07.4,16/01/2025,ER,0.31,2.5
+5297BF7AFEBD,29,"Chest pain, unspecified",R07.4,16/01/2025,ER,0.49,5
+24D6015A2E21,54,"Acute myocardial infarction, unspecified",I21.9,17/01/2025,External,27.13,15
+24D6015A2E21,54,"Acute myocardial infarction, unspecified",I21.9,17/01/2025,inp,27.13,15
+24D6015A2E21,54,"Acute myocardial infarction, unspecified",I21.9,17/01/2025,External,27.13,15
+24D6015A2E21,54,"Acute myocardial infarction, unspecified",I21.9,17/01/2025,inp,27.13,15
+186C9C12428C,84,"Chest pain, unspecified",R07.4,17/01/2025,ER,2.42,0.01
+69057E24CB68,53,"Chest pain, unspecified",R07.4,17/01/2025,ER,0.94,0.01
+82D1B0353EE8,22,"Chest pain, unspecified",R07.4,17/01/2025,ER,0.62,0.01
+0E662F3D024B,44,"Chest pain, unspecified",R07.4,26/01/2025,ER,0.0,2.5
+E0B196381D28,49,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,External,4.74,7278.03
+E0B196381D28,49,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,inp,4.74,7278.03
+499204CD5FE2,70,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,ER,9.5,9396.23
+499204CD5FE2,70,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,External,9.5,9396.23
+499204CD5FE2,70,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,inp,9.5,9396.23
+E0B196381D28,49,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,External,4.74,7278.03
+E0B196381D28,49,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,inp,4.74,7278.03
+499204CD5FE2,70,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,ER,9.5,9396.23
+499204CD5FE2,70,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,External,9.5,9396.23
+499204CD5FE2,70,"Acute myocardial infarction, unspecified",I21.9,27/01/2025,inp,9.5,9396.23
+3133C420AC66,59,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.42,2.5
+385EECA3049E,57,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.0,2.5
+8D79F378BC23,47,"Chest pain, unspecified",R07.4,27/01/2025,ER,2.13,0.010
+47E2106A4A17,48,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.17,6.63
+2308E61B845D,52,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.18,3.11
+36FE0860248D,78,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.65,2.5
+2D0AF4BB5FD7,81,"Chest pain, unspecified",R07.4,27/01/2025,ER,1.48,9.69
+4E82C1110B44,61,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.04,2.5
+D0CF4A64CFBD,44,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.0,2.5
+DB1BF61D351D,64,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.0,10.48
+54B29FDA758C,60,"Chest pain, unspecified",R07.4,27/01/2025,ER,1.72,2.5
+86986CEABF7A,25,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.35,15.92
+D3351768529E,45,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.0,2.92
+1FD4E28EF3CF,33,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.74,2.5
+B4111F39A5AA,40,"Chest pain, unspecified",R07.4,27/01/2025,ER,0.0,3.55
+1ACAF6435E27,66,"Chest pain, unspecified",R07.4,27/01/2025,ER,3.2,4.23
+A9C019DE59CC,34,"Chest pain, unspecified",R07.4,27/01/2025,External,1.09,2.5
+A9C019DE59CC,34,"Chest pain, unspecified",R07.4,27/01/2025,inp,1.09,2.5
+BBA797630E4B,60,"Chest pain, unspecified",R07.4,27/01/2025,ER,1.43,11.82
+701E5B6BCDA9,72,"Chest pain, unspecified",R07.4,28/01/2025,ER,2.83,497.54
+701E5B6BCDA9,72,"Chest pain, unspecified",R07.4,28/01/2025,External,2.83,497.54
+701E5B6BCDA9,72,"Chest pain, unspecified",R07.4,28/01/2025,inp,2.83,497.54
+BD0D361BFB0C,58,"Chest pain, unspecified",R07.4,28/01/2025,ER,2.23,7.18
+C5A71CAB38D3,81,"Chest pain, unspecified",R07.4,28/01/2025,External,2.7,185.29
+C5A71CAB38D3,81,"Chest pain, unspecified",R07.4,28/01/2025,inp,2.7,185.29
+656372315A8C,47,"Chest pain, unspecified",R07.4,28/01/2025,ER,0.12,29.87
+D76618620174,33,"Chest pain, unspecified",R07.4,28/01/2025,ER,0.0,2.5
+D19E5698B53F,29,"Chest pain, unspecified",R07.4,28/01/2025,ER,0.0,2.5
+6860CE963A32,24,"Chest pain, unspecified",R07.4,28/01/2025,ER,0.43,2.61
+E6A7C90CCEDA,41,"Chest pain, unspecified",R07.4,28/01/2025,ER,0.33,5.57
+A1299E235684,29,"Chest pain, unspecified",R07.4,28/01/2025,ER,0.0,2.5
+E76191A636A9,51,"Chest pain, unspecified",R07.4,28/01/2025,ER,0.13,2.5
+56697537C043,38,"Chest pain, unspecified",R07.4,28/01/2025,ER,0.18,36.7
+3D16E2BEB648,46,"Acute myocardial infarction, unspecified",I21.9,29/01/2025,External,16.9,3822.23
+3D16E2BEB648,46,"Acute myocardial infarction, unspecified",I21.9,29/01/2025,inp,16.9,3822.23
+E3C879CF91F5,62,"Acute myocardial infarction, unspecified",I21.9,29/01/2025,External,13.7,4040.68
+E3C879CF91F5,62,"Acute myocardial infarction, unspecified",I21.9,29/01/2025,inp,13.7,4040.68
+3D16E2BEB648,46,"Acute myocardial infarction, unspecified",I21.9,29/01/2025,External,16.9,3822.23
+3D16E2BEB648,46,"Acute myocardial infarction, unspecified",I21.9,29/01/2025,inp,16.9,3822.23
+E3C879CF91F5,62,"Acute myocardial infarction, unspecified",I21.9,29/01/2025,External,13.7,4040.68
+E3C879CF91F5,62,"Acute myocardial infarction, unspecified",I21.9,29/01/2025,inp,13.7,4040.68
+7B8DD029D379,52,"Chest pain, unspecified",R07.4,29/01/2025,ER,1.26,2.77
+A8542795B97A,52,"Chest pain, unspecified",R07.4,29/01/2025,ER,0.4,8.79
+27FC0FC65DB4,43,"Chest pain, unspecified",R07.4,29/01/2025,ER,1.56,8.56
+6C8803FD1AC9,45,"Chest pain, unspecified",R07.4,29/01/2025,ER,1.04,650.35
+B561704E14DB,55,"Chest pain, unspecified",R07.4,29/01/2025,ER,2.07,4.07
+1F6798B1609D,18,"Chest pain, unspecified",R07.4,29/01/2025,ER,0.22,2.5
+493B792B77EE,25,"Chest pain, unspecified",R07.4,29/01/2025,ER,0.85,2.54
+D1837F950754,41,"Chest pain, unspecified",R07.4,29/01/2025,ER,0.52,12.77
+6290D02D45AA,55,"Chest pain, unspecified",R07.4,29/01/2025,ER,1.33,28.79
+37410311A577,77,"Chest pain, unspecified",R07.4,29/01/2025,ER,1.37,8.57
+EC47A38F944F,45,"Chest pain, unspecified",R07.4,29/01/2025,ER,0.0,2.5
+72059E7C2F7A,64,"Chest pain, unspecified",R07.4,30/01/2025,ER,0.0,2.95
+7342258F2F22,77,"Chest pain, unspecified",R07.4,30/01/2025,ER,0.0,10.49
+BFCC5407A519,43,"Chest pain, unspecified",R07.4,30/01/2025,ER,0.36,7.42
+B4DAA16521F8,52,"Chest pain, unspecified",R07.4,30/01/2025,ER,0.0,2.5
+01E16D54B9E5,19,"Chest pain, unspecified",R07.4,30/01/2025,ER,0.14,2.5
+340C772F046E,65,"Chest pain, unspecified",R07.4,30/01/2025,ER,10.67,489.2
+37B7BE2B1D0F,47,"Chest pain, unspecified",R07.4,30/01/2025,ER,0.0,2.5
+1461D0CC8F1B,58,"Chest pain, unspecified",R07.4,30/01/2025,ER,2.94,188.82
+EE1AD69CA392,72,"Chest pain, unspecified",R07.4,31/01/2025,External,1.48,6352
+EE1AD69CA392,72,"Chest pain, unspecified",R07.4,31/01/2025,inp,1.48,6352
+A607CDC30C13,45,"Chest pain, unspecified",R07.4,31/01/2025,ER,1.35,121.4
+6D12DAA2CADA,52,"Chest pain, unspecified",R07.4,01/02/2025,ER,0.98,25000.00
+B62FD1C344D0,80,"Chest pain, unspecified",R07.4,01/02/2025,ER,10.11,25000.00
+DF1550CB1D13,55,"Chest pain, unspecified",R07.4,01/02/2025,ER,48.28,6695.69
+ABAC2C9334DF,38,"Chest pain, unspecified",R07.4,02/02/2025,ER,0.0,2.5
+27FC0FC65DB4,43,"Chest pain, unspecified",R07.4,02/02/2025,ER,0.58,8.58
+AE2F51B0B63F,63,"Chest pain, unspecified",R07.4,02/02/2025,ER,3.9,4.6
+31B499952998,74,"Chest pain, unspecified",R07.4,02/02/2025,ER,4,10.33
+A9DF02FA1B95,83,"Chest pain, unspecified",R07.4,02/02/2025,ER,0.16,4.94
+4D82577D2B86,48,"Chest pain, unspecified",R07.4,02/02/2025,ER,0.0,21.86
+A6DADD394673,40,"Chest pain, unspecified",R07.4,02/02/2025,ER,2.21,2.5
+7661AB29C94E,41,"Chest pain, unspecified",R07.4,02/02/2025,ER,0.12,2.5
+F2535ACA2599,46,"Chest pain, unspecified",R07.4,02/02/2025,ER,0.0,2.5
+EC2479F0D0A3,72,"Chest pain, unspecified",R07.4,03/02/2025,ER,1.21,26.55
+708C2D96031B,64,"Chest pain, unspecified",R07.4,03/02/2025,ER,0.87,20.51
+7A785BEF184A,63,"Acute myocardial infarction, unspecified",I21.9,04/02/2025,ER,38.17,11817.72
+31DAD33FB890,27,"Acute myocardial infarction, unspecified",I21.9,04/02/2025,External,26.15,6339.15
+31DAD33FB890,27,"Acute myocardial infarction, unspecified",I21.9,04/02/2025,inp,26.15,6339.15
+7A785BEF184A,63,"Acute myocardial infarction, unspecified",I21.9,04/02/2025,ER,38.17,11817.72
+31DAD33FB890,27,"Acute myocardial infarction, unspecified",I21.9,04/02/2025,External,26.15,6339.15
+31DAD33FB890,27,"Acute myocardial infarction, unspecified",I21.9,04/02/2025,inp,26.15,6339.15
+31DAD33FB890,27,"Chest pain, unspecified",R07.4,04/02/2025,ER,26.15,6339.15
+41A68C547613,89,"Acute myocardial infarction, unspecified",I21.9,07/02/2025,ER,8.42,1846.89
+41A68C547613,89,"Acute myocardial infarction, unspecified",I21.9,07/02/2025,ER,8.42,1846.89
+5E6D301ABAAD,93,"Chest pain, unspecified",R07.4,07/02/2025,ER,6.48,8602.77
+CFD3B19967B7,69,"Chest pain, unspecified",R07.4,07/02/2025,ER,18.46,9201.46
+6187114CCCC8,66,"Chest pain, unspecified",R07.4,08/02/2025,ER,2.26,435.86
+A7EFD03CF465,37,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,External,2.72,148.65
+A7EFD03CF465,37,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,inp,2.72,148.65
+1099900BC3A5,78,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,External,4.92,1415.57
+1099900BC3A5,78,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,inp,4.92,1415.57
+EB6F6A86B927,57,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,External,0.62,9.88
+EB6F6A86B927,57,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,inp,0.62,9.88
+A7EFD03CF465,37,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,External,2.72,148.65
+A7EFD03CF465,37,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,inp,2.72,148.65
+1099900BC3A5,78,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,External,4.92,1415.57
+1099900BC3A5,78,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,inp,4.92,1415.57
+EB6F6A86B927,57,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,External,0.62,9.88
+EB6F6A86B927,57,"Acute myocardial infarction, unspecified",I21.9,09/02/2025,inp,0.62,9.88
+1099900BC3A5,78,"Chest pain, unspecified",R07.4,09/02/2025,External,4.92,1415.57
+1099900BC3A5,78,"Chest pain, unspecified",R07.4,09/02/2025,inp,4.92,1415.57
+72DACC901D4B,57,"Chest pain, unspecified",R07.4,09/02/2025,ER,0.0,2.5
+2B9362CB537C,25,"Chest pain, unspecified",R07.4,09/02/2025,ER,0.26,2.5
+026291F6E90E,60,"Chest pain, unspecified",R07.4,09/02/2025,ER,2.25,5.6
+6675882AA5BC,44,"Chest pain, unspecified",R07.4,09/02/2025,ER,0.49,11.59
+F2E83959D306,57,"Chest pain, unspecified",R07.4,09/02/2025,ER,0.0,2.5
+EB6F6A86B927,57,"Chest pain, unspecified",R07.4,09/02/2025,ER,0.62,9.88
+A53583919A0F,43,"Chest pain, unspecified",R07.4,09/02/2025,ER,1.82,18.43
+D9E54C921A30,42,"Chest pain, unspecified",R07.4,10/02/2025,ER,0.29,2.5
+1EF70CFF995A,55,"Chest pain, unspecified",R07.4,10/02/2025,ER,0.76,5.96
+8324AC3B7D3B,51,"Chest pain, unspecified",R07.4,10/02/2025,ER,0.04,2.5
+43FC7190E4AB,18,"Chest pain, unspecified",R07.4,10/02/2025,ER,0.0,2.5
+1F068A12B22A,39,"Chest pain, unspecified",R07.4,10/02/2025,ER,0.45,2.5
+D214A7279BE9,45,"Chest pain, unspecified",R07.4,11/02/2025,ER,5.09,3.35
+656372315A8C,47,"Chest pain, unspecified",R07.4,11/02/2025,ER,0.0,8.85
+C1FE938ABEDB,51,"Chest pain, unspecified",R07.4,11/02/2025,ER,7.56,30.03
+64F81A2D49B1,26,"Chest pain, unspecified",R07.4,11/02/2025,ER,0.21,2.5
+17ADB6EAA36A,59,"Chest pain, unspecified",R07.4,11/02/2025,ER,0.26,2.5
+4DC3E6F61897,54,"Chest pain, unspecified",R07.4,12/02/2025,ER,0.27,7.82
+17295F882134,76,"Chest pain, unspecified",R07.4,12/02/2025,ER,1.12,26.33
+F2E13761C1D3,46,"Chest pain, unspecified",R07.4,12/02/2025,ER,53.8,6467.21
+E325036949D4,44,"Chest pain, unspecified",R07.4,12/02/2025,ER,0.5,3.67
+640775F855D1,43,"Chest pain, unspecified",R07.4,12/02/2025,ER,0.0,2.5
+27ADFBD01E80,14,"Chest pain, unspecified",R07.4,12/02/2025,ER,21.04,118.48
+C5EA9C249B22,39,"Chest pain, unspecified",R07.4,12/02/2025,External,0.0,2.5
+C5EA9C249B22,39,"Chest pain, unspecified",R07.4,12/02/2025,inp,0.0,2.5
+657BF0CD1EFF,48,"Chest pain, unspecified",R07.4,12/02/2025,ER,0.0,2.51
+657BF0CD1EFF,48,"Chest pain, unspecified",R07.4,12/02/2025,inp,0.0,2.51
+2D9A08806D6A,22,"Chest pain, unspecified",R07.4,12/02/2025,ER,0.0,2.5
+9DF175EFF35E,49,"Chest pain, unspecified",R07.4,12/02/2025,ER,0.34,6.35
+CBAAE7F431BD,39,"Chest pain, unspecified",R07.4,12/02/2025,ER,3.3,3.43
+E3841081D388,53,"Acute myocardial infarction, unspecified",I21.9,13/02/2025,External,0.61,6.05
+E3841081D388,53,"Acute myocardial infarction, unspecified",I21.9,13/02/2025,inp,0.61,6.05
+E3841081D388,53,"Acute myocardial infarction, unspecified",I21.9,13/02/2025,External,0.61,6.05
+E3841081D388,53,"Acute myocardial infarction, unspecified",I21.9,13/02/2025,inp,0.61,6.05
+044E80EB5C67,43,"Chest pain, unspecified",R07.4,13/02/2025,inp,0,2.5
+417A78428114,64,"Chest pain, unspecified",R07.4,13/02/2025,ER,2.16,8.23
+B0D591117839,74,"Chest pain, unspecified",R07.4,13/02/2025,ER,1.67,7.85
+DD675B139342,22,"Chest pain, unspecified",R07.4,13/02/2025,ER,0.0,7.18
+DEE594931550,79,"Chest pain, unspecified",R07.4,13/02/2025,ER,0,38.54
+DEE594931550,79,"Chest pain, unspecified",R07.4,13/02/2025,inp,0,38.54
+E3841081D388,53,"Chest pain, unspecified",R07.4,13/02/2025,ER,0.61,6.05
+125E7A49633D,47,"Chest pain, unspecified",R07.4,13/02/2025,ER,0.76,2.5
+327E95EC3C6B,55,"Chest pain, unspecified",R07.4,13/02/2025,ER,0.0,2.5
+9AFCD732A69C,84,"Chest pain, unspecified",R07.4,13/02/2025,ER,2.29,4.8
+AE1827A6CDD7,32,"Chest pain, unspecified",R07.4,13/02/2025,ER,0.0,2.5
+BD177263B7B5,45,"Chest pain, unspecified",R07.4,13/02/2025,ER,0.4,4.87
+123EDA4CFB3B,81,"Chest pain, unspecified",R07.4,13/02/2025,ER,0.37,2.5
+F176F1165F26,55,"Acute myocardial infarction, unspecified",I21.9,14/02/2025,ER,101.03,25000.00
+F8E2C8662569,52,"Acute myocardial infarction, unspecified",I21.9,14/02/2025,External,13.53,25000.00
+F8E2C8662569,52,"Acute myocardial infarction, unspecified",I21.9,14/02/2025,inp,13.53,25000.00
+F176F1165F26,55,"Acute myocardial infarction, unspecified",I21.9,14/02/2025,ER,101.03,25000.00
+F8E2C8662569,52,"Acute myocardial infarction, unspecified",I21.9,14/02/2025,External,13.53,25000.00
+F8E2C8662569,52,"Acute myocardial infarction, unspecified",I21.9,14/02/2025,inp,13.53,25000.00
+A8A89FEE0176,56,"Chest pain, unspecified",R07.4,14/02/2025,ER,1.34,14.45
+50E7317EC73D,66,"Chest pain, unspecified",R07.4,14/02/2025,ER,0.0,2.5
+31E4AD0B6935,57,"Chest pain, unspecified",R07.4,14/02/2025,ER,1.36,26.7
+B5380E1E65C2,50,"Chest pain, unspecified",R07.4,14/02/2025,ER,0.0,2.5
+66D5A86EAD07,43,"Chest pain, unspecified",R07.4,14/02/2025,ER,0.0,2.5
+991149FB1897,33,"Chest pain, unspecified",R07.4,14/02/2025,ER,0.0,2.5
+DE5EBD88DC6A,70,"Chest pain, unspecified",R07.4,14/02/2025,ER,3.1,138.29
+A80BBBC3986F,48,"Chest pain, unspecified",R07.4,14/02/2025,ER,2.94,6.09
+80FD5EFDFB19,37,"Chest pain, unspecified",R07.4,14/02/2025,ER,0.5,2.5
+50F87F2FEE41,47,"Chest pain, unspecified",R07.4,14/02/2025,ER,0.96,2.5
+F8E2C8662569,52,"Chest pain, unspecified",R07.4,14/02/2025,ER,13.53,25000.00
+9EE2BB7E521B,69,"Chest pain, unspecified",R07.4,14/02/2025,ER,0.74,3.31
+B23B559D8480,68,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.01,2.5
+3D54E2164467,76,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.16,8.55
+12280155015E,40,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,2.5
+EDCE4E2A0F90,72,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.4,7.72
+E5EFC11385B6,57,"Chest pain, unspecified",R07.4,15/02/2025,ER,8.66,11.93
+4B6AC2F2C080,60,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.28,2.5
+A8E31C07FAD4,41,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,2.5
+FF1CF6C23746,26,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,2.5
+BEFCA6B076B8,58,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.59,17.1
+6860CE963A32,24,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.62,2.5
+1A8CF0913ABC,37,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.54,2.5
+A1299E235684,29,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,2.5
+23B7BAB4DE0F,82,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,9.62
+F095DD799EFC,37,"Chest pain, unspecified",R07.4,15/02/2025,ER,1.7,54.29
+9499F4654911,22,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,2.5
+528BBB49CFF8,34,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,2.5
+C943E313FFF1,42,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,2.5
+22E9057F7BE6,37,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,2.5
+5FE589D274B2,67,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.29,2.5
+28060B5A9819,34,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.0,3.18
+C8484A9C1ED0,56,"Chest pain, unspecified",R07.4,15/02/2025,ER,0.36,3.76
+F6471A80C06C,66,"Acute myocardial infarction, unspecified",I21.9,16/02/2025,External,87.24,25000.00
+F6471A80C06C,66,"Acute myocardial infarction, unspecified",I21.9,16/02/2025,inp,87.24,25000.00
+F6471A80C06C,66,"Acute myocardial infarction, unspecified",I21.9,16/02/2025,External,87.24,25000.00
+F6471A80C06C,66,"Acute myocardial infarction, unspecified",I21.9,16/02/2025,inp,87.24,25000.00
+ADCB113E8652,16,"Acute myocardial infarction, unspecified",I40.9,16/02/2025,External,0.39,249.77
+ADCB113E8652,16,"Acute myocardial infarction, unspecified",I40.9,16/02/2025,inp,0.39,249.77
+EBA1B6EE93D7,42,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.03,4.16
+3F008AFFCC86,57,"Chest pain, unspecified",R07.4,16/02/2025,ER,10.12,3.58
+21396A8F5A92,85,"Chest pain, unspecified",R07.4,16/02/2025,ER,2.08,11.13
+95E3644B7A6A,43,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.0,2.74
+2224A44A7095,59,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.22,21.23
+6FD8E7BAACCD,58,"Chest pain, unspecified",R07.4,16/02/2025,ER,63.79,1907.48
+FF093224C619,60,"Chest pain, unspecified",R07.4,16/02/2025,ER,0,3.92
+FE9F8199B7CC,63,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.15,18.48
+19224D01FF2C,89,"Chest pain, unspecified",R07.4,16/02/2025,ER,66.57,23127.97
+9BADEBD17FD9,35,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.0,4.29
+DE885A079784,44,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.65,7.42
+E98B8A4B291C,47,"Chest pain, unspecified",R07.4,16/02/2025,ER,3.36,13.89
+ADCB113E8652,16,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.39,249.77
+07FC4627CDAA,18,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.0,2.5
+746141A0DC84,34,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.0,754.33
+F6471A80C06C,66,"Chest pain, unspecified",R07.4,16/02/2025,ER,87.24,25000.00
+A8D89B651FBD,30,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.0,2.5
+A71AEAE25370,18,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.0,2.5
+FE5B0EEC3D57,63,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.0,2.5
+2F90F6C0C359,38,"Chest pain, unspecified",R07.4,16/02/2025,ER,0.47,2.5
+C83D2CED6C14,64,"Acute myocardial infarction, unspecified",I21.9,17/02/2025,External,1.48,82.51
+C83D2CED6C14,64,"Acute myocardial infarction, unspecified",I21.9,17/02/2025,inp,1.48,82.51
+31AEFF125BB7,68,"Acute myocardial infarction, unspecified",I21.9,17/02/2025,External,4.26,295.79
+31AEFF125BB7,68,"Acute myocardial infarction, unspecified",I21.9,17/02/2025,inp,4.26,295.79
+C83D2CED6C14,64,"Acute myocardial infarction, unspecified",I21.9,17/02/2025,External,1.48,82.51
+C83D2CED6C14,64,"Acute myocardial infarction, unspecified",I21.9,17/02/2025,inp,1.48,82.51
+31AEFF125BB7,68,"Acute myocardial infarction, unspecified",I21.9,17/02/2025,External,4.26,295.79
+31AEFF125BB7,68,"Acute myocardial infarction, unspecified",I21.9,17/02/2025,inp,4.26,295.79
+0CFA2232DC64,34,"Chest pain, unspecified",R07.4,17/02/2025,ER,0.97,2.5
+2BDFC871B062,69,"Chest pain, unspecified",R07.4,17/02/2025,ER,1.08,14.6
+78F0FC869001,40,"Chest pain, unspecified",R07.4,17/02/2025,ER,0.0,2.59
+36BDD1FE1CC4,66,"Chest pain, unspecified",R07.4,17/02/2025,ER,0.0,5.26
+82BBF351563E,41,"Chest pain, unspecified",R07.4,17/02/2025,ER,0,5.59
+20B1FEA7B74A,54,"Chest pain, unspecified",R07.4,17/02/2025,ER,0.0,8.95
+31B499952998,74,"Chest pain, unspecified",R07.4,17/02/2025,ER,1.33,8.68
+9AA53E4A9BC8,68,"Chest pain, unspecified",R07.4,17/02/2025,ER,0.39,2.5
+C83D2CED6C14,64,"Chest pain, unspecified",R07.4,17/02/2025,ER,1.48,82.51
+CD222F03679E,67,"Chest pain, unspecified",R07.4,17/02/2025,ER,30.14,25000.00
+66D1F7B990A4,59,"Chest pain, unspecified",R07.4,17/02/2025,ER,0,9.3
+BE9C2082F62B,41,"Chest pain, unspecified",R07.4,17/02/2025,ER,2.68,14.84
+AE213B245652,30,"Chest pain, unspecified",R07.4,17/02/2025,ER,10.58,4.78
+AE213B245652,30,"Chest pain, unspecified",R07.4,17/02/2025,inp,10.58,4.78
+9B2695BC2CE2,45,"Chest pain, unspecified",R07.4,17/02/2025,ER,0,2.5
+31AEFF125BB7,68,"Chest pain, unspecified",R07.4,17/02/2025,ER,4.26,295.79
+E818D08C706B,69,"Chest pain, unspecified",R07.4,18/02/2025,ER,2.68,180.54
+F21E944AB427,54,"Chest pain, unspecified",R07.4,18/02/2025,ER,1.62,3.36
+00FA0386C1F2,71,"Chest pain, unspecified",R07.4,18/02/2025,ER,0.74,9.27
+2B35CEE42E9C,60,"Chest pain, unspecified",R07.4,18/02/2025,ER,0.04,2.5
+CCE6FC102AB5,55,"Chest pain, unspecified",R07.4,18/02/2025,ER,0.0,2.5
+3907865867A6,42,"Chest pain, unspecified",R07.4,18/02/2025,ER,0.0,2.5
+9A243D27D5DF,45,"Chest pain, unspecified",R07.4,18/02/2025,ER,126.14,25000.00
+B0458DE08C53,27,"Chest pain, unspecified",R07.4,18/02/2025,ER,0.0,2.5
+B77C09800B88,38,"Chest pain, unspecified",R07.4,18/02/2025,ER,3.73,3.07
+1E7B1EBF63A3,36,"Chest pain, unspecified",R07.4,18/02/2025,ER,0.0,2.5
+BE1BF7158311,27,"Chest pain, unspecified",R07.4,18/02/2025,ER,0.0,2.5
+1C640014CB14,38,"Chest pain, unspecified",R07.4,18/02/2025,ER,0.0,2.5
+8A2259BB2AE9,49,"Chest pain, unspecified",R07.4,18/02/2025,ER,1.19,64.58
+4CCAE438E6DB,83,"Acute myocardial infarction, unspecified",I21.9,19/02/2025,inp,0.84,26.9
+4CCAE438E6DB,83,"Acute myocardial infarction, unspecified",I21.9,19/02/2025,inp,0.84,26.9
+1F51C65510D5,46,"Chest pain, unspecified",R07.4,19/02/2025,ER,0.0,8.38
+664DAA914C29,66,"Chest pain, unspecified",R07.4,19/02/2025,ER,0.11,39.81
+4FCEF39AC02A,53,"Chest pain, unspecified",R07.4,19/02/2025,ER,0.55,4.29
+5BCACCD0F2C7,64,"Chest pain, unspecified",R07.4,19/02/2025,ER,0.52,2.5
+A953ABE4B68B,32,"Chest pain, unspecified",R07.4,19/02/2025,ER,0.44,2.5
+8F0DBB1547EA,14,"Chest pain, unspecified",R07.4,19/02/2025,ER,0.86,2.5
+B86F3233E746,39,"Chest pain, unspecified",R07.4,19/02/2025,ER,0.24,31.27
+4AC2E4508E16,77,"Chest pain, unspecified",R07.4,19/02/2025,ER,0.0,2.5
+C9291F93B36E,85,"Acute myocardial infarction, unspecified",I21.9,20/02/2025,External,1.47,316.55
+C9291F93B36E,85,"Acute myocardial infarction, unspecified",I21.9,20/02/2025,inp,1.47,316.55
+752B6009823E,49,"Acute myocardial infarction, unspecified",I21.9,20/02/2025,ER,2.17,13.86
+C9291F93B36E,85,"Acute myocardial infarction, unspecified",I21.9,20/02/2025,External,1.47,316.55
+C9291F93B36E,85,"Acute myocardial infarction, unspecified",I21.9,20/02/2025,inp,1.47,316.55
+752B6009823E,49,"Acute myocardial infarction, unspecified",I21.9,20/02/2025,ER,2.17,13.86
+F6ADF6701134,64,"Chest pain, unspecified",R07.4,20/02/2025,ER,1.27,2.5
+36BDD1FE1CC4,66,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.0,2.5
+F21E944AB427,54,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.7,2.94
+9A5DDDFE7B73,38,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.0,2.5
+A68DCC9D5749,53,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.0,2.5
+E08C1A980417,72,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.82,90.12
+FA752AFA6A0D,38,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.23,8.84
+3D0F26B5BC78,83,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.0,5.31
+CC49F7DABBFC,60,"Chest pain, unspecified",R07.4,20/02/2025,ER,1.17,4.47
+06BF2C016E9B,20,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.0,2.5
+038744E2808A,47,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.47,5.4
+86B941FBC756,45,"Chest pain, unspecified",R07.4,20/02/2025,ER,0.0,2.5
+B25C7A0D7F19,66,"Chest pain, unspecified",R07.4,21/02/2025,ER,1.19,8.14
+5011C119289F,56,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.0,2.5
+98F98BC63F76,74,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.0,4.75
+74A9396EF8D0,27,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.0,2.5
+F5B4A79CEAF7,66,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.58,2.5
+41AC036DBBD0,40,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.0,2.5
+1B57EA6318FD,47,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.0,2.5
+5500BFE8B741,50,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.53,3.55
+7486134F3085,17,"Chest pain, unspecified",R07.4,21/02/2025,ER,1.64,36.82
+D2A060F71CD9,31,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.0,2.5
+7F9D74914B1E,16,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.38,5.36
+C14EF1B2F93F,19,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.0,2.5
+79501E2556FD,41,"Chest pain, unspecified",R07.4,21/02/2025,ER,0.0,2.5
+710D069EC1B3,55,"Acute myocardial infarction, unspecified",I21.9,22/02/2025,External,1.39,525.75
+710D069EC1B3,55,"Acute myocardial infarction, unspecified",I21.9,22/02/2025,inp,1.39,525.75
+07D53EBE89CB,55,"Acute myocardial infarction, unspecified",I21.9,22/02/2025,ER,215.39,25000.00
+710D069EC1B3,55,"Acute myocardial infarction, unspecified",I21.9,22/02/2025,External,1.39,525.75
+710D069EC1B3,55,"Acute myocardial infarction, unspecified",I21.9,22/02/2025,inp,1.39,525.75
+07D53EBE89CB,55,"Acute myocardial infarction, unspecified",I21.9,22/02/2025,ER,215.39,25000.00
+EED7E1EA1541,58,"Chest pain, unspecified",R07.4,22/02/2025,ER,0.3,4.22
+2D18F6F846FF,62,"Chest pain, unspecified",R07.4,22/02/2025,ER,0.0,2.5
+ADD1026ACCEC,22,"Chest pain, unspecified",R07.4,22/02/2025,ER,0.0,2.5
+D01B79532D1C,54,"Chest pain, unspecified",R07.4,22/02/2025,ER,1.72,110.87
+6DE674E09FEC,56,"Chest pain, unspecified",R07.4,22/02/2025,ER,0.37,1622.86
+03E64D16E76A,52,"Chest pain, unspecified",R07.4,22/02/2025,ER,7.04,12.2
+0324609D97DC,57,"Chest pain, unspecified",R07.4,23/02/2025,ER,2.2,9.27
+07A1C0231FBC,69,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.0,3.54
+EF3612FE67FB,83,"Chest pain, unspecified",R07.4,23/02/2025,ER,3.16,14.03
+52F6F981C5AB,58,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.86,2.5
+23F74C803723,46,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.36,2.5
+CB0A90D48934,32,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.0,2.5
+827D3C3731F1,81,"Chest pain, unspecified",R07.4,23/02/2025,External,3.13,372.92
+827D3C3731F1,81,"Chest pain, unspecified",R07.4,23/02/2025,inp,3.13,372.92
+3B68B121CBF4,77,"Chest pain, unspecified",R07.4,23/02/2025,ER,1.09,229.29
+3B68B121CBF4,77,"Chest pain, unspecified",R07.4,23/02/2025,External,1.09,229.29
+3B68B121CBF4,77,"Chest pain, unspecified",R07.4,23/02/2025,inp,1.09,229.29
+3D02AC90F4CF,68,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.1,2.5
+0C24E8208692,70,"Chest pain, unspecified",R07.4,23/02/2025,ER,2.38,2.5
+DE56BFEFFABF,26,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.54,2.5
+C2ABA84D9899,33,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.0,2.5
+4123CE2B1A29,39,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.1,2.5
+560843FF6DB3,36,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.0,3.68
+6295A1006705,35,"Chest pain, unspecified",R07.4,23/02/2025,ER,0,2.5
+DC0228B95DDE,53,"Chest pain, unspecified",R07.4,23/02/2025,ER,1.56,6.68
+B8F9A379A0B9,45,"Chest pain, unspecified",R07.4,23/02/2025,ER,0.0,23.22
+7B8DD029D379,52,"Chest pain, unspecified",R07.4,24/02/2025,ER,0,2.5
+57036D502997,40,"Chest pain, unspecified",R07.4,24/02/2025,ER,0.0,9.49
+76EE1CE382BB,68,"Chest pain, unspecified",R07.4,24/02/2025,ER,0.36,5.06
+D6391E793806,65,"Chest pain, unspecified",R07.4,24/02/2025,ER,0.0,2.5
+D6391E793806,65,"Chest pain, unspecified",R07.4,24/02/2025,External,0.0,2.5
+D6391E793806,65,"Chest pain, unspecified",R07.4,24/02/2025,inp,0.0,2.5
+D4AEA74CB50A,73,"Chest pain, unspecified",R07.4,24/02/2025,ER,1.61,12.91
+53A16F151266,74,"Chest pain, unspecified",R07.4,24/02/2025,ER,0.0,2.57
+9EAA6432C2DB,53,"Chest pain, unspecified",R07.4,24/02/2025,ER,0.0,2.5
+251EEEF60289,52,"Chest pain, unspecified",R07.4,24/02/2025,ER,1.09,66.08
+1FD526211CC4,41,"Chest pain, unspecified",R07.4,24/02/2025,ER,0.0,2.5
+0D759844F6DA,49,"Chest pain, unspecified",R07.4,24/02/2025,ER,0.0,2.5
+0D759844F6DA,49,"Chest pain, unspecified",R07.4,24/02/2025,inp,0.0,2.5
+4DC383051A0F,35,"Chest pain, unspecified",R07.4,24/02/2025,ER,0.0,3.35
+03AF472F456E,40,"Chest pain, unspecified",R07.4,24/02/2025,ER,0.28,2.5
+A7B061C3FC49,56,"Chest pain, unspecified",R07.4,25/02/2025,ER,0.0,2.5
+D6EE06E9D4D0,89,"Chest pain, unspecified",R07.4,25/02/2025,ER,0.0,5.96
+8217E389FFAD,38,"Chest pain, unspecified",R07.4,25/02/2025,ER,0.0,2.5
+C92A5CED02E4,66,"Chest pain, unspecified",R07.4,25/02/2025,ER,2.99,3.23
+F7ACB7AF2462,45,"Chest pain, unspecified",R07.4,25/02/2025,ER,0.0,142.47
+66CF39AAEF86,28,"Chest pain, unspecified",R07.4,25/02/2025,ER,0.0,2.5
+85C6EF2820CA,47,"Chest pain, unspecified",R07.4,25/02/2025,ER,0.0,2.5
+E69E9639D430,44,"Chest pain, unspecified",R07.4,25/02/2025,ER,0.19,2.53
+945A7F1E6EBE,65,"Chest pain, unspecified",R07.4,26/02/2025,ER,110.1,25000.00
+170692AF5159,61,"Chest pain, unspecified",R07.4,26/02/2025,ER,0.36,16.69
+8DD383F03CDE,59,"Chest pain, unspecified",R07.4,26/02/2025,ER,1.55,4.1
+7277916D8C37,55,"Chest pain, unspecified",R07.4,26/02/2025,ER,0.53,2.5
+12280155015E,40,"Chest pain, unspecified",R07.4,26/02/2025,ER,0.0,2.5
+402A38CE9AB1,73,"Chest pain, unspecified",R07.4,26/02/2025,ER,1.27,316.9
+2F90C076A15C,43,"Chest pain, unspecified",R07.4,26/02/2025,ER,0.0,2.81
+A1299E235684,29,"Chest pain, unspecified",R07.4,26/02/2025,ER,0.0,2.5
+9B1B64EAA326,40,"Chest pain, unspecified",R07.4,26/02/2025,ER,0.19,9.73
+F5AA49D4FAC7,47,"Chest pain, unspecified",R07.4,26/02/2025,ER,1.18,5.04
+503B0F3C6849,43,"Chest pain, unspecified",R07.4,26/02/2025,ER,0.0,2.5
+3A8EDF39D4A1,34,"Chest pain, unspecified",R07.4,26/02/2025,ER,0.91,6.24
+EBDEA8D331A1,28,"Chest pain, unspecified",R07.4,26/02/2025,ER,0.0,2.5
+724F1146115F,52,"Chest pain, unspecified",R07.4,27/02/2025,ER,0.36,3.8
+3DA9688C571E,46,"Chest pain, unspecified",R07.4,27/02/2025,ER,0.55,7.69
+D74CCFF543DA,68,"Chest pain, unspecified",R07.4,27/02/2025,ER,1.09,14.61
+1B279FE9933D,98,"Chest pain, unspecified",R07.4,27/02/2025,ER,0.07,6.08
+183C67B4C96B,28,"Chest pain, unspecified",R07.4,27/02/2025,ER,0.0,2.5
+7685C2C0BC7C,52,"Chest pain, unspecified",R07.4,27/02/2025,Out,0.19,3.35
+F7ACB7AF2462,45,"Chest pain, unspecified",R07.4,27/02/2025,ER,0.0,79.87
+D1837F950754,41,"Chest pain, unspecified",R07.4,27/02/2025,ER,0.66,6.75
+3FB8EEB35824,39,"Chest pain, unspecified",R07.4,27/02/2025,ER,0.01,3.39
+0F125B17F224,56,"Chest pain, unspecified",R07.4,27/02/2025,ER,6.53,47.09
+0F125B17F224,56,"Chest pain, unspecified",R07.4,27/02/2025,External,6.53,47.09
+0F125B17F224,56,"Chest pain, unspecified",R07.4,27/02/2025,inp,6.53,47.09
+664D0A9846E4,48,"Acute myocardial infarction, unspecified",I21.9,28/02/2025,ER,300.00,25000.00
+664D0A9846E4,48,"Acute myocardial infarction, unspecified",I21.9,28/02/2025,External,300.00,25000.00
+664D0A9846E4,48,"Acute myocardial infarction, unspecified",I21.9,28/02/2025,inp,300.00,25000.00
+664D0A9846E4,48,"Acute myocardial infarction, unspecified",I21.9,28/02/2025,ER,300.00,25000.00
+664D0A9846E4,48,"Acute myocardial infarction, unspecified",I21.9,28/02/2025,External,300.00,25000.00
+664D0A9846E4,48,"Acute myocardial infarction, unspecified",I21.9,28/02/2025,inp,300.00,25000.00
+B6B730588E18,35,"Chest pain, unspecified",R07.4,28/02/2025,ER,0.0,2.5
+67112AAC674F,64,"Chest pain, unspecified",R07.4,28/02/2025,External,5.14,6549.85
+67112AAC674F,64,"Chest pain, unspecified",R07.4,28/02/2025,inp,5.14,6549.85
+A79ADBFB7B81,86,"Chest pain, unspecified",R07.4,28/02/2025,ER,3.54,16.58
+9A77D56C22A2,66,"Chest pain, unspecified",R07.4,28/02/2025,External,1.19,255.57
+9A77D56C22A2,66,"Chest pain, unspecified",R07.4,28/02/2025,inp,1.19,255.57
+B74E4D57B4C7,82,"Chest pain, unspecified",R07.4,28/02/2025,ER,0.0,6.53
+520DCC2CA2EE,34,"Chest pain, unspecified",R07.4,28/02/2025,ER,0.0,2.5
+3B9D4095E153,52,"Chest pain, unspecified",R07.4,28/02/2025,ER,0.61,49.5
+3B9D4095E153,52,"Chest pain, unspecified",R07.4,28/02/2025,inp,0.61,49.5
+5CAB40CF8927,37,"Chest pain, unspecified",R07.4,28/02/2025,inp,1.45,2.5
+CFCE6C91BC44,52,"Chest pain, unspecified",R07.4,28/02/2025,ER,0.53,2.5
+AE471EBE55F9,83,"Chest pain, unspecified",R07.4,28/02/2025,ER,0.53,241.98
+AE471EBE55F9,83,"Chest pain, unspecified",R07.4,28/02/2025,External,0.53,241.98
+AE471EBE55F9,83,"Chest pain, unspecified",R07.4,28/02/2025,inp,0.53,241.98
+239F796132FB,71,"Chest pain, unspecified",R07.4,28/02/2025,ER,0.0,6.52
+30225ECD61D6,79,"Chest pain, unspecified",R07.4,01/03/2025,ER,0.22,7.19
+62D447677B10,46,"Chest pain, unspecified",R07.4,01/03/2025,ER,2.11,6.53
+9A2591518B07,69,"Chest pain, unspecified",R07.4,01/03/2025,ER,7.88,29.71
+0348A845F28E,54,"Chest pain, unspecified",R07.4,01/03/2025,ER,0.23,17.02
+781B5969C868,62,"Chest pain, unspecified",R07.4,01/03/2025,ER,81.45,25000.00
+1103AD123680,31,"Chest pain, unspecified",R07.4,01/03/2025,ER,0.0,2.5
+E93059676830,58,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,External,0.99,72.77
+E93059676830,58,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,inp,0.99,72.77
+6D96972F08C4,67,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,ER,1.17,993.62
+6D96972F08C4,67,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,External,1.17,993.62
+6D96972F08C4,67,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,inp,1.17,993.62
+E93059676830,58,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,External,0.99,72.77
+E93059676830,58,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,inp,0.99,72.77
+6D96972F08C4,67,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,ER,1.17,993.62
+6D96972F08C4,67,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,External,1.17,993.62
+6D96972F08C4,67,"Acute myocardial infarction, unspecified",I21.9,02/03/2025,inp,1.17,993.62
+F8F5D5775274,43,"Chest pain, unspecified",R07.4,02/03/2025,ER,1.07,7.19
+30F7A92EB1FF,58,"Chest pain, unspecified",R07.4,02/03/2025,ER,2.12,54.58
+6E9B9913F32A,63,"Chest pain, unspecified",R07.4,02/03/2025,ER,0.68,33.36
+8C9D4E8B0E00,40,"Chest pain, unspecified",R07.4,02/03/2025,ER,0.32,2.5
+A16CAB3FC029,38,"Chest pain, unspecified",R07.4,02/03/2025,ER,0.28,2.5
+A9BE16B9EBF3,63,"Chest pain, unspecified",R07.4,02/03/2025,ER,3.21,46.67
+BA931A1D402E,64,"Chest pain, unspecified",R07.4,02/03/2025,ER,0.41,2.5
+E93059676830,58,"Chest pain, unspecified",R07.4,02/03/2025,ER,0.99,72.77
+B6C2B8B6A291,50,"Chest pain, unspecified",R07.4,02/03/2025,ER,0.08,85.98
+5BD9A2638919,78,"Chest pain, unspecified",R07.4,02/03/2025,ER,2.5,26.36
+FB293B6D269F,50,"Chest pain, unspecified",R07.4,02/03/2025,ER,0.0,11.23
+B69CD27FF63D,40,"Chest pain, unspecified",R07.4,02/03/2025,ER,0.0,4.2
+D9BFE96DFBA7,57,"Acute myocardial infarction, unspecified",I21.9,03/03/2025,External,6.21,9914.81
+D9BFE96DFBA7,57,"Acute myocardial infarction, unspecified",I21.9,03/03/2025,inp,6.21,9914.81
+6CED81B8D006,80,"Acute myocardial infarction, unspecified",I21.9,03/03/2025,ER,187.13,25000.00
+D9BFE96DFBA7,57,"Acute myocardial infarction, unspecified",I21.9,03/03/2025,External,6.21,9914.81
+D9BFE96DFBA7,57,"Acute myocardial infarction, unspecified",I21.9,03/03/2025,inp,6.21,9914.81
+6CED81B8D006,80,"Acute myocardial infarction, unspecified",I21.9,03/03/2025,ER,187.13,25000.00
+7ADDEB6AEAFD,79,"Chest pain, unspecified",R07.4,03/03/2025,ER,0.72,3.39
+3A38E2FE6F46,47,"Chest pain, unspecified",R07.4,03/03/2025,inp,1.04,10.72
+27009AB410BF,46,"Chest pain, unspecified",R07.4,03/03/2025,ER,0.0,3.78
+F6318246F01B,49,"Chest pain, unspecified",R07.4,03/03/2025,ER,0.51,9.77
+6CC7963639CB,58,"Chest pain, unspecified",R07.4,03/03/2025,ER,0.39,2.5
+150DD8AF8F1D,45,"Chest pain, unspecified",R07.4,03/03/2025,ER,1.1,6.73
+8BB1729BCC10,43,"Chest pain, unspecified",R07.4,03/03/2025,ER,0.0,2.5
+F52823E57B22,38,"Chest pain, unspecified",R07.4,03/03/2025,ER,0,2.5
+2575772CE3F4,50,"Chest pain, unspecified",R07.4,03/03/2025,ER,0,2.5
+FE806A019079,37,"Chest pain, unspecified",R07.4,03/03/2025,ER,0.0,2.5
+A929E7795048,51,"Chest pain, unspecified",R07.4,03/03/2025,ER,0.85,85.29
+055A32E9F76B,50,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,ER,0.17,2.5
+055A32E9F76B,50,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,External,0.17,2.5
+055A32E9F76B,50,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,inp,0.17,2.5
+3BDA1CFCD42D,65,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,ER,61.2,16050.45
+3BDA1CFCD42D,65,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,External,61.2,16050.45
+3BDA1CFCD42D,65,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,inp,61.2,16050.45
+055A32E9F76B,50,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,ER,0.17,2.5
+055A32E9F76B,50,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,External,0.17,2.5
+055A32E9F76B,50,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,inp,0.17,2.5
+3BDA1CFCD42D,65,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,ER,61.2,16050.45
+3BDA1CFCD42D,65,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,External,61.2,16050.45
+3BDA1CFCD42D,65,"Acute myocardial infarction, unspecified",I21.9,04/03/2025,inp,61.2,16050.45
+E597F525EB13,56,"Chest pain, unspecified",R07.4,04/03/2025,ER,0,2.5
+88637F07CF62,53,"Chest pain, unspecified",R07.4,04/03/2025,ER,0.07,3.13
+2F1BDE5AABEA,47,"Chest pain, unspecified",R07.4,04/03/2025,ER,0.04,2.5
+EB6461E55211,62,"Chest pain, unspecified",R07.4,04/03/2025,ER,1.32,5.35
+2EA2526DA925,41,"Chest pain, unspecified",R07.4,04/03/2025,ER,0.0,2.5
+FE806A019079,37,"Chest pain, unspecified",R07.4,04/03/2025,ER,0.0,2.5
+E8801BF49EAC,36,"Chest pain, unspecified",R07.4,04/03/2025,ER,0.04,2.5
+CD50ABB03556,53,"Acute myocardial infarction, unspecified",I21.9,05/03/2025,External,1.43,506.06
+CD50ABB03556,53,"Acute myocardial infarction, unspecified",I21.9,05/03/2025,inp,1.43,506.06
+CD50ABB03556,53,"Acute myocardial infarction, unspecified",I21.9,05/03/2025,External,1.43,506.06
+CD50ABB03556,53,"Acute myocardial infarction, unspecified",I21.9,05/03/2025,inp,1.43,506.06
+CD50ABB03556,53,"Chest pain, unspecified",R07.4,05/03/2025,ER,1.43,506.06
+1F06ABF347D8,53,"Chest pain, unspecified",R07.4,05/03/2025,ER,0.24,4.54
+B6A891D30417,66,"Chest pain, unspecified",R07.4,05/03/2025,ER,4.71,9.25
+2224A44A7095,59,"Chest pain, unspecified",R07.4,05/03/2025,ER,0.7,40.15
+EB6461E55211,62,"Chest pain, unspecified",R07.4,05/03/2025,ER,0.71,34.83
+E7B16C29E78C,65,"Chest pain, unspecified",R07.4,05/03/2025,ER,0.21,26.87
+4EECBE175037,72,"Chest pain, unspecified",R07.4,05/03/2025,ER,2.13,3.57
+4F7E6BB250DB,74,"Chest pain, unspecified",R07.4,05/03/2025,ER,24.59,18.42
+47BE2D9607CA,68,"Chest pain, unspecified",R07.4,05/03/2025,ER,0.0,24.06
+BAA5CD53862A,60,"Chest pain, unspecified",R07.4,05/03/2025,ER,0.78,3.72
+FC6563886664,24,"Chest pain, unspecified",R07.4,05/03/2025,ER,0.0,2.5
+6B9CE0DDFCD2,52,"Chest pain, unspecified",R07.4,05/03/2025,ER,9.18,3455.01
+992BBC2FA1CA,73,"Chest pain, unspecified",R07.4,05/03/2025,ER,0.32,67.58
+6ACEBF4C3384,56,"Acute myocardial infarction, unspecified",I21.9,06/03/2025,External,1.27,59.42
+6ACEBF4C3384,56,"Acute myocardial infarction, unspecified",I21.9,06/03/2025,inp,1.27,59.42
+5F13F1B39EC9,41,"Acute myocardial infarction, unspecified",I21.9,06/03/2025,External,24.52,4822.56
+5F13F1B39EC9,41,"Acute myocardial infarction, unspecified",I21.9,06/03/2025,inp,24.52,4822.56
+6ACEBF4C3384,56,"Acute myocardial infarction, unspecified",I21.9,06/03/2025,External,1.27,59.42
+6ACEBF4C3384,56,"Acute myocardial infarction, unspecified",I21.9,06/03/2025,inp,1.27,59.42
+5F13F1B39EC9,41,"Acute myocardial infarction, unspecified",I21.9,06/03/2025,External,24.52,4822.56
+5F13F1B39EC9,41,"Acute myocardial infarction, unspecified",I21.9,06/03/2025,inp,24.52,4822.56
+96DC18D6A39D,72,"Chest pain, unspecified",R07.4,06/03/2025,ER,1.29,27.74
+E41AB2DD6483,40,"Chest pain, unspecified",R07.4,06/03/2025,ER,1.24,33.92
+B8968A1F137B,58,"Chest pain, unspecified",R07.4,06/03/2025,ER,0.05,5.43
+5730A59A8D20,60,"Chest pain, unspecified",R07.4,06/03/2025,ER,0.0,2.5
+6DC13B61D62E,17,"Chest pain, unspecified",R07.4,06/03/2025,ER,0.0,2.5
+D25AEDC877A8,57,"Chest pain, unspecified",R07.4,06/03/2025,ER,0.46,2.5
+5F13F1B39EC9,41,"Chest pain, unspecified",R07.4,06/03/2025,ER,24.52,4822.56
+098709D9567C,55,"Chest pain, unspecified",R07.4,06/03/2025,ER,0.29,84.24
+C7805D900AD1,34,"Chest pain, unspecified",R07.4,06/03/2025,ER,0.0,102.6
+C7805D900AD1,34,"Acute myocardial infarction, unspecified",I21.9,07/03/2025,External,0.39,197.66
+C7805D900AD1,34,"Acute myocardial infarction, unspecified",I21.9,07/03/2025,inp,0.39,197.66
+C7805D900AD1,34,"Acute myocardial infarction, unspecified",I21.9,07/03/2025,External,0.39,197.66
+C7805D900AD1,34,"Acute myocardial infarction, unspecified",I21.9,07/03/2025,inp,0.39,197.66
+6E5A413988A9,52,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.0,2.5
+39E091BD345D,62,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.0,2.5
+25638B377BB3,53,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.0,41.35
+92E381BFEA00,68,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.16,107.78
+DF53F074E27A,70,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.58,25.38
+E6E3B20D4ABA,74,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.05,11.32
+5C15BA247BC2,75,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.0,4.46
+5119990E4870,36,"Chest pain, unspecified",R07.4,07/03/2025,ER,1.25,2.5
+8EAE0228FD25,31,"Chest pain, unspecified",R07.4,07/03/2025,ER,1.51,2.5
+94A91BBEA1FC,45,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.0,3.44
+C428786271BF,14,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.11,72.58
+8518C670A755,54,"Chest pain, unspecified",R07.4,07/03/2025,ER,0.0,15.39
+7CF081E3F29F,49,"Acute myocardial infarction, unspecified",I21.9,08/03/2025,External,9.63,17936.73
+7CF081E3F29F,49,"Acute myocardial infarction, unspecified",I21.9,08/03/2025,inp,9.63,17936.73
+7CF081E3F29F,49,"Acute myocardial infarction, unspecified",I21.9,08/03/2025,External,9.63,17936.73
+7CF081E3F29F,49,"Acute myocardial infarction, unspecified",I21.9,08/03/2025,inp,9.63,17936.73
+71C78F54A509,44,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.0,2.5
+AA44D3148636,65,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.0,4.54
+BF2ABA478052,53,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.18,5.3
+9D51EADCBFFE,43,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.0,2.5
+4FB3E42BAA4B,39,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.13,2.5
+DFB192F591F5,61,"Chest pain, unspecified",R07.4,08/03/2025,ER,2.05,37.69
+AF2C2C2610AD,63,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.0,13.44
+3A50B035969D,58,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.0,46.39
+DEF090FE1AC5,22,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.0,2.5
+7CF081E3F29F,49,"Chest pain, unspecified",R07.4,08/03/2025,ER,9.63,17936.73
+99C5F3C9859E,80,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.0,10.71
+A78696315925,63,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.14,2.5
+F8795C0B0DF7,44,"Chest pain, unspecified",R07.4,08/03/2025,ER,0.0,3.08
+7C9EE2CBDE25,47,"Acute myocardial infarction, unspecified",I21.9,09/03/2025,External,0.25,153.33
+7C9EE2CBDE25,47,"Acute myocardial infarction, unspecified",I21.9,09/03/2025,inp,0.25,153.33
+3920EDE48FCF,45,"Acute myocardial infarction, unspecified",I21.9,09/03/2025,External,3.6,4662.12
+3920EDE48FCF,45,"Acute myocardial infarction, unspecified",I21.9,09/03/2025,inp,3.6,4662.12
+7C9EE2CBDE25,47,"Acute myocardial infarction, unspecified",I21.9,09/03/2025,External,0.25,153.33
+7C9EE2CBDE25,47,"Acute myocardial infarction, unspecified",I21.9,09/03/2025,inp,0.25,153.33
+3920EDE48FCF,45,"Acute myocardial infarction, unspecified",I21.9,09/03/2025,External,3.6,4662.12
+3920EDE48FCF,45,"Acute myocardial infarction, unspecified",I21.9,09/03/2025,inp,3.6,4662.12
+4BBA3F99FAB8,44,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.0,2.5
+39E091BD345D,62,"Chest pain, unspecified",R07.4,09/03/2025,ER,0,4.61
+19BBE43AF65D,85,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.59,9.12
+174A77D5E481,90,"Chest pain, unspecified",R07.4,09/03/2025,ER,0,3.68
+260DF2442B81,55,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.71,21.46
+5181B9A46C25,42,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.0,11.45
+E071D0569890,55,"Chest pain, unspecified",R07.4,09/03/2025,ER,2.51,2.5
+5181ADE65E24,28,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.0,2.5
+11E1DFF0DF4B,79,"Chest pain, unspecified",R07.4,09/03/2025,ER,1.28,8.94
+D0FC63FEC793,51,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.0,2.64
+992BBC2FA1CA,73,"Chest pain, unspecified",R07.4,09/03/2025,ER,1.03,9.12
+7CDE340DDDFA,22,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.0,2.5
+54DAD39EE764,63,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.3,2.5
+3C801BCBF20B,31,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.02,2.5
+99BCFB0A6C6A,48,"Chest pain, unspecified",R07.4,09/03/2025,ER,0,2.5
+43234DF515CC,42,"Chest pain, unspecified",R07.4,09/03/2025,ER,1.03,8.5
+9A038B16B2FA,39,"Chest pain, unspecified",R07.4,09/03/2025,ER,0,2.5
+360F3E04EB61,22,"Chest pain, unspecified",R07.4,09/03/2025,ER,0,2.5
+BB2065179493,38,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.0,4.69
+7C9EE2CBDE25,47,"Chest pain, unspecified",R07.4,09/03/2025,ER,0.25,153.33
+3920EDE48FCF,45,"Chest pain, unspecified",R07.4,09/03/2025,ER,3.6,4662.12
+1D02182B6DC0,61,"Acute myocardial infarction, unspecified",I21.9,10/03/2025,inp,3.45,7765.36
+7408210BE6DC,48,"Acute myocardial infarction, unspecified",I21.9,10/03/2025,ER,114.44,25000.00
+0D1B617A629D,46,"Acute myocardial infarction, unspecified",I21.9,10/03/2025,ER,7.59,928.33
+1D02182B6DC0,61,"Acute myocardial infarction, unspecified",I21.9,10/03/2025,inp,3.45,7765.36
+7408210BE6DC,48,"Acute myocardial infarction, unspecified",I21.9,10/03/2025,ER,114.44,25000.00
+0D1B617A629D,46,"Acute myocardial infarction, unspecified",I21.9,10/03/2025,ER,7.59,928.33
+507334683905,81,"Chest pain, unspecified",R07.4,10/03/2025,ER,1.58,6.07
+56CA8D29AAF4,49,"Chest pain, unspecified",R07.4,10/03/2025,ER,0.0,2.5
+7ADF5A88C736,53,"Chest pain, unspecified",R07.4,10/03/2025,ER,0.0,2.5
+CDDBF7303311,54,"Chest pain, unspecified",R07.4,10/03/2025,Out,0.55,4.53
+67B3B98CFCFA,52,"Chest pain, unspecified",R07.4,10/03/2025,ER,0,2.5
+80035725CC24,61,"Chest pain, unspecified",R07.4,10/03/2025,ER,11.92,1993.59
+CBE939DDF7FE,45,"Chest pain, unspecified",R07.4,10/03/2025,ER,0.0,2.95
+4B353C870F2D,65,"Chest pain, unspecified",R07.4,10/03/2025,ER,0.09,2.5
+77267FDC967B,44,"Chest pain, unspecified",R07.4,10/03/2025,ER,0.25,2.5
+AC25086573FE,32,"Chest pain, unspecified",R07.4,10/03/2025,ER,0.0,2.5
+FA0F27A969CC,37,"Chest pain, unspecified",R07.4,10/03/2025,ER,0.0,17.2
+FF9B17BEB44F,39,"Chest pain, unspecified",R07.4,11/03/2025,ER,0.0,2.5
+AA44D3148636,65,"Chest pain, unspecified",R07.4,11/03/2025,ER,0.0,6.65
+E73D71CB345B,44,"Chest pain, unspecified",R07.4,11/03/2025,ER,0.02,2.5
+88540A1F32B2,48,"Chest pain, unspecified",R07.4,11/03/2025,ER,0.0,6.66
+8A2259BB2AE9,49,"Chest pain, unspecified",R07.4,11/03/2025,ER,5.05,4812.8
+50AFAF1CB08E,42,"Chest pain, unspecified",R07.4,11/03/2025,ER,0.0,5.65
+F77EB097BFE6,66,"Chest pain, unspecified",R07.4,11/03/2025,ER,1.38,4.45
+04F2341B6DFB,39,"Chest pain, unspecified",R07.4,11/03/2025,ER,0.0,2.5
+2EB18219D9DB,62,"Chest pain, unspecified",R07.4,12/03/2025,ER,0.0,12.76
+DE825CA8FB30,51,"Chest pain, unspecified",R07.4,12/03/2025,ER,0.0,2.5
+9C6B8F38841A,49,"Chest pain, unspecified",R07.4,12/03/2025,ER,1.23,55.62
+BA6A59BF74B9,48,"Chest pain, unspecified",R07.4,12/03/2025,ER,0.33,2.5
+E39439E3F660,60,"Chest pain, unspecified",R07.4,12/03/2025,ER,0.0,2.5
+E39439E3F660,60,"Chest pain, unspecified",R07.4,12/03/2025,External,0.0,2.5
+E39439E3F660,60,"Chest pain, unspecified",R07.4,12/03/2025,inp,0.0,2.5
+B209CE10E4AD,51,"Chest pain, unspecified",R07.4,12/03/2025,ER,0.0,2.5
+FBB5276B690D,67,"Chest pain, unspecified",R07.4,12/03/2025,ER,0.86,6.72
+AC26EF1EBBFC,53,"Chest pain, unspecified",R07.4,12/03/2025,ER,38.33,4387.86
+FEF8BA505886,55,"Acute myocardial infarction, unspecified",I21.9,13/03/2025,External,1.88,388.1
+FEF8BA505886,55,"Acute myocardial infarction, unspecified",I21.9,13/03/2025,inp,1.88,388.1
+323192CAF762,59,"Acute myocardial infarction, unspecified",I21.9,13/03/2025,External,19.44,6667.82
+323192CAF762,59,"Acute myocardial infarction, unspecified",I21.9,13/03/2025,inp,19.44,6667.82
+FEF8BA505886,55,"Acute myocardial infarction, unspecified",I21.9,13/03/2025,External,1.88,388.1
+FEF8BA505886,55,"Acute myocardial infarction, unspecified",I21.9,13/03/2025,inp,1.88,388.1
+323192CAF762,59,"Acute myocardial infarction, unspecified",I21.9,13/03/2025,External,19.44,6667.82
+323192CAF762,59,"Acute myocardial infarction, unspecified",I21.9,13/03/2025,inp,19.44,6667.82
+80E7777DE81C,52,"Chest pain, unspecified",R07.4,13/03/2025,ER,0.0,3.47
+FEF8BA505886,55,"Chest pain, unspecified",R07.4,13/03/2025,ER,1.88,388.1
+DABB60F3016D,68,"Chest pain, unspecified",R07.4,13/03/2025,ER,2.05,8.05
+2B9A7FC2E814,76,"Chest pain, unspecified",R07.4,13/03/2025,ER,2.76,4.92
+70E44F93BFE9,68,"Chest pain, unspecified",R07.4,13/03/2025,ER,0.12,2.5
+A61F04E16663,42,"Chest pain, unspecified",R07.4,13/03/2025,ER,0.0,2.5
+77EEA9EE5220,61,"Chest pain, unspecified",R07.4,13/03/2025,ER,0.85,4.99
+DD3E7BFC4976,30,"Chest pain, unspecified",R07.4,13/03/2025,ER,0.0,21.73
+A019035A90CC,50,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,External,2.01,628.09
+A019035A90CC,50,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,inp,2.01,628.09
+F8D12B7FCA88,54,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,ER,268.26,25000.00
+F8D12B7FCA88,54,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,External,268.26,25000.00
+F8D12B7FCA88,54,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,inp,268.26,25000.00
+A019035A90CC,50,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,External,2.01,628.09
+A019035A90CC,50,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,inp,2.01,628.09
+F8D12B7FCA88,54,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,ER,268.26,25000.00
+F8D12B7FCA88,54,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,External,268.26,25000.00
+F8D12B7FCA88,54,"Acute myocardial infarction, unspecified",I21.9,14/03/2025,inp,268.26,25000.00
+E73E6B561DDA,46,"Chest pain, unspecified",R07.4,14/03/2025,ER,0.45,2.5
+249A0B2DB03B,59,"Chest pain, unspecified",R07.4,14/03/2025,ER,0.75,4.62
+561D0B88DBB4,64,"Chest pain, unspecified",R07.4,14/03/2025,ER,0.54,4.43
+54C95E420D23,66,"Chest pain, unspecified",R07.4,14/03/2025,ER,19.15,1628.53
+BC894CB81069,52,"Chest pain, unspecified",R07.4,14/03/2025,ER,0.0,2.5
+B1417711DB95,54,"Chest pain, unspecified",R07.4,14/03/2025,ER,6.03,1179.6
+7AB0DB3426D8,40,"Chest pain, unspecified",R07.4,14/03/2025,ER,2.98,2.5
+D3EA1373A290,51,"Chest pain, unspecified",R07.4,15/03/2025,ER,0.02,4.03
+19FC7AEE7C00,63,"Chest pain, unspecified",R07.4,15/03/2025,ER,0.83,2.5
+F11DC06C5FBA,42,"Chest pain, unspecified",R07.4,15/03/2025,ER,0.0,2.5
+662D4DCBFF04,56,"Chest pain, unspecified",R07.4,15/03/2025,ER,1.04,60.62
+B381219B81A9,47,"Chest pain, unspecified",R07.4,15/03/2025,ER,0.77,41.05
+1FBFC8D5B0D0,28,"Chest pain, unspecified",R07.4,15/03/2025,ER,0.0,2.7
+BEAA55D5C9A4,49,"Acute myocardial infarction, unspecified",I21.9,16/03/2025,External,1.36,7897.43
+BEAA55D5C9A4,49,"Acute myocardial infarction, unspecified",I21.9,16/03/2025,inp,1.36,7897.43
+BEAA55D5C9A4,49,"Acute myocardial infarction, unspecified",I21.9,16/03/2025,External,1.36,7897.43
+BEAA55D5C9A4,49,"Acute myocardial infarction, unspecified",I21.9,16/03/2025,inp,1.36,7897.43
+D05C5BE4D10E,64,"Chest pain, unspecified",R07.4,16/03/2025,ER,0.41,8.12
+16099D677838,63,"Chest pain, unspecified",R07.4,16/03/2025,ER,1.5,2.5
+971A57A8B4F3,45,"Chest pain, unspecified",R07.4,16/03/2025,ER,0.0,2.5
+B829C35EE954,38,"Chest pain, unspecified",R07.4,16/03/2025,ER,1.26,84.63
+5DB0D3827EA7,64,"Chest pain, unspecified",R07.4,16/03/2025,ER,0.0,6.82
+5B631E3072A4,56,"Chest pain, unspecified",R07.4,16/03/2025,ER,0.0,2.5
+3920EDE48FCF,45,"Chest pain, unspecified",R07.4,16/03/2025,ER,0.44,1375.64
+BEAA55D5C9A4,49,"Chest pain, unspecified",R07.4,16/03/2025,ER,1.36,7897.43
+D04C90677508,19,"Chest pain, unspecified",R07.4,16/03/2025,ER,0.0,2.5
+2AFA444CE722,30,"Chest pain, unspecified",R07.4,16/03/2025,ER,0.0,2.5
+F09639B29C11,47,"Acute myocardial infarction, unspecified",I21.9,17/03/2025,External,26.1,7506.08
+F09639B29C11,47,"Acute myocardial infarction, unspecified",I21.9,17/03/2025,inp,26.1,7506.08
+54071DABEC84,53,"Acute myocardial infarction, unspecified",I21.9,17/03/2025,ER,0.5,20.16
+F09639B29C11,47,"Acute myocardial infarction, unspecified",I21.9,17/03/2025,External,26.1,7506.08
+F09639B29C11,47,"Acute myocardial infarction, unspecified",I21.9,17/03/2025,inp,26.1,7506.08
+54071DABEC84,53,"Acute myocardial infarction, unspecified",I21.9,17/03/2025,ER,0.5,20.16
+17B01830E4E7,81,"Chest pain, unspecified",R07.4,17/03/2025,ER,2.75,24.75
+60FE7AA684C4,31,"Chest pain, unspecified",R07.4,17/03/2025,ER,0.0,2.5
+6961D0FD8ECE,51,"Chest pain, unspecified",R07.4,17/03/2025,ER,0.0,17.65
+DE3AB0453695,117,"Chest pain, unspecified",R07.4,17/03/2025,ER,0.49,23.72
+54037EE1DB01,42,"Chest pain, unspecified",R07.4,17/03/2025,ER,0.29,18.27
+9211DF05E0C7,17,"Chest pain, unspecified",R07.4,17/03/2025,ER,0.0,2.5
+73F983D174E7,34,"Chest pain, unspecified",R07.4,17/03/2025,ER,0.3,2.5
+F09639B29C11,47,"Chest pain, unspecified",R07.4,17/03/2025,ER,26.1,7506.08
+AA701B86B971,23,"Chest pain, unspecified",R07.4,17/03/2025,ER,0.0,2.5
+1BC26E7DE114,38,"Chest pain, unspecified",R07.4,17/03/2025,ER,0.0,66.21
+C87BE9407020,35,"Chest pain, unspecified",R07.4,17/03/2025,ER,1.92,2.5
+3BF13B82AFEB,69,"Acute myocardial infarction, unspecified",I21.9,18/03/2025,External,0.45,74.01
+3BF13B82AFEB,69,"Acute myocardial infarction, unspecified",I21.9,18/03/2025,inp,0.45,74.01
+54E32EEC82E0,56,"Acute myocardial infarction, unspecified",I21.9,18/03/2025,External,0.67,165.03
+54E32EEC82E0,56,"Acute myocardial infarction, unspecified",I21.9,18/03/2025,inp,0.67,165.03
+3BF13B82AFEB,69,"Acute myocardial infarction, unspecified",I21.9,18/03/2025,External,0.45,74.01
+3BF13B82AFEB,69,"Acute myocardial infarction, unspecified",I21.9,18/03/2025,inp,0.45,74.01
+54E32EEC82E0,56,"Acute myocardial infarction, unspecified",I21.9,18/03/2025,External,0.67,165.03
+54E32EEC82E0,56,"Acute myocardial infarction, unspecified",I21.9,18/03/2025,inp,0.67,165.03
+9BDD92D7B096,71,"Chest pain, unspecified",R07.4,18/03/2025,ER,1.81,4.44
+9B5EA15D75C9,44,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.13,2.5
+CF5CD2581AC3,46,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.41,5.08
+0BD3ACE07848,69,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.71,28.61
+CBB3CBD908D2,44,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.34,15.89
+5BF7FB0A4C66,44,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.0,2.5
+3BF13B82AFEB,69,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.45,74.01
+496BB58EFA36,69,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.88,7.56
+0DD45EDF9668,50,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.0,2.5
+31C92E22E7BC,40,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.21,2.52
+E91F79D1654D,49,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.79,3.34
+8D4D8F58C446,47,"Chest pain, unspecified",R07.4,18/03/2025,ER,1.56,33.13
+11905A767031,57,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.48,27.93
+7A87A59D8E1E,81,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.13,15.99
+7D008EBC85D0,55,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.0,5.84
+EFA2D9E244DA,17,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.0,2.5
+4D82577D2B86,48,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.12,26.42
+47BE2D9607CA,68,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.22,29.75
+5C52F115D04C,43,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.26,2.98
+112554EE526C,36,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.99,3.39
+819A26E70182,39,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.0,2.5
+B4E6D5E05EBE,39,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.0,2.5
+F507132C37EE,21,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.0,4.01
+45DA2FCC9F75,69,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.0,5.74
+F98D79A4D517,77,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.0,4.24
+CF573CD58D50,48,"Chest pain, unspecified",R07.4,18/03/2025,ER,0.27,2.5
+E93384EB2D78,36,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.0,2.5
+66995969CB43,59,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.0,3.14
+DB9BFA22B88F,86,"Chest pain, unspecified",R07.4,19/03/2025,ER,1.02,342.44
+05E2A6B3B7D9,75,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.76,6.02
+E50D6A779AD9,39,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.7,4.54
+8B282F621C62,61,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.98,2.5
+66341D40546D,52,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.76,2.67
+3D80AC4B9DDE,57,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.0,2.5
+5DE193D9BBAB,45,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.0,2.5
+0038A0D4B97C,89,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.0,6.09
+C79A24309565,42,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.0,2.5
+7361DE103802,28,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.0,2.5
+D07B68747073,70,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.77,2.77
+09931EF5062F,37,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.05,23.7
+458B0DAC2DE4,30,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.9,2.5
+DA4F13BC3C4E,41,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.0,8.06
+14CB418C88A1,57,"Chest pain, unspecified",R07.4,19/03/2025,ER,3.68,131.26
+32DE5C6A617D,48,"Chest pain, unspecified",R07.4,19/03/2025,ER,0.0,2.5
+FE7F295C7961,28,"Chest pain, unspecified",R07.4,20/03/2025,ER,0.0,4.37
+939CBFEB880D,42,"Chest pain, unspecified",R07.4,20/03/2025,ER,0.0,2.5
+03438100AE63,55,"Chest pain, unspecified",R07.4,20/03/2025,ER,1.99,67.67
+F77F3D92DA55,69,"Chest pain, unspecified",R07.4,20/03/2025,ER,5.02,15.42
+23241B549AF1,43,"Chest pain, unspecified",R07.4,20/03/2025,ER,0.0,2.79
+D4F52FF164AC,61,"Chest pain, unspecified",R07.4,20/03/2025,ER,0.27,11.62
+51548B3C1473,42,"Chest pain, unspecified",R07.4,20/03/2025,ER,4.87,15.37
+7B8970FB0DD5,39,"Chest pain, unspecified",R07.4,20/03/2025,ER,0.0,2.5
+A15503C4F3F8,39,"Chest pain, unspecified",R07.4,20/03/2025,ER,0.11,3.31
+4CE2D2D390A8,56,"Chest pain, unspecified",R07.4,20/03/2025,ER,1.25,9.16
+46EEFEF4C841,40,"Chest pain, unspecified",R07.4,20/03/2025,ER,0.0,2.5
+65038D558C61,44,"Acute myocardial infarction, unspecified",I21.9,21/03/2025,ER,1.17,464.01
+65038D558C61,44,"Acute myocardial infarction, unspecified",I21.9,21/03/2025,External,1.17,464.01
+65038D558C61,44,"Acute myocardial infarction, unspecified",I21.9,21/03/2025,inp,1.17,464.01
+65038D558C61,44,"Acute myocardial infarction, unspecified",I21.9,21/03/2025,ER,1.17,464.01
+65038D558C61,44,"Acute myocardial infarction, unspecified",I21.9,21/03/2025,External,1.17,464.01
+65038D558C61,44,"Acute myocardial infarction, unspecified",I21.9,21/03/2025,inp,1.17,464.01
+3A9D6D3A2B4F,59,"Chest pain, unspecified",R07.4,21/03/2025,ER,2.48,61.14
+34219ACDF6F7,35,"Chest pain, unspecified",R07.4,21/03/2025,ER,0.0,2.5
+792F6CE25E2D,25,"Chest pain, unspecified",R07.4,21/03/2025,ER,0.0,2.5
+BA0F33AE4881,52,"Chest pain, unspecified",R07.4,21/03/2025,ER,3.15,9.58
+01E16D54B9E5,19,"Chest pain, unspecified",R07.4,21/03/2025,ER,0.0,2.5
+71790B1BEADE,46,"Chest pain, unspecified",R07.4,21/03/2025,ER,1.93,2.5
+7C915A52AD38,61,"Chest pain, unspecified",R07.4,21/03/2025,ER,3.05,7.25
+F8E2BE7C1D54,47,"Chest pain, unspecified",R07.4,22/03/2025,ER,2.08,2.5
+87AFADE8C200,35,"Chest pain, unspecified",R07.4,22/03/2025,ER,0.0,2.5
+B479CE01D303,48,"Chest pain, unspecified",R07.4,22/03/2025,ER,8.36,30.25
+535C01483651,39,"Chest pain, unspecified",R07.4,22/03/2025,ER,0.0,2.5
+9795CA2ECB0F,99,"Chest pain, unspecified",R07.4,22/03/2025,ER,1.35,5.8
+07C87EF04344,71,"Chest pain, unspecified",R07.4,22/03/2025,ER,0.91,18.41
+9514075065C6,44,"Chest pain, unspecified",R07.4,22/03/2025,ER,0.0,2.5
+9C277A87C9C0,39,"Chest pain, unspecified",R07.4,22/03/2025,ER,0.0,4.2
+CEBB6187A445,50,"Chest pain, unspecified",R07.4,22/03/2025,ER,0.77,3.68
+3B9D4095E153,52,"Chest pain, unspecified",R07.4,22/03/2025,ER,0.83,49.96
+8FE91086B49B,38,"Chest pain, unspecified",R07.4,22/03/2025,ER,15.45,3989.53
+F08DACD35E44,65,"Chest pain, unspecified",R07.4,23/03/2025,ER,0.0,32.07
+F0FFB30AF212,44,"Chest pain, unspecified",R07.4,23/03/2025,ER,0.72,2.5
+0B9886291870,66,"Chest pain, unspecified",R07.4,23/03/2025,ER,1.95,3.89
+0B9886291870,66,"Chest pain, unspecified",R07.4,23/03/2025,Out,1.95,3.89
+1870A119EBB3,39,"Chest pain, unspecified",R07.4,23/03/2025,ER,0.14,2.56
+E850FEAB651A,58,"Chest pain, unspecified",R07.4,23/03/2025,ER,0.0,2.51
+1D02C0EED07F,37,"Chest pain, unspecified",R07.4,23/03/2025,ER,0.0,2.5
+2A8DC3731038,26,"Chest pain, unspecified",R07.4,23/03/2025,ER,0.0,2.5
+9F88A1FFA8A9,54,"Chest pain, unspecified",R07.4,23/03/2025,ER,0.0,2.5
+EBBAA92F6F41,69,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,ER,69.95,16147.99
+EBBAA92F6F41,69,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,External,69.95,16147.99
+EBBAA92F6F41,69,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,inp,69.95,16147.99
+329081CEB6D6,48,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,External,97.75,13287.04
+329081CEB6D6,48,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,inp,97.75,13287.04
+EBBAA92F6F41,69,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,ER,69.95,16147.99
+EBBAA92F6F41,69,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,External,69.95,16147.99
+EBBAA92F6F41,69,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,inp,69.95,16147.99
+329081CEB6D6,48,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,External,97.75,13287.04
+329081CEB6D6,48,"Acute myocardial infarction, unspecified",I21.9,24/03/2025,inp,97.75,13287.04
+3BF13B82AFEB,69,"Chest pain, unspecified",R07.4,24/03/2025,ER,2.8,670.48
+F0A485D58289,45,"Chest pain, unspecified",R07.4,24/03/2025,ER,0.0,2.5
+5EA046B2933D,36,"Chest pain, unspecified",R07.4,24/03/2025,ER,0.08,2.5
+01F90E23926C,38,"Chest pain, unspecified",R07.4,24/03/2025,ER,1.55,3.22
+E9BC90560BE6,63,"Chest pain, unspecified",R07.4,24/03/2025,ER,1.24,2.5
+62816A514F16,30,"Chest pain, unspecified",R07.4,24/03/2025,ER,0.61,2.5
+9211DF05E0C7,17,"Chest pain, unspecified",R07.4,24/03/2025,ER,0.0,2.5
+AB0CF3DA7AFD,56,"Chest pain, unspecified",R07.4,24/03/2025,ER,30.68,13267.82
+CF41D10A1CC0,57,"Chest pain, unspecified",R07.4,24/03/2025,ER,0.6,5.02
+32C8E2B55E8C,62,"Acute myocardial infarction, unspecified",I21.9,25/03/2025,External,1.97,527.88
+32C8E2B55E8C,62,"Acute myocardial infarction, unspecified",I21.9,25/03/2025,inp,1.97,527.88
+32C8E2B55E8C,62,"Acute myocardial infarction, unspecified",I21.9,25/03/2025,External,1.97,527.88
+32C8E2B55E8C,62,"Acute myocardial infarction, unspecified",I21.9,25/03/2025,inp,1.97,527.88
+32C8E2B55E8C,62,"Chest pain, unspecified",R07.4,25/03/2025,ER,1.97,527.88
+73D30BB9A1FB,69,"Chest pain, unspecified",R07.4,25/03/2025,ER,0.0,7.24
+6826BB1929B5,54,"Chest pain, unspecified",R07.4,25/03/2025,ER,0.64,16.45
+20297F6DB869,91,"Chest pain, unspecified",R07.4,25/03/2025,ER,1.03,4.38
+EC6551E7EE4D,53,"Chest pain, unspecified",R07.4,25/03/2025,ER,0.47,9.51
+55C89BED110D,43,"Chest pain, unspecified",R07.4,25/03/2025,ER,0.0,2.5
+589C48330EE7,69,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,External,2.15,3799.2
+589C48330EE7,69,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,inp,2.15,3799.2
+A77F3917C70C,71,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,External,0.59,92.07
+A77F3917C70C,71,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,inp,0.59,92.07
+743E1570FAE2,69,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,External,2.14,21.15
+743E1570FAE2,69,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,inp,2.14,21.15
+589C48330EE7,69,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,External,2.15,3799.2
+589C48330EE7,69,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,inp,2.15,3799.2
+A77F3917C70C,71,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,External,0.59,92.07
+A77F3917C70C,71,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,inp,0.59,92.07
+743E1570FAE2,69,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,External,2.14,21.15
+743E1570FAE2,69,"Acute myocardial infarction, unspecified",I21.9,26/03/2025,inp,2.14,21.15
+B8E1D5B80ADF,66,"Chest pain, unspecified",R07.4,26/03/2025,ER,1.11,2.71
+A2AEF76F7261,54,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.58,2.5
+63D4E8D2F1AD,64,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.0,8.94
+1C6C7A84A840,46,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.0,2.78
+8CE77738AB59,58,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.0,2.5
+720B827951E4,42,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.0,2.5
+33C8F13ADC37,47,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.89,2.86
+77EF22DD041C,43,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.2,4.29
+DE8E6E455BEF,45,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.28,2.5
+8DC247BE2DA8,85,"Chest pain, unspecified",R07.4,26/03/2025,ER,1.85,46.51
+4E072CF04772,42,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.0,2.5
+BF5EC411C61B,42,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.0,2.5
+33B364A35F34,68,"Chest pain, unspecified",R07.4,26/03/2025,ER,2.32,250.73
+233037F60AF0,48,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.0,2.5
+E79224606F28,46,"Chest pain, unspecified",R07.4,26/03/2025,ER,0.0,2.5
+6E60174220FC,51,"Acute myocardial infarction, unspecified",I21.9,27/03/2025,ER,192.23,25000.00
+6E60174220FC,51,"Acute myocardial infarction, unspecified",I21.9,27/03/2025,ER,192.23,25000.00
+DF1B92FFE236,53,"Chest pain, unspecified",R07.4,27/03/2025,ER,2.58,3.41
+71E56E8F00B3,59,"Chest pain, unspecified",R07.4,27/03/2025,ER,0.0,2.5
+0330F15A1ECC,47,"Chest pain, unspecified",R07.4,27/03/2025,ER,0.0,2.5
+BDB7C950826A,35,"Chest pain, unspecified",R07.4,27/03/2025,ER,0.0,2.5
+AEA27BB04238,29,"Chest pain, unspecified",R07.4,27/03/2025,ER,0.0,2.5
+454DB5FFE760,33,"Chest pain, unspecified",R07.4,27/03/2025,ER,2.63,2.5
+2D359FB5CF5D,35,"Chest pain, unspecified",R07.4,27/03/2025,ER,0.0,2.5
+C247725C6F86,18,"Chest pain, unspecified",R07.4,27/03/2025,ER,0.46,6.63
+E2F5A5B4F2B6,63,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,ER,3.04,450.46
+E2F5A5B4F2B6,63,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,inp,3.04,450.46
+19125632A530,78,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,ER,128.92,25000.00
+19125632A530,78,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,External,128.92,25000.00
+19125632A530,78,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,inp,128.92,25000.00
+E2F5A5B4F2B6,63,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,ER,3.04,450.46
+E2F5A5B4F2B6,63,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,External,3.04,450.46
+E2F5A5B4F2B6,63,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,inp,3.04,450.46
+19125632A530,78,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,ER,128.92,25000.00
+19125632A530,78,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,External,128.92,25000.00
+19125632A530,78,"Acute myocardial infarction, unspecified",I21.9,28/03/2025,inp,128.92,25000.00
+37C81D562752,64,"Chest pain, unspecified",R07.4,28/03/2025,ER,0.0,2.5
+A3195F09B4E0,71,"Chest pain, unspecified",R07.4,28/03/2025,ER,1.15,2.5
+97B56C6CAF5D,48,"Chest pain, unspecified",R07.4,28/03/2025,ER,1.86,236.08
+38C13F9CC095,36,"Chest pain, unspecified",R07.4,28/03/2025,ER,2.85,5.92
+DC57872F49E4,48,"Chest pain, unspecified",R07.4,28/03/2025,ER,1.61,55.01
+26770CF31813,29,"Chest pain, unspecified",R07.4,28/03/2025,ER,0.0,2.5
+D1837F950754,41,"Chest pain, unspecified",R07.4,28/03/2025,ER,0.0,5.36
+FDD6E2F43C49,47,"Chest pain, unspecified",R07.4,28/03/2025,ER,0.0,98.81
+A51C64E498CE,69,"Chest pain, unspecified",R07.4,29/03/2025,External,2.91,1537.96
+A51C64E498CE,69,"Chest pain, unspecified",R07.4,29/03/2025,inp,2.91,1537.96
+4B97D03D8A64,46,"Chest pain, unspecified",R07.4,29/03/2025,ER,0.0,2.5
+CA13AECCD8E8,38,"Chest pain, unspecified",R07.4,29/03/2025,ER,0.0,2.5
+18C43D6725BF,66,"Chest pain, unspecified",R07.4,29/03/2025,ER,0.48,2.5
+C247725C6F86,18,"Chest pain, unspecified",R07.4,29/03/2025,ER,0.0,3.66
+B2DC2C1EBC61,26,"Chest pain, unspecified",R07.4,29/03/2025,ER,0.0,2.5
+A6143E949620,58,"Chest pain, unspecified",R07.4,29/03/2025,ER,122.16,23131.49
+FC789EF10AEE,42,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,ER,0.85,461.59
+FC789EF10AEE,42,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,External,0.85,461.59
+FC789EF10AEE,42,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,inp,0.85,461.59
+911D259281BC,58,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,External,3.92,1285.71
+911D259281BC,58,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,inp,3.92,1285.71
+FC789EF10AEE,42,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,ER,0.85,461.59
+FC789EF10AEE,42,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,External,0.85,461.59
+FC789EF10AEE,42,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,inp,0.85,461.59
+911D259281BC,58,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,External,3.92,1285.71
+911D259281BC,58,"Acute myocardial infarction, unspecified",I21.9,30/03/2025,inp,3.92,1285.71
+18E607DBBF72,70,"Chest pain, unspecified",R07.4,30/03/2025,ER,4.35,4.34
+066716953DA9,57,"Chest pain, unspecified",R07.4,30/03/2025,ER,7.22,3.86
+4196E6109CBE,69,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.0,4.5
+7686A614A449,60,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.0,4.11
+445BF90596C5,46,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.09,11.63
+3D02AC90F4CF,68,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.0,2.5
+3A97988B4F4A,50,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.07,6.81
+3ECDD21FC625,41,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.0,2.5
+139E8788338C,45,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.0,2.5
+7C41AA7D80AC,44,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.0,2.5
+14A620752BC3,70,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.33,2.76
+911D259281BC,58,"Chest pain, unspecified",R07.4,30/03/2025,ER,3.92,1285.71
+65FEBAA57DBA,62,"Chest pain, unspecified",R07.4,30/03/2025,ER,300.00,25000.00
+5D6FE9A0EF96,40,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.76,2.5
+27D3D654EBE3,45,"Chest pain, unspecified",R07.4,30/03/2025,ER,0.0,3.77
+089D84F3B6A9,67,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.33,5.52
+C1D9EEEDDD64,70,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.16,4.29
+104297C2D16D,47,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.0,2.88
+516E15666728,46,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.0,2.5
+6BC83A4787A6,39,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.03,2.5
+4DF78BE0CE35,23,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.0,2.5
+A88B97C3AD08,33,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.0,2.5
+95C1A7A24EF8,61,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.28,5.8
+C03B482B880E,28,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.0,2.5
+47769B541F45,28,"Chest pain, unspecified",R07.4,31/03/2025,ER,0.96,2.5
+117ADAD971D2,60,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,External,10.21,2889.69
+117ADAD971D2,60,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,inp,10.21,2889.69
+8B3C7C2A1736,66,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,ER,48.79,24659.93
+8B3C7C2A1736,66,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,External,48.79,24659.93
+8B3C7C2A1736,66,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,inp,48.79,24659.93
+117ADAD971D2,60,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,External,10.21,2889.69
+117ADAD971D2,60,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,inp,10.21,2889.69
+8B3C7C2A1736,66,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,ER,48.79,24659.93
+8B3C7C2A1736,66,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,External,48.79,24659.93
+8B3C7C2A1736,66,"Acute myocardial infarction, unspecified",I21.9,01/04/2025,inp,48.79,24659.93
+1A9B437CB46C,55,"Chest pain, unspecified",R07.4,01/04/2025,ER,1.78,2.5
+2CC33547A1D9,59,"Chest pain, unspecified",R07.4,01/04/2025,ER,0.37,15.67
+8F77D5F62B9C,94,"Chest pain, unspecified",R07.4,01/04/2025,ER,0.0,3.26
+A1D61157E43C,67,"Chest pain, unspecified",R07.4,01/04/2025,ER,0.3,2.5
+47E5CFA8AB20,97,"Chest pain, unspecified",R07.4,01/04/2025,ER,2.65,16.31
+8458ADE6F391,71,"Chest pain, unspecified",R07.4,01/04/2025,ER,0.66,13.58
+9ABA8ACA5AF9,19,"Chest pain, unspecified",R07.4,01/04/2025,ER,0.14,2.5
+B33ABBB6B524,18,"Chest pain, unspecified",R07.4,01/04/2025,ER,0.0,2.5
+8A64CBB1CA57,54,"Chest pain, unspecified",R07.4,01/04/2025,ER,1.64,75.87
+82D2BA853F28,40,"Chest pain, unspecified",R07.4,01/04/2025,ER,2.68,9.15
+10E143ACC6F0,86,"Chest pain, unspecified",R07.4,01/04/2025,ER,0.06,4.86
+9F14025AF006,38,"Chest pain, unspecified",R07.4,01/04/2025,ER,0.0,10.86
+AD9D82A4AEDE,40,"Acute myocardial infarction, unspecified",I21.9,02/04/2025,ER,19.06,9419.4
+AD9D82A4AEDE,40,"Acute myocardial infarction, unspecified",I21.9,02/04/2025,External,19.06,9419.4
+AD9D82A4AEDE,40,"Acute myocardial infarction, unspecified",I21.9,02/04/2025,inp,19.06,9419.4
+AD9D82A4AEDE,40,"Acute myocardial infarction, unspecified",I21.9,02/04/2025,ER,19.06,9419.4
+AD9D82A4AEDE,40,"Acute myocardial infarction, unspecified",I21.9,02/04/2025,External,19.06,9419.4
+AD9D82A4AEDE,40,"Acute myocardial infarction, unspecified",I21.9,02/04/2025,inp,19.06,9419.4
+DF48158A84AB,79,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.21,52.19
+A8F501D12DDF,49,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.0,2.5
+1BE63A9F6F87,29,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.0,2.5
+F270E0063C71,55,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.0,2.5
+832D3B005E69,66,"Chest pain, unspecified",R07.4,02/04/2025,ER,0,62.52
+5FA9A26237C6,39,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.0,2.5
+511C66491258,58,"Chest pain, unspecified",R07.4,02/04/2025,ER,0,10.08
+21BDF53E5C95,40,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.0,2.5
+E82EB3DC25F8,52,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.0,7.79
+2754F7C4589F,38,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.0,6.8
+35D8CF7DF1E4,44,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.0,2.5
+E150A7A6463F,47,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.35,2.5
+C8C68FE77AC5,36,"Chest pain, unspecified",R07.4,02/04/2025,ER,0.0,23.16
+C8C68FE77AC5,36,"Acute myocardial infarction, unspecified",I21.9,03/04/2025,External,3.82,103.44
+C8C68FE77AC5,36,"Acute myocardial infarction, unspecified",I21.9,03/04/2025,inp,3.82,103.44
+C8C68FE77AC5,36,"Acute myocardial infarction, unspecified",I21.9,03/04/2025,External,3.82,103.44
+C8C68FE77AC5,36,"Acute myocardial infarction, unspecified",I21.9,03/04/2025,inp,3.82,103.44
+87E59F1D9C5F,57,"Chest pain, unspecified",R07.4,03/04/2025,ER,0.0,2.5
+AE81F88085C6,52,"Chest pain, unspecified",R07.4,03/04/2025,ER,0.0,2.69
+F4D7CBA31F2E,43,"Chest pain, unspecified",R07.4,03/04/2025,ER,1.27,2.5
+8407A7ED2670,45,"Chest pain, unspecified",R07.4,03/04/2025,ER,0.0,2.5
+D848160FFBAA,86,"Chest pain, unspecified",R07.4,03/04/2025,ER,0.0,2.5
+D20AD16A9384,61,"Chest pain, unspecified",R07.4,03/04/2025,ER,0.85,15.61
+BD2B6EF51104,37,"Chest pain, unspecified",R07.4,03/04/2025,ER,0.0,3.41
+2D5B25B344AC,64,"Chest pain, unspecified",R07.4,03/04/2025,ER,0.0,2.5
+13397C5B78B8,40,"Chest pain, unspecified",R07.4,03/04/2025,ER,0.0,2.5
+17716B611301,44,"Chest pain, unspecified",R07.4,03/04/2025,ER,0.0,2.5
+EBA1B6EE93D7,42,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.0,7.48
+06C2BBCBA2CE,43,"Chest pain, unspecified",R07.4,04/04/2025,ER,6.03,26.38
+BE1803F24F41,37,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.0,2.5
+8D8F0D349D13,38,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.0,2.5
+B61D233579FE,88,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.0,4
+99FCF399F7DE,51,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.0,2.5
+D133EA81F2A4,93,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.21,3.87
+75DA9C3C3165,39,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.0,2.53
+95C673BC2E2A,21,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.0,2.5
+87B0D0AB3443,27,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.0,2.66
+4FCF5E5BC03D,16,"Chest pain, unspecified",R07.4,04/04/2025,ER,0.0,2.85
+F09639B29C11,47,"Acute myocardial infarction, unspecified",I21.9,05/04/2025,External,1.46,141.94
+F09639B29C11,47,"Acute myocardial infarction, unspecified",I21.9,05/04/2025,inp,1.46,141.94
+F012022BC1AC,103,"Acute myocardial infarction, unspecified",I21.9,05/04/2025,External,2.93,523.47
+F012022BC1AC,103,"Acute myocardial infarction, unspecified",I21.9,05/04/2025,inp,2.93,523.47
+F09639B29C11,47,"Acute myocardial infarction, unspecified",I21.9,05/04/2025,External,1.46,141.94
+F09639B29C11,47,"Acute myocardial infarction, unspecified",I21.9,05/04/2025,inp,1.46,141.94
+F012022BC1AC,103,"Acute myocardial infarction, unspecified",I21.9,05/04/2025,External,2.93,523.47
+F012022BC1AC,103,"Acute myocardial infarction, unspecified",I21.9,05/04/2025,inp,2.93,523.47
+65F5D1DDEFEE,86,"Chest pain, unspecified",R07.4,05/04/2025,ER,0.0,3.43
+075F591DFEF7,54,"Chest pain, unspecified",R07.4,05/04/2025,ER,7.45,2942.79
+70825F8D6792,48,"Chest pain, unspecified",R07.4,05/04/2025,ER,3.92,148.05
+839F7A70D1B3,64,"Chest pain, unspecified",R07.4,05/04/2025,ER,0.0,3.82
+7F4D4ADF42FD,60,"Chest pain, unspecified",R07.4,05/04/2025,ER,0.0,19.48
+7F4D4ADF42FD,60,"Chest pain, unspecified",R07.4,05/04/2025,inp,0.0,19.48
+75F9B5A85C0D,46,"Chest pain, unspecified",R07.4,05/04/2025,ER,0.0,2.5
+64D1BCD2E230,43,"Chest pain, unspecified",R07.4,05/04/2025,ER,0.0,2.5
+47BE2D9607CA,68,"Chest pain, unspecified",R07.4,05/04/2025,ER,0.0,108.27
+F09639B29C11,47,"Chest pain, unspecified",R07.4,05/04/2025,ER,1.46,141.94
+22818CFD8448,58,"Chest pain, unspecified",R07.4,05/04/2025,ER,0.0,4.75
+49EE3AFA0757,42,"Chest pain, unspecified",R07.4,05/04/2025,ER,0.0,3.91
+FADB3C2D1CB7,55,"Acute myocardial infarction, unspecified",I21.9,06/04/2025,External,5.88,420.11
+FADB3C2D1CB7,55,"Acute myocardial infarction, unspecified",I21.9,06/04/2025,inp,5.88,420.11
+FADB3C2D1CB7,55,"Acute myocardial infarction, unspecified",I21.9,06/04/2025,External,5.88,420.11
+FADB3C2D1CB7,55,"Acute myocardial infarction, unspecified",I21.9,06/04/2025,inp,5.88,420.11
+A6A0AD37C2D9,74,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.0,2.5
+24129C4FC704,50,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.0,2.5
+E09D7379BED4,60,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.0,3.68
+3131AEBCF2F3,20,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.0,20.24
+07C87EF04344,71,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.26,14
+C5376075064F,50,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.36,45.36
+CB8FBCC90DDE,65,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.0,12.48
+B1C02A1DB36E,76,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.23,5.25
+3E98F023A173,56,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.1,7.19
+22E2C2CEE7EF,50,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.27,3.03
+1B7B14B703C0,36,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.0,4.05
+54071DABEC84,53,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.0,41.39
+FADB3C2D1CB7,55,"Chest pain, unspecified",R07.4,06/04/2025,ER,5.88,420.11
+669CB7145C15,36,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.04,2.5
+051B0CC8E6BA,31,"Chest pain, unspecified",R07.4,06/04/2025,ER,0.0,2.5
+5EDFD904BF0A,88,"Acute myocardial infarction, unspecified",I46.9,07/04/2025,ER,20.62,
+45DC069023D9,47,"Chest pain, unspecified",R07.4,08/04/2025,ER,0.0,3.1
+C858EEDEA967,70,"Chest pain, unspecified",R07.4,09/04/2025,ER,19.11,5857.85
+C858EEDEA967,70,"Chest pain, unspecified",R07.4,09/04/2025,External,19.11,5857.85
+C858EEDEA967,70,"Chest pain, unspecified",R07.4,09/04/2025,inp,19.11,5857.85
+CC04DD0A7716,60,"Chest pain, unspecified",R07.4,10/04/2025,ER,0.0,2.9
+E2822D8030E9,73,"Chest pain, unspecified",R07.4,10/04/2025,ER,0.0,8.02
+D5AE80891FA0,52,"Acute myocardial infarction, unspecified",I21.9,11/04/2025,External,1.62,
+D5AE80891FA0,52,"Acute myocardial infarction, unspecified",I21.9,11/04/2025,inp,1.62,
+D5AE80891FA0,52,"Acute myocardial infarction, unspecified",I21.9,11/04/2025,External,1.62,
+D5AE80891FA0,52,"Acute myocardial infarction, unspecified",I21.9,11/04/2025,inp,1.62,
+D5AE80891FA0,52,"Chest pain, unspecified",R07.4,11/04/2025,ER,1.62,
+95F0D9547B8A,45,"Chest pain, unspecified",R07.4,15/04/2025,ER,0.0,2.5
+99EAAA3DF60B,55,"Chest pain, unspecified",R07.4,15/04/2025,ER,0.0,2.5
+D03E13B574DD,48,"Acute myocardial infarction, unspecified",I21.9,16/04/2025,ER,22.99,3114.64
+D03E13B574DD,48,"Acute myocardial infarction, unspecified",I21.9,16/04/2025,ER,22.99,3114.64
+8C1748720381,34,"Chest pain, unspecified",R07.4,16/04/2025,ER,0.0,3.45
+7D8B2EC27CD4,79,"Chest pain, unspecified",R07.4,16/04/2025,ER,0.4,9.22
+26BDAA39FB14,59,"Chest pain, unspecified",R07.4,16/04/2025,ER,0.19,19.72
+A51C663CBF17,42,"Chest pain, unspecified",R07.4,16/04/2025,ER,0.0,2.5
+6C3F28FD9507,55,"Chest pain, unspecified",R07.4,16/04/2025,ER,0.39,3.99
+A73E0CBAAB33,77,"Chest pain, unspecified",R07.4,16/04/2025,ER,8.12,4949.64
+B75906EBF120,53,"Chest pain, unspecified",R07.4,16/04/2025,ER,0.0,2.69
+AC9EB167B438,18,"Chest pain, unspecified",R07.4,16/04/2025,ER,0.0,2.5
+AFF5C69308C5,47,"Chest pain, unspecified",R07.4,16/04/2025,ER,0.84,8.25
+CA47547621F2,68,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.7,20.11
+5642C31F9C95,42,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.0,2.5
+3138A7DC7AAF,59,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.0,3.94
+53206BF744F0,80,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.18,11.8
+DCAEC3367299,72,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.0,16.99
+B6D5FA9663AA,62,"Chest pain, unspecified",R07.4,17/04/2025,ER,1.18,1016.8
+CEE8A045E393,55,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.82,9.75
+B5B0F3179C82,47,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.0,3.1
+BB31C9F0E8BC,46,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.0,9.57
+23B24B85F74C,50,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.0,11.68
+45DAA0621963,26,"Chest pain, unspecified",R07.4,17/04/2025,ER,1.31,2.5
+3C0AB1A757FD,21,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.0,2.5
+5731F0CDAC4A,48,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.2,7.03
+2ABF4E702BD5,63,"Chest pain, unspecified",R07.4,17/04/2025,ER,1.05,82.63
+2ABF4E702BD5,63,"Chest pain, unspecified",R07.4,17/04/2025,External,1.05,82.63
+2ABF4E702BD5,63,"Chest pain, unspecified",R07.4,17/04/2025,inp,1.05,82.63
+6CEC0AE4EBC2,15,"Chest pain, unspecified",R07.4,17/04/2025,ER,0.0,2.5
+9AA53E4A9BC8,68,"Acute myocardial infarction, unspecified",I21.9,18/04/2025,External,0.0,2.5
+9AA53E4A9BC8,68,"Acute myocardial infarction, unspecified",I21.9,18/04/2025,inp,0.0,2.5
+189F66395CC5,82,"Acute myocardial infarction, unspecified",I21.9,18/04/2025,External,7.29,6734.11
+189F66395CC5,82,"Acute myocardial infarction, unspecified",I21.9,18/04/2025,inp,7.29,6734.11
+84271B04BB3A,64,"Acute myocardial infarction, unspecified",I21.9,18/04/2025,External,1.53,13484.21
+84271B04BB3A,64,"Acute myocardial infarction, unspecified",I21.9,18/04/2025,inp,1.53,13484.21
+B41156CB8744,40,"Acute myocardial infarction, unspecified",I21.9,18/04/2025,External,17.03,1763.07
+B41156CB8744,40,"Acute myocardial infarction, unspecified",I21.9,18/04/2025,inp,17.03,1763.07
+FA502AE2F674,58,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.05,63.03
+78374EF213EE,40,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,2.5
+9AA53E4A9BC8,68,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,2.5
+D012FDB15815,42,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,2.5
+BB54A530FBF8,56,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,2.5
+F0B419033AAC,56,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.41,3.87
+84696F7A2E42,48,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,2.5
+8FC31329E868,44,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,9.35
+DF376FCD0954,36,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,4.45
+D24037580DFC,41,"Chest pain, unspecified",R07.4,18/04/2025,ER,2.07,12.61
+7AC50EFFB52D,56,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,4.32
+6A8A039A095F,69,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,21.63
+D9B7CDFF1073,72,"Chest pain, unspecified",R07.4,18/04/2025,ER,2.9,4.42
+B41156CB8744,40,"Chest pain, unspecified",R07.4,18/04/2025,ER,17.03,1763.07
+04EBCD6D5E23,30,"Chest pain, unspecified",R07.4,18/04/2025,ER,0.0,2.5
+302F51DFCB15,46,"Acute myocardial infarction, unspecified",I21.9,19/04/2025,ER,23.94,25000.00
+1BA13580C04E,41,"Acute myocardial infarction, unspecified",I21.9,19/04/2025,ER,27.55,14182.2
+4BC541E855BA,67,"Acute myocardial infarction, unspecified",I21.9,19/04/2025,ER,0.82,823.46
+79D34B7B71FC,52,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,2.5
+4A145BB2051F,23,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,2.5
+2A6C3D9DF288,54,"Chest pain, unspecified",R07.4,19/04/2025,ER,1.23,2.5
+2DF053BA177D,56,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,4.85
+5274AC38B90B,64,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.13,2.86
+E93059676830,58,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,7.81
+66502631D6B2,55,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,2.5
+BCCF36DB2161,16,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,2.5
+D5791B9F0CF4,46,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,2.5
+B50EA07C8917,51,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,64.07
+27CD35A6497C,72,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,4.55
+4BC541E855BA,67,"Chest pain, unspecified",R07.4,19/04/2025,inp,0.82,823.46
+792007AD1682,46,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,2.5
+DA40CDF97008,39,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.0,2.5
+6B71980D21D8,56,"Chest pain, unspecified",R07.4,19/04/2025,ER,0.05,5.65
+D38BD37B3B64,44,"Acute myocardial infarction, unspecified",I21.9,20/04/2025,External,7.51,4701.13
+D38BD37B3B64,44,"Acute myocardial infarction, unspecified",I21.9,20/04/2025,inp,7.51,4701.13
+97AAB3081B0A,65,"Chest pain, unspecified",R07.4,20/04/2025,ER,1.42,7.13
+118B830777F5,77,"Chest pain, unspecified",R07.4,20/04/2025,ER,0.07,12.03
+759FFA86D89C,64,"Chest pain, unspecified",R07.4,20/04/2025,ER,0.53,2.5
+B6D5FA9663AA,62,"Chest pain, unspecified",R07.4,20/04/2025,ER,0.99,110.57
+F2A2CE8D71D0,71,"Chest pain, unspecified",R07.4,20/04/2025,ER,0.0,5.58
+C1BF991004A5,51,"Chest pain, unspecified",R07.4,20/04/2025,ER,0.0,2.5
+66CC49708818,38,"Chest pain, unspecified",R07.4,20/04/2025,ER,0.0,2.5
+D38BD37B3B64,44,"Chest pain, unspecified",R07.4,20/04/2025,ER,7.51,4701.13
+80E388D0BC98,56,"Chest pain, unspecified",R07.4,20/04/2025,ER,96.87,25000.00
+C36112C05BE7,40,"Chest pain, unspecified",R07.4,20/04/2025,ER,0.0,2.5
+C121FE2E335F,58,"Chest pain, unspecified",R07.4,21/04/2025,ER,0.15,16.11
+73685CA2E315,71,"Chest pain, unspecified",R07.4,21/04/2025,ER,0.0,5.77
+702E28045F6B,60,"Chest pain, unspecified",R07.4,21/04/2025,ER,1.78,2.5
+65330BDC34E3,61,"Chest pain, unspecified",R07.4,21/04/2025,ER,0.0,2.5
+17902347F61C,60,"Chest pain, unspecified",R07.4,21/04/2025,ER,0.0,3.42
+E2822D8030E9,73,"Chest pain, unspecified",R07.4,21/04/2025,ER,0.29,7.85
+5850D48ADBE8,78,"Chest pain, unspecified",R07.4,21/04/2025,ER,0.0,3.77
+2052B98CD453,73,"Chest pain, unspecified",R07.4,21/04/2025,ER,0.24,387.45
+2052B98CD453,73,"Chest pain, unspecified",R07.4,21/04/2025,External,0.24,387.45
+2052B98CD453,73,"Chest pain, unspecified",R07.4,21/04/2025,inp,0.24,387.45
+75FE0CD99D53,32,"Chest pain, unspecified",R07.4,21/04/2025,ER,0.97,5.44
+5AC5381079E9,92,"Chest pain, unspecified",R07.4,22/04/2025,ER,0.52,9.6
+B7E6C4DAA5E9,42,"Chest pain, unspecified",R07.4,22/04/2025,ER,0.0,2.5
+8B8CAE5DCBF2,44,"Chest pain, unspecified",R07.4,22/04/2025,ER,1.87,2.5
+2A2AE06A6574,36,"Chest pain, unspecified",R07.4,22/04/2025,ER,0.0,2.5
+7AE75F313C56,51,"Chest pain, unspecified",R07.4,22/04/2025,ER,0.39,3.39
+E96B10AD3937,17,"Chest pain, unspecified",R07.4,22/04/2025,ER,0.0,2.5
